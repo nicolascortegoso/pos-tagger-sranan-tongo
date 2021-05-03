@@ -1,0 +1,1194 @@
+{
+  "a": [
+    "AT_sg",
+    "COP",
+    "PRN_3sg",
+    "LOC"
+  ],
+  "den": [
+    "AT_pl",
+    "PP$_3pl",
+    "PRN_3pl"
+  ],
+  "na": [
+    "FOC",
+    "COP",
+    "LOC"
+  ],
+  "wan": [
+    "AT_ind",
+    "RB",
+    "NUMB_cd",
+    "JJ",
+    "IN",
+    "AP"
+  ],
+  "dei": [
+    "RN"
+  ],
+  "esde": [
+    "RN"
+  ],
+  "esrede": [
+    "RN"
+  ],
+  "mun": [
+    "RN",
+    "NN"
+  ],
+  "tamara": [
+    "RN"
+  ],
+  "ten": [
+    "RN"
+  ],
+  "tide": [
+    "RN"
+  ],
+  "trayari": [
+    "RN"
+  ],
+  "wiki": [
+    "RN",
+    "VB_tran",
+    "NN"
+  ],
+  "yari": [
+    "RN",
+    "UH",
+    "NN"
+  ],
+  "yuru": [
+    "RN",
+    "VB_tran",
+    "NN"
+  ],
+  "bakadina": [
+    "RN"
+  ],
+  "brekten": [
+    "RN"
+  ],
+  "deiten": [
+    "RN"
+  ],
+  "mamanten": [
+    "RN",
+    "NN"
+  ],
+  "mindrineti": [
+    "RN"
+  ],
+  "mofoneti": [
+    "RN"
+  ],
+  "neti": [
+    "RN",
+    "NN"
+  ],
+  "dridewroko": [
+    "RN"
+  ],
+  "fodewroko": [
+    "RN"
+  ],
+  "freida": [
+    "RN"
+  ],
+  "munde": [
+    "RN"
+  ],
+  "musudei": [
+    "RN"
+  ],
+  "satra": [
+    "RN"
+  ],
+  "sonde": [
+    "RN"
+  ],
+  "tudewroko": [
+    "RN"
+  ],
+  "tide neti": [
+    "RN"
+  ],
+  "afen": [
+    "UH"
+  ],
+  "ai": [
+    "UH",
+    "NN"
+  ],
+  "ba": [
+    "UH",
+    "NN",
+    "NP_titel"
+  ],
+  "baya": [
+    "UH"
+  ],
+  "boi": [
+    "UH",
+    "NN"
+  ],
+  "dati": [
+    "UH",
+    "COMPL",
+    "DT_sg"
+  ],
+  "\u00e8'\u00e8n": [
+    "UH"
+  ],
+  "ei": [
+    "UH"
+  ],
+  "\u00e8i": [
+    "UH"
+  ],
+  "gowe": [
+    "UH"
+  ],
+  "ke": [
+    "UH"
+  ],
+  "kokodiako": [
+    "UH"
+  ],
+  "kuneti": [
+    "UH"
+  ],
+  "man": [
+    "UH",
+    "NN",
+    "MD"
+  ],
+  "morgu": [
+    "UH"
+  ],
+  "nafun": [
+    "UH"
+  ],
+  "no": [
+    "UH",
+    "NEG"
+  ],
+  "nono": [
+    "UH"
+  ],
+  "o": [
+    "UH",
+    "TAM_fut",
+    "WP"
+  ],
+  "odi": [
+    "UH"
+  ],
+  "san": [
+    "UH",
+    "REL_obj",
+    "WP"
+  ],
+  "tan": [
+    "UH",
+    "VB_tran"
+  ],
+  "tye": [
+    "UH"
+  ],
+  "tyubun": [
+    "UH"
+  ],
+  "urei": [
+    "UH"
+  ],
+  "wai": [
+    "UH",
+    "VB_tran"
+  ],
+  "we": [
+    "UH",
+    "CC_so"
+  ],
+  "woi": [
+    "UH"
+  ],
+  "wui": [
+    "UH"
+  ],
+  "yere": [
+    "UH",
+    "VB_tran",
+    "VB_fact"
+  ],
+  "y\u00e8r\u00e8": [
+    "UH"
+  ],
+  "yongu": [
+    "UH",
+    "NN",
+    "JJ"
+  ],
+  "tog": [
+    "UH_tag"
+  ],
+  "abra": [
+    "VB_tran",
+    "IN",
+    "INL"
+  ],
+  "anga": [
+    "VB_tran",
+    "CC_so",
+    "IN_inst"
+  ],
+  "baka": [
+    "VB_tran",
+    "NN",
+    "RB",
+    "NN_adv",
+    "INL"
+  ],
+  "furu": [
+    "VB_tran",
+    "AB"
+  ],
+  "gi": [
+    "VB_tran",
+    "IN_dat"
+  ],
+  "ipi": [
+    "VB_tran",
+    "NN",
+    "AB",
+    "PRN_ind"
+  ],
+  "leki": [
+    "VB_tran",
+    "NN",
+    "COMPL"
+  ],
+  "meki": [
+    "VB_tran",
+    "COMPL"
+  ],
+  "ondro": [
+    "VB_tran",
+    "NN_adv",
+    "INL"
+  ],
+  "pina": [
+    "VB_tran"
+  ],
+  "psa": [
+    "VB_tran",
+    "COMP"
+  ],
+  "sa": [
+    "VB_tran",
+    "NN",
+    "NP_titel",
+    "MD"
+  ],
+  "taki": [
+    "VB_tran",
+    "NN",
+    "VB_fact",
+    "COMPL"
+  ],
+  "tapu": [
+    "VB_tran",
+    "NN",
+    "NN_adv",
+    "INL"
+  ],
+  "wani": [
+    "VB_tran",
+    "NN",
+    "MD"
+  ],
+  "de": [
+    "EX"
+  ],
+  "en": [
+    "PP$_3sg",
+    "PRN_3sg",
+    "PRN_3sgemp"
+  ],
+  "mi": [
+    "PP$_1sg",
+    "PRN_1sg"
+  ],
+  "unu": [
+    "PP$_1+2pl",
+    "PRN_1+2pl"
+  ],
+  "wi": [
+    "PP$_1pl",
+    "PRN_1pl"
+  ],
+  "yu": [
+    "PP$_2sg",
+    "PRN_2sg"
+  ],
+  "i": [
+    "PP$_2sg",
+    "PRN_2sg"
+  ],
+  "y'": [
+    "PP$_2sg",
+    "PRN_2sg"
+  ],
+  "moro": [
+    "COMP",
+    "RB",
+    "AB"
+  ],
+  "pasa": [
+    "COMP"
+  ],
+  "ben": [
+    "TAM_past"
+  ],
+  "bo": [
+    "TAM_pot",
+    "NN"
+  ],
+  "e": [
+    "TAM_impf"
+  ],
+  "densrefi": [
+    "PPL_3pl"
+  ],
+  "ensrefi": [
+    "PPL_3sg"
+  ],
+  "misrefi": [
+    "PPL_1sg"
+  ],
+  "unsrefi": [
+    "PPL_1+2pl"
+  ],
+  "wisrefi": [
+    "PPL_1pl"
+  ],
+  "yusrefi": [
+    "PPL_2sg"
+  ],
+  "aksi": [
+    "NN",
+    "VB_fact"
+  ],
+  "boiti": [
+    "NN",
+    "CS_odd"
+  ],
+  "bribi": [
+    "NN",
+    "VB_fact"
+  ],
+  "dan": [
+    "NN",
+    "CC_so"
+  ],
+  "denki": [
+    "NN",
+    "VB_fact"
+  ],
+  "doro": [
+    "NN",
+    "RB",
+    "VB_mov"
+  ],
+  "ferstan": [
+    "NN",
+    "VB_fact"
+  ],
+  "fesi": [
+    "NN",
+    "INL"
+  ],
+  "frede": [
+    "NN",
+    "RB",
+    "VB_fact"
+  ],
+  "howpu": [
+    "NN",
+    "VB_fact"
+  ],
+  "kan": [
+    "NN",
+    "MD"
+  ],
+  "krei": [
+    "NN",
+    "VB_mov"
+  ],
+  "lobi": [
+    "NN",
+    "VB_fact"
+  ],
+  "ma": [
+    "NN",
+    "CC_or",
+    "NP_titel"
+  ],
+  "memre": [
+    "NN",
+    "VB_fact"
+  ],
+  "musu": [
+    "NN",
+    "MD"
+  ],
+  "noso": [
+    "NN",
+    "CC_or",
+    "CS_cont"
+  ],
+  "pe": [
+    "NN",
+    "REL_adv",
+    "WP"
+  ],
+  "prakseri": [
+    "NN",
+    "VB_fact"
+  ],
+  "pramisi": [
+    "NN",
+    "VB_fact"
+  ],
+  "sabi": [
+    "NN",
+    "VB_fact"
+  ],
+  "sari": [
+    "NN",
+    "RB",
+    "JJ",
+    "VB_fact",
+    "AB"
+  ],
+  "sensi": [
+    "NN",
+    "CS_time"
+  ],
+  "smeri": [
+    "NN",
+    "VB_fact"
+  ],
+  "sortu": [
+    "NN",
+    "WP"
+  ],
+  "te": [
+    "NN",
+    "IN",
+    "CS_time"
+  ],
+  "winsi": [
+    "NN",
+    "VB_fact",
+    "CS_expl"
+  ],
+  "fosi": [
+    "NUMB_od",
+    "CS_time"
+  ],
+  "di fu tu": [
+    "NUMB_od"
+  ],
+  "di fu dri": [
+    "NUMB_od"
+  ],
+  "di fu fo": [
+    "NUMB_od"
+  ],
+  "di fu feifi": [
+    "NUMB_od"
+  ],
+  "di fu siksi": [
+    "NUMB_od"
+  ],
+  "di fu seibi": [
+    "NUMB_od"
+  ],
+  "di fu aiti": [
+    "NUMB_od"
+  ],
+  "di fu neigi": [
+    "NUMB_od"
+  ],
+  "di fu tien": [
+    "NUMB_od"
+  ],
+  "di fu erfu": [
+    "NUMB_od"
+  ],
+  "di fu twarfu": [
+    "NUMB_od"
+  ],
+  "eerde": [
+    "NUMB_od"
+  ],
+  "tweede": [
+    "NUMB_od"
+  ],
+  "derde": [
+    "NUMB_od"
+  ],
+  "vierde": [
+    "NUMB_od"
+  ],
+  "fijfde": [
+    "NUMB_od"
+  ],
+  "zesde": [
+    "NUMB_od"
+  ],
+  "zevende": [
+    "NUMB_od"
+  ],
+  "achtste": [
+    "NUMB_od"
+  ],
+  "negende": [
+    "NUMB_od"
+  ],
+  "tiende": [
+    "NUMB_od"
+  ],
+  "elfde": [
+    "NUMB_od"
+  ],
+  "twaalfde": [
+    "NUMB_od"
+  ],
+  "dat'ede": [
+    "CC_so"
+  ],
+  "esko": [
+    "CC_so"
+  ],
+  "dat' meki": [
+    "CC_so"
+  ],
+  "so": [
+    "CC_so",
+    "RB"
+  ],
+  "sobun": [
+    "CC_so"
+  ],
+  "ne": [
+    "CC_so"
+  ],
+  "\u00e8n": [
+    "CC_and"
+  ],
+  "nanga": [
+    "CC_and",
+    "IN_inst"
+  ],
+  "toku": [
+    "CC_or",
+    "RB"
+  ],
+  "w\u00e8l": [
+    "CC_so"
+  ],
+  "dus": [
+    "CC_so"
+  ],
+  "dape": [
+    "RB"
+  ],
+  "drape": [
+    "RB"
+  ],
+  "dya": [
+    "RB"
+  ],
+  "dyaso": [
+    "RB"
+  ],
+  "nomo": [
+    "RB",
+    "CS_cont"
+  ],
+  "pikinso": [
+    "RB",
+    "JJ",
+    "AB"
+  ],
+  "di": [
+    "REL_subj",
+    "CS_time",
+    "CS_expl"
+  ],
+  "fa": [
+    "REL_adv",
+    "WP",
+    "CS_time",
+    "CS_expl"
+  ],
+  "sonwan": [
+    "REL_subj"
+  ],
+  "suma": [
+    "REL_subj",
+    "PRN_ind",
+    "WP"
+  ],
+  "didon": [
+    "VB_mov"
+  ],
+  "sidon": [
+    "VB_mov"
+  ],
+  "tnapu": [
+    "VB_mov"
+  ],
+  "lon": [
+    "VB_mov"
+  ],
+  "pusu": [
+    "VB_mov"
+  ],
+  "syobu": [
+    "VB_mov"
+  ],
+  "trusu": [
+    "VB_mov"
+  ],
+  "tya": [
+    "VB_mov"
+  ],
+  "tyari": [
+    "VB_mov"
+  ],
+  "waka": [
+    "VB_mov"
+  ],
+  "fadon": [
+    "VB_mov"
+  ],
+  "go": [
+    "VB_mov"
+  ],
+  "gwe": [
+    "VB_mov"
+  ],
+  "komopo": [
+    "VB_mov"
+  ],
+  "komoto": [
+    "VB_mov"
+  ],
+  "kon": [
+    "VB_mov"
+  ],
+  "hari": [
+    "VB_mov",
+    "JJ"
+  ],
+  "opo": [
+    "VB_mov"
+  ],
+  "puru": [
+    "VB_mov"
+  ],
+  "teki": [
+    "VB_mov"
+  ],
+  "trowe": [
+    "VB_mov"
+  ],
+  "kmopo": [
+    "VB_mov"
+  ],
+  "kmoto": [
+    "VB_mov"
+  ],
+  "aiti": [
+    "NUMB_cd"
+  ],
+  "aititenti": [
+    "NUMB_cd"
+  ],
+  "dri": [
+    "NUMB_cd"
+  ],
+  "dritenti": [
+    "NUMB_cd"
+  ],
+  "dusun": [
+    "NUMB_cd"
+  ],
+  "dusundusun": [
+    "NUMB_cd"
+  ],
+  "erfu": [
+    "NUMB_cd"
+  ],
+  "feifi": [
+    "NUMB_cd"
+  ],
+  "feifitenti": [
+    "NUMB_cd"
+  ],
+  "fo": [
+    "NUMB_cd"
+  ],
+  "fotenti": [
+    "NUMB_cd"
+  ],
+  "hondro": [
+    "NUMB_cd"
+  ],
+  "hondru": [
+    "NUMB_cd"
+  ],
+  "milyun": [
+    "NUMB_cd"
+  ],
+  "milyun-milyun": [
+    "NUMB_cd"
+  ],
+  "neigi": [
+    "NUMB_cd"
+  ],
+  "neigitenti": [
+    "NUMB_cd"
+  ],
+  "seibi": [
+    "NUMB_cd"
+  ],
+  "seibitenti": [
+    "NUMB_cd"
+  ],
+  "siksi": [
+    "NUMB_cd"
+  ],
+  "siksitenti": [
+    "NUMB_cd"
+  ],
+  "tin": [
+    "NUMB_cd"
+  ],
+  "tin-na-aiti": [
+    "NUMB_cd"
+  ],
+  "tin-na-dri": [
+    "NUMB_cd"
+  ],
+  "tin-na-feifi": [
+    "NUMB_cd"
+  ],
+  "tin-na-fo": [
+    "NUMB_cd"
+  ],
+  "tin-na-neigi": [
+    "NUMB_cd"
+  ],
+  "tin-na-seibi": [
+    "NUMB_cd"
+  ],
+  "tin-na-siksi": [
+    "NUMB_cd"
+  ],
+  "tu": [
+    "NUMB_cd"
+  ],
+  "tutenti": [
+    "NUMB_cd"
+  ],
+  "twarfu": [
+    "NUMB_cd"
+  ],
+  "twenti": [
+    "NUMB_cd"
+  ],
+  "sowan": [
+    "JJ",
+    "AB",
+    "PRN_ind"
+  ],
+  "srefi": [
+    "JJ",
+    "AP"
+  ],
+  "masra": [
+    "NP_titel"
+  ],
+  "oma": [
+    "NP_titel"
+  ],
+  "opa": [
+    "NP_titel"
+  ],
+  "pa": [
+    "NP_titel"
+  ],
+  "tata": [
+    "NP_titel"
+  ],
+  "taigi": [
+    "VB_fact"
+  ],
+  "gersi": [
+    "VB_fact"
+  ],
+  "si": [
+    "VB_fact"
+  ],
+  "fergiti": [
+    "VB_fact"
+  ],
+  "breiti": [
+    "VB_fact"
+  ],
+  "afu": [
+    "AB",
+    "PRN_ind"
+  ],
+  "ala": [
+    "AB_pre",
+    "PRN_ind"
+  ],
+  "enkri": [
+    "AB"
+  ],
+  "ibri": [
+    "AB"
+  ],
+  "iniwan": [
+    "AB",
+    "PRN_ind"
+  ],
+  "no wan": [
+    "AB",
+    "PRN_ind"
+  ],
+  "nofo": [
+    "AB"
+  ],
+  "noti": [
+    "AB",
+    "PRN_ind"
+  ],
+  "omeni": [
+    "AB"
+  ],
+  "someni": [
+    "AB",
+    "PRN_ind"
+  ],
+  "son": [
+    "AB",
+    "PRN_ind"
+  ],
+  "trawan": [
+    "AB",
+    "PRN_ind"
+  ],
+  "wantu": [
+    "AB",
+    "PRN_ind"
+  ],
+  "bun furu": [
+    "AB",
+    "PRN_ind"
+  ],
+  "wan lo": [
+    "AB"
+  ],
+  "wanwan": [
+    "AB",
+    "PRN_ind"
+  ],
+  "fu": [
+    "COMPL",
+    "OF",
+    "IN",
+    "INL"
+  ],
+  "neleki": [
+    "COMPL",
+    "CS_time"
+  ],
+  "soleki": [
+    "COMPL"
+  ],
+  "tak'": [
+    "COMPL"
+  ],
+  "leki fa": [
+    "COMPL"
+  ],
+  "abi fu": [
+    "MD"
+  ],
+  "mu": [
+    "MD"
+  ],
+  "mus": [
+    "MD"
+  ],
+  "mag": [
+    "MD"
+  ],
+  "not'noti": [
+    "PRN_ind"
+  ],
+  "ala tu": [
+    "PRN_ind"
+  ],
+  "notnoti": [
+    "PRN_ind"
+  ],
+  "disi": [
+    "DT_sg"
+  ],
+  "den disi": [
+    "DT_pl"
+  ],
+  "den dati": [
+    "DT_pl"
+  ],
+  "fu sanede": [
+    "WP"
+  ],
+  "o langa": [
+    "WP"
+  ],
+  "o lati": [
+    "WP"
+  ],
+  "san meki": [
+    "WP"
+  ],
+  "fu sanede meki": [
+    "WP"
+  ],
+  "ofa": [
+    "WP"
+  ],
+  "olanga": [
+    "WP"
+  ],
+  "olati": [
+    "WP"
+  ],
+  "omeni langa": [
+    "WP"
+  ],
+  "omeni langa kba": [
+    "WP"
+  ],
+  "ope": [
+    "WP"
+  ],
+  "oten": [
+    "WP"
+  ],
+  "sanede": [
+    "WP"
+  ],
+  "abrasei": [
+    "NN_adv"
+  ],
+  "bakasei": [
+    "NN_adv"
+  ],
+  "dat' sei": [
+    "NN_adv"
+  ],
+  "dis' sei": [
+    "NN_adv"
+  ],
+  "edesei": [
+    "NN_adv"
+  ],
+  "fes'sei": [
+    "NN_adv"
+  ],
+  "fotosei": [
+    "NN_adv"
+  ],
+  "frans'sei": [
+    "NN_adv"
+  ],
+  "futusei": [
+    "NN_adv"
+  ],
+  "ini": [
+    "NN_adv",
+    "INL"
+  ],
+  "inisei": [
+    "NN_adv"
+  ],
+  "kruktu-anu sei": [
+    "NN_adv"
+  ],
+  "kruktusei": [
+    "NN_adv"
+  ],
+  "tra leisi": [
+    "NN_adv"
+  ],
+  "leti-anu sei": [
+    "NN_adv"
+  ],
+  "letisei": [
+    "NN_adv"
+  ],
+  "let'sei": [
+    "NN_adv"
+  ],
+  "mindrisei": [
+    "NN_adv"
+  ],
+  "mofosei": [
+    "NN_adv"
+  ],
+  "noordsei": [
+    "NN_adv"
+  ],
+  "ondrosei": [
+    "NN_adv"
+  ],
+  "oostsei": [
+    "NN_adv"
+  ],
+  "seisei": [
+    "NN_adv"
+  ],
+  "swakisei": [
+    "NN_adv"
+  ],
+  "tap'sei": [
+    "NN_adv"
+  ],
+  "tapusei": [
+    "NN_adv"
+  ],
+  "watrasei": [
+    "NN_adv"
+  ],
+  "westsei": [
+    "NN_adv"
+  ],
+  "yana": [
+    "NN_adv"
+  ],
+  "yanasei": [
+    "NN_adv"
+  ],
+  "yanda": [
+    "NN_adv"
+  ],
+  "yandasei": [
+    "NN_adv"
+  ],
+  "zuidsei": [
+    "NN_adv"
+  ],
+  "mindri": [
+    "NN_adv",
+    "INL"
+  ],
+  "sei": [
+    "NN_adv"
+  ],
+  "in'": [
+    "INL"
+  ],
+  "abrasei fu": [
+    "INL"
+  ],
+  "uit": [
+    "INL"
+  ],
+  "alamala": [
+    "AP"
+  ],
+  "wawan": [
+    "AP"
+  ],
+  "ala dati": [
+    "CS_cont"
+  ],
+  "ala fa": [
+    "CS_cont"
+  ],
+  "aladi": [
+    "CS_cont"
+  ],
+  "alwasi": [
+    "CS_cont"
+  ],
+  "awansi": [
+    "CS_cont"
+  ],
+  "awinsi": [
+    "CS_cont"
+  ],
+  "awinsi fa": [
+    "CS_cont"
+  ],
+  "awinsi san": [
+    "CS_cont"
+  ],
+  "baka di": [
+    "CS_time"
+  ],
+  "bifo": [
+    "CS_time"
+  ],
+  "bifosi": [
+    "CS_time"
+  ],
+  "bika": [
+    "CS_expl"
+  ],
+  "efu noso": [
+    "CS_if"
+  ],
+  "fa a no fa": [
+    "CS_expl"
+  ],
+  "fu di": [
+    "CS_expl"
+  ],
+  "na di": [
+    "CS_expl"
+  ],
+  "prefu": [
+    "CS_odd"
+  ],
+  "solanga": [
+    "CS_if"
+  ],
+  "wanti": [
+    "CS_expl"
+  ],
+  "want": [
+    "CS_expl"
+  ],
+  "sodrai": [
+    "CS_time"
+  ],
+  "fudatede": [
+    "CS_cont"
+  ],
+  "wans'": [
+    "CS_cont"
+  ],
+  "wins'": [
+    "CS_cont"
+  ]
+}

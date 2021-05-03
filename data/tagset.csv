@@ -1,0 +1,74 @@
+AB,quantifier
+AB_pre,pre-quantifier
+AP,specifier
+AT_ind,indefinite article
+AT_sg,singular article
+AT_pl,plural article
+CC_and,coordinating conjunction
+CC_or,coordinating conjunction
+CC_so,coordinating conjunction
+CS_cont,subordinating conjunction
+CS_expl,subordinating conjunction
+CS_if,subordinating conjunction
+CS_odd,subordinating conjunction
+CS_time,subordinating conjunction
+COMP,comparative
+COMPL,complementizer
+COP,copula
+DT_sg,singular demonstrative pronoun
+DT_pl,plural demonstrative pronoun
+EX,existential
+FOC,focus marker
+IN,preposition
+INL,preposition of place
+IN_dat,dative preposition
+IN_inst,instrumental preposition
+JJ,attributive adjective
+LOC,locative preposition
+MD,modal
+NEG,negation
+NN,noun
+NN_adv,adverbial noun
+NP,proper name
+NP_name,proper name
+NP_titel,title
+NUMB_cd,cardinal number
+NUMB_od,ordinal number
+OF,of
+PRN_ind,indefinite pronoun
+PRN_1sg,singular first person pronoun
+PRN_2sg,singular second person pronoun
+PRN_3sg,singular third person pronoun
+PRN_3sgemp,emphatic singular third person pronoun
+PRN_1pl,plural first person pronoun
+PRN_1+2pl,plural first-second person pronoun
+PRN_3pl,plural third person pronoun
+PPL_1sg,singular first person reflexive pronoun
+PPL_2sg,singular second person reflexive pronoun
+PPL_3sg,singular third person reflexive pronoun
+PPL_1pl,plural first person reflexive pronoun
+PPL_1+2pl,plural 1+2 person reflexive pronoun
+PPL_3pl,plural third person reflexive pronoun
+PP$_1sg,singular first person possessive pronoun
+PP$_2sg,singular second person possessive pronoun
+PP$_3sg,singular third person possessive pronoun
+PP$_1pl,plural first person possessive pronoun
+PP$_1+2pl,plural 1+2 person possessive pronoun
+PP$_3pl,plural third person possessive pronoun
+RB,adverb
+RN,nominal adverb
+REL_adv,adverbial relative
+REL_subj,relative pronoun subjective form
+REL_obj,relative pronoun objective form
+TAM_fut,future marker
+TAM_impf,imperfective marker
+TAM_past,past marker
+TAM_pot,potential marker
+VB_intr,intransitive verb
+VB_tran,transitive verb
+VB_ditr,ditransitive verb
+VB_mov,verb of movement
+VB_fact,factive verb
+UH,interjection
+UH_tag,rhetorical question
+WP,interrogative word

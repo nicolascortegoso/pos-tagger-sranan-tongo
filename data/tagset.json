@@ -1,0 +1,372 @@
+{
+    "AB": [
+        "AB",
+        "AB",
+        "quantifier"
+    ],
+    "AB_pre": [
+        "AB",
+        "AB_pre",
+        "pre-quantifier"
+    ],
+    "AP": [
+        "AP",
+        "AP",
+        "specifier"
+    ],
+    "AT_ind": [
+        "AT",
+        "AT_ind",
+        "indefinite article"
+    ],
+    "AT_sg": [
+        "AT",
+        "AT_sg",
+        "singular article"
+    ],
+    "AT_pl": [
+        "AT",
+        "AT_pl",
+        "plural article"
+    ],
+    "CC_and": [
+        "CC",
+        "CC_and",
+        "coordinating conjunction"
+    ],
+    "CC_or": [
+        "CC",
+        "CC_or",
+        "coordinating conjunction"
+    ],
+    "CC_so": [
+        "CC",
+        "CC_so",
+        "coordinating conjunction"
+    ],
+    "CS_cont": [
+        "CS",
+        "CS_cont",
+        "subordinating conjunction"
+    ],
+    "CS_expl": [
+        "CS",
+        "CS_expl",
+        "subordinating conjunction"
+    ],
+    "CS_if": [
+        "CS",
+        "CS_if",
+        "subordinating conjunction"
+    ],
+    "CS_odd": [
+        "CS",
+        "CS_odd",
+        "subordinating conjunction"
+    ],
+    "CS_time": [
+        "CS",
+        "CS_time",
+        "subordinating conjunction"
+    ],
+    "COMP": [
+        "COMP",
+        "COMP",
+        "comparative"
+    ],
+    "COMPL": [
+        "COMPL",
+        "COMPL",
+        "complementizer"
+    ],
+    "COP": [
+        "COP",
+        "COP",
+        "copula"
+    ],
+    "DT_sg": [
+        "DT",
+        "DT_sg",
+        "singular demonstrative pronoun"
+    ],
+    "DT_pl": [
+        "DT",
+        "DT_pl",
+        "plural demonstrative pronoun"
+    ],
+    "EX": [
+        "EX",
+        "EX",
+        "existential"
+    ],
+    "FOC": [
+        "FOC",
+        "FOC",
+        "focus marker"
+    ],
+    "IN": [
+        "IN",
+        "IN",
+        "preposition"
+    ],
+    "INL": [
+        "INL",
+        "INL",
+        "preposition of place"
+    ],
+    "IN_dat": [
+        "IN",
+        "IN_dat",
+        "dative preposition"
+    ],
+    "IN_inst": [
+        "IN",
+        "IN_inst",
+        "instrumental preposition"
+    ],
+    "JJ": [
+        "JJ",
+        "JJ",
+        "attributive adjective"
+    ],
+    "LOC": [
+        "LOC",
+        "LOC",
+        "locative preposition"
+    ],
+    "MD": [
+        "MD",
+        "MD",
+        "modal"
+    ],
+    "NEG": [
+        "NEG",
+        "NEG",
+        "negation"
+    ],
+    "NN": [
+        "NN",
+        "NN",
+        "noun"
+    ],
+    "NN_adv": [
+        "NN",
+        "NN_adv",
+        "adverbial noun"
+    ],
+    "NP": [
+        "NP",
+        "NP",
+        "proper name"
+    ],
+    "NP_name": [
+        "NP",
+        "NP_name",
+        "proper name"
+    ],
+    "NP_titel": [
+        "NP",
+        "NP_titel",
+        "title"
+    ],
+    "NUMB_cd": [
+        "NUMB",
+        "NUMB_cd",
+        "cardinal number"
+    ],
+    "NUMB_od": [
+        "NUMB",
+        "NUMB_od",
+        "ordinal number"
+    ],
+    "OF": [
+        "OF",
+        "OF",
+        "of"
+    ],
+    "PRN_ind": [
+        "PRN",
+        "PRN_ind",
+        "indefinite pronoun"
+    ],
+    "PRN_1sg": [
+        "PRN",
+        "PRN_1sg",
+        "singular first person pronoun"
+    ],
+    "PRN_2sg": [
+        "PRN",
+        "PRN_2sg",
+        "singular second person pronoun"
+    ],
+    "PRN_3sg": [
+        "PRN",
+        "PRN_3sg",
+        "singular third person pronoun"
+    ],
+    "PRN_3sgemp": [
+        "PRN",
+        "PRN_3sgemp",
+        "emphatic singular third person pronoun"
+    ],
+    "PRN_1pl": [
+        "PRN",
+        "PRN_1pl",
+        "plural first person pronoun"
+    ],
+    "PRN_1+2pl": [
+        "PRN",
+        "PRN_1+2pl",
+        "plural first-second person pronoun"
+    ],
+    "PRN_3pl": [
+        "PRN",
+        "PRN_3pl",
+        "plural third person pronoun"
+    ],
+    "PPL_1sg": [
+        "PPL",
+        "PPL_1sg",
+        "singular first person reflexive pronoun"
+    ],
+    "PPL_2sg": [
+        "PPL",
+        "PPL_2sg",
+        "singular second person reflexive pronoun"
+    ],
+    "PPL_3sg": [
+        "PPL",
+        "PPL_3sg",
+        "singular third person reflexive pronoun"
+    ],
+    "PPL_1pl": [
+        "PPL",
+        "PPL_1pl",
+        "plural first person reflexive pronoun"
+    ],
+    "PPL_1+2pl": [
+        "PPL",
+        "PPL_1+2pl",
+        "plural 1+2 person reflexive pronoun"
+    ],
+    "PPL_3pl": [
+        "PPL",
+        "PPL_3pl",
+        "plural third person reflexive pronoun"
+    ],
+    "PP$_1sg": [
+        "PP$",
+        "PP$_1sg",
+        "singular first person possessive pronoun"
+    ],
+    "PP$_2sg": [
+        "PP$",
+        "PP$_2sg",
+        "singular second person possessive pronoun"
+    ],
+    "PP$_3sg": [
+        "PP$",
+        "PP$_3sg",
+        "singular third person possessive pronoun"
+    ],
+    "PP$_1pl": [
+        "PP$",
+        "PP$_1pl",
+        "plural first person possessive pronoun"
+    ],
+    "PP$_1+2pl": [
+        "PP$",
+        "PP$_1+2pl",
+        "plural 1+2 person possessive pronoun"
+    ],
+    "PP$_3pl": [
+        "PP$",
+        "PP$_3pl",
+        "plural third person possessive pronoun"
+    ],
+    "RB": [
+        "RB",
+        "RB",
+        "adverb"
+    ],
+    "RN": [
+        "RN",
+        "RN",
+        "nominal adverb"
+    ],
+    "REL_adv": [
+        "REL",
+        "REL_adv",
+        "adverbial relative"
+    ],
+    "REL_subj": [
+        "REL",
+        "REL_subj",
+        "relative pronoun subjective form"
+    ],
+    "REL_obj": [
+        "REL",
+        "REL_obj",
+        "relative pronoun objective form"
+    ],
+    "TAM_fut": [
+        "TAM",
+        "TAM_fut",
+        "future marker"
+    ],
+    "TAM_impf": [
+        "TAM",
+        "TAM_impf",
+        "imperfective marker"
+    ],
+    "TAM_past": [
+        "TAM",
+        "TAM_past",
+        "past marker"
+    ],
+    "TAM_pot": [
+        "TAM",
+        "TAM_pot",
+        "potential marker"
+    ],
+    "VB_intr": [
+        "VB",
+        "VB_intr",
+        "intransitive verb"
+    ],
+    "VB_tran": [
+        "VB",
+        "VB_tran",
+        "transitive verb"
+    ],
+    "VB_ditr": [
+        "VB",
+        "VB_ditr",
+        "ditransitive verb"
+    ],
+    "VB_mov": [
+        "VB",
+        "VB_mov",
+        "verb of movement"
+    ],
+    "VB_fact": [
+        "VB",
+        "VB_fact",
+        "factive verb"
+    ],
+    "UH": [
+        "UH",
+        "UH",
+        "interjection"
+    ],
+    "UH_tag": [
+        "UH",
+        "UH_tag",
+        "rhetorical question"
+    ],
+    "WP": [
+        "WP",
+        "WP",
+        "interrogative word"
+    ]
+}
