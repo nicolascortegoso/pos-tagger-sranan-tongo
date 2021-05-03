@@ -1,0 +1,2856 @@
+<sentence id="1">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 1</source>
+	<attribution></attribution>
+	<feature>Dataset 1. Subject-verb-object (SVO)</feature>
+	<text>A mama fon a pikin.</text>
+	<gloss>The mother beat the child.</gloss>
+	<tokens>
+		<token id="1" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="2" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="3" word="fon" en="transitive verb" type="VB" tag="VB_tran">fon</token>
+		<token id="4" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="5" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="6" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 6</source>
+	<attribution></attribution>
+	<feature>Dataset 2. Possessum-possessor</feature>
+	<text>a buba fu a tigri</text>
+	<gloss>the tiger’s pelt</gloss>
+	<tokens>
+		<token id="7" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="8" word="buba" en="noun" type="NN" tag="NN">buba</token>
+		<token id="9" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="10" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="11" word="tigri" en="noun" type="NN" tag="NN">tigri</token>
+		<token id="12" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 3</source>
+	<attribution></attribution>
+	<feature>Dataset 2. Possessor-possessum</feature>
+	<text>Charles oto</text>
+	<gloss>Charles' car</gloss>
+	<tokens>
+		<token id="13" word="Charles" en="proper name" type="NP" tag="NP_name">Charles</token>
+		<token id="14" word="oto" en="noun" type="NN" tag="NN">oto</token>
+		<token id="15" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 5</source>
+	<attribution></attribution>
+	<feature>Dataset 2. Possessor-possessum</feature>
+	<text>mi masra famiri oso</text>
+	<gloss>my husband’s family’s house</gloss>
+	<tokens>
+		<token id="16" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="17" word="masra" en="noun" type="NN" tag="NN">masra</token>
+		<token id="18" word="famiri" en="noun" type="NN" tag="NN">famiri</token>
+		<token id="19" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="20" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 9</source>
+	<attribution></attribution>
+	<feature>Dataset 3. Modifying adjective precedes noun</feature>
+	<text>soso dungru katun krosi</text>
+	<gloss>only dark cotton clothes</gloss>
+	<tokens>
+		<token id="21" word="soso" en="adverb" type="RB" tag="RB">soso</token>
+		<token id="22" word="dungru" en="attributive adjective" type="JJ" tag="JJ">dungru</token>
+		<token id="23" word="katun" en="attributive adjective" type="JJ" tag="JJ">katun</token>
+		<token id="24" word="krosi" en="noun" type="NN" tag="NN">krosi</token>
+		<token id="25" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Apics. Bruyn, Adrienne. 1996. On identifying instances of grammaticalization in creole languages. In Baker, Philip and Syea, Anand (eds.), Changing meanings, changing functions: Papers related to grammaticalization in contact languages, 29-46. London: University of Westminster Press.</source>
+	<attribution>Wilner 1992: 47</attribution>
+	<feature>Dataset 4. Prepositions</feature>
+	<text>Mi e go na mi mama oso.</text>
+	<gloss>I’m going to my mother’s house.</gloss>
+	<tokens>
+		<token id="26" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="27" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="28" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="29" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="30" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="31" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="32" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="33" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Apics. Bruyn, Adrienne. 1996. On identifying instances of grammaticalization in creole languages. In Baker, Philip and Syea, Anand (eds.), Changing meanings, changing functions: Papers related to grammaticalization in contact languages, 29-46. London: University of Westminster Press.</source>
+	<attribution>constructed by Don Winford</attribution>
+	<feature>Dataset 4. Prepositions</feature>
+	<text>A bedi de na a karma ini.</text>
+	<gloss>The bed is in the room</gloss>
+	<tokens>
+		<token id="34" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="35" word="bedi" en="noun" type="NN" tag="NN">bedi</token>
+		<token id="36" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="37" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="38" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="39" word="karma" en="noun" type="NN" tag="NN">karma</token>
+		<token id="40" word="ini" en="nominal adverb" type="RN" tag="RN">ini</token>
+		<token id="41" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Apics. Bruyn, Adrienne. 1996. On identifying instances of grammaticalization in creole languages. In Baker, Philip and Syea, Anand (eds.), Changing meanings, changing functions: Papers related to grammaticalization in contact languages, 29-46. London: University of Westminster Press. Example 11</source>
+	<attribution></attribution>
+	<feature>Dataset 4. Prepositions</feature>
+	<text>ini a yari fu 1492</text>
+	<gloss>in the year 1492</gloss>
+	<tokens>
+		<token id="42" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="43" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="44" word="yari" en="noun" type="NN" tag="NN">yari</token>
+		<token id="45" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="46" word="1492" en="cardinal number" type="NUMB" tag="NUMB_cd">1492</token>
+		<token id="47" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Apics. Bruyn, Adrienne. 1996. On identifying instances of grammaticalization in creole languages. In Baker, Philip and Syea, Anand (eds.), Changing meanings, changing functions: Papers related to grammaticalization in contact languages, 29-46. London: University of Westminster Press. Example 13</source>
+	<attribution></attribution>
+	<feature>Dataset 4. Prepositions</feature>
+	<text>Mi de na mi mama oso.</text>
+	<gloss>I’m at my mother’s house.</gloss>
+	<tokens>
+		<token id="48" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="49" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="50" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="51" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="52" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="53" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="54" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Apics. Bruyn, Adrienne. 1996. On identifying instances of grammaticalization in creole languages. In Baker, Philip and Syea, Anand (eds.), Changing meanings, changing functions: Papers related to grammaticalization in contact languages, 29-46. London: University of Westminster Press. Example 15</source>
+	<attribution></attribution>
+	<feature>Dataset 4. Prepositions</feature>
+	<text>A bedi de na ini a kamra.</text>
+	<gloss>The bed is in the room.</gloss>
+	<tokens>
+		<token id="55" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="56" word="bedi" en="noun" type="NN" tag="NN">bedi</token>
+		<token id="57" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="58" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="59" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="60" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="61" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="62" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 19</source>
+	<attribution></attribution>
+	<feature>Dataset 5. Demonstrative word follows noun</feature>
+	<text>den sani disi</text>
+	<gloss>these things</gloss>
+	<tokens>
+		<token id="63" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="64" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="65" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="66" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 20</source>
+	<attribution></attribution>
+	<feature>Dataset 6. Numeral precedes noun</feature>
+	<text>den seibi lowe srafu</text>
+	<gloss>the seven runaway slaves</gloss>
+	<tokens>
+		<token id="67" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="68" word="seibi" en="cardinal number" type="NUMB" tag="NUMB_cd">seibi</token>
+		<token id="69" word="lowe" en="attributive adjective" type="JJ" tag="JJ">lowe</token>
+		<token id="70" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="71" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 22</source>
+	<attribution></attribution>
+	<feature>Dataset 7. Relative clause follows noun</feature>
+	<text>a tori disi san mi e go taki</text>
+	<gloss>the story that I’m going to tell</gloss>
+	<tokens>
+		<token id="72" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="73" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="74" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="75" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="76" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="77" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="78" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="79" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="80" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 26</source>
+	<attribution></attribution>
+	<feature>Dataset 8. Degree word follows adjective</feature>
+	<text>A watra faya bun.</text>
+	<gloss>The water is very hot.</gloss>
+	<tokens>
+		<token id="81" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="82" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="83" word="faya" en="intransitive verb" type="VB" tag="VB_intr">faya</token>
+		<token id="84" word="bun" en="adverb" type="RB" tag="RB">bun</token>
+		<token id="85" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 23</source>
+	<attribution></attribution>
+	<feature>Dataset 8. Degree word precedes adjective</feature>
+	<text>John moro bigi.</text>
+	<gloss>John's bigger.</gloss>
+	<tokens>
+		<token id="86" word="John" en="proper name" type="NP" tag="NP_name">John</token>
+		<token id="87" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="88" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="89" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 28</source>
+	<attribution></attribution>
+	<feature>Dataset 8. Degree word precedes adjective</feature>
+	<text>A liba de tumsi bradi fu swen abra.</text>
+	<gloss>The river is too broad to swim across.</gloss>
+	<tokens>
+		<token id="90" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="91" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="92" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="93" word="tumsi" en="adverb" type="RB" tag="RB">tumsi</token>
+		<token id="94" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="95" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="96" word="swen" en="intransitive verb" type="VB" tag="VB_intr">swen</token>
+		<token id="97" word="abra" en="adverb" type="RB" tag="RB">abra</token>
+		<token id="98" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 30</source>
+	<attribution></attribution>
+	<feature>Dataset 8. Degree word precedes adjective</feature>
+	<text>John de moro bigi leki Peter.</text>
+	<gloss>John’s bigger than Peter.</gloss>
+	<tokens>
+		<token id="99" word="John" en="proper name" type="NP" tag="NP_name">John</token>
+		<token id="100" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="101" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="102" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="103" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="104" word="Peter" en="proper name" type="NP" tag="NP_name">Peter</token>
+		<token id="105" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 32</source>
+	<attribution></attribution>
+	<feature>Dataset 9. Definite article is preposed</feature>
+	<text>Den si den ingi.</text>
+	<gloss>They saw the Indians.</gloss>
+	<tokens>
+		<token id="106" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="107" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="108" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="109" word="ingi" en="noun" type="NN" tag="NN">ingi</token>
+		<token id="110" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 34</source>
+	<attribution></attribution>
+	<feature>Dataset 10. Indefinite article is preposed</feature>
+	<text>Dati a wan nengre leki den srefi.</text>
+	<gloss>That is a black man like themselves.</gloss>
+	<tokens>
+		<token id="111" word="Dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">Dati</token>
+		<token id="112" word="a" en="copula" type="COP" tag="COP">a</token>
+		<token id="113" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="114" word="nengre" en="noun" type="NN" tag="NN">nengre</token>
+		<token id="115" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="116" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="117" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="118" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 38</source>
+	<attribution></attribution>
+	<feature>Dataset 11. Adverb – verb – object</feature>
+	<text>Ala yuru a man disi e kon tanteri mi.</text>
+	<gloss>This man comes and bothers me all the time.</gloss>
+	<tokens>
+		<token id="119" word="Ala" en="pre-quantifier" type="AB" tag="AB_pre">Ala</token>
+		<token id="120" word="yuru" en="nominal adverb" type="RN" tag="RN">yuru</token>
+		<token id="121" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="122" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="123" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="124" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="125" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="126" word="tanteri" en="transitive verb" type="VB" tag="VB_tran">tanteri</token>
+		<token id="127" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="128" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 37</source>
+	<attribution></attribution>
+	<feature>Dataset 11. Verb – object – adverb</feature>
+	<text>Mi bari a pikin nofrotron fu no waka nanga den boi dati.</text>
+	<gloss>I warned the child often not to hang around with those boys.</gloss>
+	<tokens>
+		<token id="129" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="130" word="bari" en="transitive verb" type="VB" tag="VB_tran">bari</token>
+		<token id="131" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="132" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="133" word="nofrotron" en="adverb" type="RB" tag="RB">nofrotron</token>
+		<token id="134" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="135" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="136" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="137" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="138" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="139" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="140" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="141" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 40</source>
+	<attribution></attribution>
+	<feature>Dataset 12. Interrogative phrase initial</feature>
+	<text>Sanede yu du dati?</text>
+	<gloss>Why did you do that?</gloss>
+	<tokens>
+		<token id="142" word="Sanede" en="interrogative word" type="WP" tag="WP">Sanede</token>
+		<token id="143" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="144" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="145" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="146" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 42</source>
+	<attribution></attribution>
+	<feature>Dataset 13. No gender distinctions</feature>
+	<text>En na mi mati.</text>
+	<gloss>He/She is my friend.</gloss>
+	<tokens>
+		<token id="147" word="En" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">En</token>
+		<token id="148" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="149" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="150" word="mati" en="noun" type="NN" tag="NN">mati</token>
+		<token id="151" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Apics. Wilner, John. 1984. A sketch of Sranan Tongo. In Pet, Willem (ed.), Papers on Sranan Tongo, 8-123. Paramaribo: Instituut voor Taalwetenschap. Example 44</source>
+	<attribution></attribution>
+	<feature>Dataset 15. Inclusive and exclusive differentiated</feature>
+	<text>Wi e kon dalék.</text>
+	<gloss>We're coming right away.</gloss>
+	<tokens>
+		<token id="152" word="Wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">Wi</token>
+		<token id="153" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="154" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="155" word="dalék" en="adverb" type="RB" tag="RB">dalék</token>
+		<token id="156" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Apics. Wilner, John. 1984. A sketch of Sranan Tongo. In Pet, Willem (ed.), Papers on Sranan Tongo, 8-123. Paramaribo: Instituut voor Taalwetenschap. Example 45</source>
+	<attribution></attribution>
+	<feature>Dataset 15. Inclusive and exclusive differentiated</feature>
+	<text>Un prisiri sote!</text>
+	<gloss>We really enjoyed ourselves.</gloss>
+	<tokens>
+		<token id="157" word="Un" en="plural first person pronoun" type="PRN" tag="PRN_1pl">Un</token>
+		<token id="158" word="prisiri" en="intransitive verb" type="VB" tag="VB_intr">prisiri</token>
+		<token id="159" word="sote" en="adverb" type="RB" tag="RB">sote</token>
+		<token id="160" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="26">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 45</source>
+	<attribution></attribution>
+	<feature>Dataset 16. Syncretism between 1st and 2nd person</feature>
+	<text>Un prisiri sote!</text>
+	<gloss>We really enjoyed ourselves.</gloss>
+	<tokens>
+		<token id="161" word="Un" en="plural first person pronoun" type="PRN" tag="PRN_1pl">Un</token>
+		<token id="162" word="prisiri" en="intransitive verb" type="VB" tag="VB_intr">prisiri</token>
+		<token id="163" word="sote" en="adverb" type="RB" tag="RB">sote</token>
+		<token id="164" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="27">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 48</source>
+	<attribution></attribution>
+	<feature>Dataset 19. Interrogative pronouns: Two compound expressions</feature>
+	<text>Pe yu kmopo?</text>
+	<gloss>Where did you come from?</gloss>
+	<tokens>
+		<token id="165" word="Pe" en="interrogative word" type="WP" tag="WP">Pe</token>
+		<token id="166" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="167" word="kmopo" en="verb of movement" type="VB" tag="VB_mov">kmopo</token>
+		<token id="168" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="28">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 50</source>
+	<attribution></attribution>
+	<feature>Dataset 19. Interrogative pronouns: Two compound expressions</feature>
+	<text>Oten wi o drai go baka?</text>
+	<gloss>When will we return?</gloss>
+	<tokens>
+		<token id="169" word="Oten" en="interrogative word" type="WP" tag="WP">Oten</token>
+		<token id="170" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="171" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="172" word="drai" en="intransitive verb" type="VB" tag="VB_intr">drai</token>
+		<token id="173" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="174" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="175" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="29">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 52</source>
+	<attribution></attribution>
+	<feature>Dataset 20. Singular pronoun overtly conjoined with other conjunct</feature>
+	<text>Mi nanga Arnie e tan ini a srefi birti.</text>
+	<gloss>Arnie and I live in the same neighborhood.</gloss>
+	<tokens>
+		<token id="176" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="177" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="178" word="Arnie" en="proper name" type="NP" tag="NP_name">Arnie</token>
+		<token id="179" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="180" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="181" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="182" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="183" word="srefi" en="attributive adjective" type="JJ" tag="JJ">srefi</token>
+		<token id="184" word="birti" en="noun" type="NN" tag="NN">birti</token>
+		<token id="185" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="30">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 54</source>
+	<attribution></attribution>
+	<feature>Dataset 21. Generic-noun-based indefinites</feature>
+	<text>A gersi sani e dringi mi brudu.</text>
+	<gloss>It's like something is drinking my blood.</gloss>
+	<tokens>
+		<token id="186" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="187" word="gersi" en="factive verb" type="VB" tag="VB_fact">gersi</token>
+		<token id="188" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="189" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="190" word="dringi" en="transitive verb" type="VB" tag="VB_tran">dringi</token>
+		<token id="191" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="192" word="brudu" en="noun" type="NN" tag="NN">brudu</token>
+		<token id="193" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="31">
+	<source>Apics. Bruyn, Adrienne. 2002. The structure of the Surinamese Creoles. In Carlin, Eithne B. and Arends, Jacques (eds.), Atlas of the Languages of Suriname, 153-182. Leiden: KITLV Press. Example 56</source>
+	<attribution></attribution>
+	<feature>Dataset 22. Variable plural marking of human or inanimate nouns</feature>
+	<text>den uma</text>
+	<gloss>the women</gloss>
+	<tokens>
+		<token id="194" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="195" word="uma" en="noun" type="NN" tag="NN">uma</token>
+		<token id="196" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="32">
+	<source>Apics. Bruyn, Adrienne. 2002. The structure of the Surinamese Creoles. In Carlin, Eithne B. and Arends, Jacques (eds.), Atlas of the Languages of Suriname, 153-182. Leiden: KITLV Press. Example 55</source>
+	<attribution></attribution>
+	<feature>Dataset 25. Identity between nominal plural marker and third-person-plural pronoun</feature>
+	<text>den oso</text>
+	<gloss>the houses</gloss>
+	<tokens>
+		<token id="197" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="198" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="199" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="33">
+	<source>Apics. Smith, Norval S.H. 2003. New Evidence from the Past: To Epenthesize or Not to Epenthesize? That is the tags['question']. In Plag, Ingo (ed.), Phonology and Morphology of Creole Languages, 91-107. Tübingen: Niemeyer. Braun, Maria. 2009. Word-formation and creolisation. The Case of Early Sranan. Tübingen: Niemeyer. Example 58</source>
+	<attribution></attribution>
+	<feature>Dataset 26. Functions of reduplication: attenuating and word-class-changing function</feature>
+	<text>Norfu e férfi-férfi.</text>
+	<gloss>Norval is painting a bit.</gloss>
+	<tokens>
+		<token id="200" word="Norfu" en="proper name" type="NP" tag="NP_name">Norfu</token>
+		<token id="201" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="202" word="férfi-férfi" en="intransitive verb" type="VB" tag="VB_intr">férfi-férfi</token>
+		<token id="203" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="34">
+	<source>Apics. Smith, Norval S.H. 2003. New Evidence from the Past: To Epenthesize or Not to Epenthesize? That is the tags['question']. In Plag, Ingo (ed.), Phonology and Morphology of Creole Languages, 91-107. Tübingen: Niemeyer. Braun, Maria. 2009. Word-formation and creolisation. The Case of Early Sranan. Tübingen: Niemeyer. Example 60</source>
+	<attribution></attribution>
+	<feature>Dataset 26. Functions of reduplication: attenuating and word-class-changing function</feature>
+	<text>a oso férfi-ferfi</text>
+	<gloss>The house was/has been painted several times.</gloss>
+	<tokens>
+		<token id="204" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="205" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="206" word="férfi-férfi" en="intransitive verb" type="VB" tag="VB_intr">férfi-férfi</token>
+		<token id="207" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="35">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 62</source>
+	<attribution></attribution>
+	<feature>Dataset 28. Definite article distinct from demonstratives</feature>
+	<text>Den ten disi a son e faya.</text>
+	<gloss>These days the sun is hot.</gloss>
+	<tokens>
+		<token id="208" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="209" word="ten" en="noun" type="NN" tag="NN">ten</token>
+		<token id="210" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="211" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="212" word="son" en="singular third person pronoun" type="PRN" tag="PRN_3sg">son</token>
+		<token id="213" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="214" word="faya" en="intransitive verb" type="VB" tag="VB_intr">faya</token>
+		<token id="215" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="36">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 64</source>
+	<attribution></attribution>
+	<feature>Dataset 29. Indefinite article identical to numeral 'one'</feature>
+	<text>Wan ben tron datra srefi.</text>
+	<gloss>One even became a doctor.</gloss>
+	<tokens>
+		<token id="216" word="Wan" en="quantifier" type="AB" tag="AB">Wan</token>
+		<token id="217" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="218" word="tron" en="transitive verb" type="VB" tag="VB_tran">tron</token>
+		<token id="219" word="datra" en="noun" type="NN" tag="NN">datra</token>
+		<token id="220" word="srefi" en="adverb" type="RB" tag="RB">srefi</token>
+		<token id="221" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="37">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 66</source>
+	<attribution></attribution>
+	<feature>Dataset 29. Indefinite article identical to numeral 'one'</feature>
+	<text>Dus no wan, no wan fu unu ben man bai a unusrefi.</text>
+	<gloss>So none of us could buy from each other.</gloss>
+	<tokens>
+		<token id="222" word="Dus" en="coordinating conjunction" type="CC" tag="CC_so">Dus</token>
+		<token id="223" word="no wan" en="indefinite pronoun" type="PRN" tag="PRN_ind">no wan</token>
+		<token id="224" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="225" word="no wan" en="indefinite pronoun" type="PRN" tag="PRN_ind">no wan</token>
+		<token id="226" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="227" word="unu" en="singular first person pronoun" type="PRN" tag="PRN_1sg">unu</token>
+		<token id="228" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="229" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="230" word="bai" en="transitive verb" type="VB" tag="VB_tran">bai</token>
+		<token id="231" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="232" word="unusrefi" en="plural first person reflexive pronoun" type="PPL" tag="PPL_1pl">unusrefi</token>
+		<token id="233" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="38">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 68</source>
+	<attribution></attribution>
+	<feature>Dataset 30. Bare singular noun phrase in languages with definite article</feature>
+	<text>Fowru e singi, dagu e bari.</text>
+	<gloss>Birds sing, dogs bark</gloss>
+	<tokens>
+		<token id="234" word="Fowru" en="noun" type="NN" tag="NN">Fowru</token>
+		<token id="235" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="236" word="singi" en="intransitive verb" type="VB" tag="VB_intr">singi</token>
+		<token id="237" word="dagu" en="noun" type="NN" tag="NN">dagu</token>
+		<token id="238" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="239" word="bari" en="intransitive verb" type="VB" tag="VB_intr">bari</token>
+		<token id="240" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="39">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 70</source>
+	<attribution></attribution>
+	<feature>Dataset 31. Co-occurrence of demonstrative and definite article</feature>
+	<text>A man disi sabi a tori.</text>
+	<gloss>This guy knows the story.</gloss>
+	<tokens>
+		<token id="241" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="242" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="243" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="244" word="sabi" en="transitive verb" type="VB" tag="VB_tran">sabi</token>
+		<token id="245" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="246" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="247" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="40">
+	<source>Apics. Winford transcripts. Example 71</source>
+	<attribution></attribution>
+	<feature>Dataset 32. Pronominal and adnominal demonstratives: same forms</feature>
+	<text>Disi a fu un bori.</text>
+	<gloss>This is for us to cook.</gloss>
+	<tokens>
+		<token id="248" word="Disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">Disi</token>
+		<token id="249" word="a" en="copula" type="COP" tag="COP">a</token>
+		<token id="250" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="251" word="un" en="plural first person pronoun" type="PRN" tag="PRN_1pl">un</token>
+		<token id="252" word="bori" en="intransitive verb" type="VB" tag="VB_intr">bori</token>
+		<token id="253" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="41">
+	<source>Apics. Winford transcripts. Example 73</source>
+	<attribution></attribution>
+	<feature>Dataset 32. Pronominal and adnominal demonstratives: same forms</feature>
+	<text>Mi begi, yu no kan fergiti dati tog.</text>
+	<gloss>I prayed, you can’t forget that, right.</gloss>
+	<tokens>
+		<token id="254" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="255" word="begi" en="intransitive verb" type="VB" tag="VB_intr">begi</token>
+		<token id="256" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="257" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="258" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="259" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="260" word="fergiti" en="transitive verb" type="VB" tag="VB_tran">fergiti</token>
+		<token id="261" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="262" word="tog" en="rhetorical question" type="UH" tag="UH_tag">tog</token>
+		<token id="263" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="42">
+	<source>Apics. Winford transcripts. Example 75</source>
+	<attribution></attribution>
+	<feature>Dataset 33. Distance contrasts in demonstratives: two-way contrast</feature>
+	<text>a man dati</text>
+	<gloss>than man</gloss>
+	<tokens>
+		<token id="264" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="265" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="266" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="267" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="43">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 77</source>
+	<attribution></attribution>
+	<feature>Dataset 35. Ordinal numerals</feature>
+	<text>di fu tu</text>
+	<gloss>second</gloss>
+	<tokens>
+		<token id="268" word="di fu tu" en="ordinal number" type="NUMB" tag="NUMB_od">di fu tu</token>
+		<token id="269" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="44">
+	<source>Apics. Windford transcripts. Example 20</source>
+	<attribution></attribution>
+	<feature>Dataset 36. Sortal numeral classifiers: the language has no numeral classifiers</feature>
+	<text>den seibi lowe srafu</text>
+	<gloss>the seven runaway slaves</gloss>
+	<tokens>
+		<token id="270" word="den" en="singular article" type="AT" tag="AT_sg">den</token>
+		<token id="271" word="seibi" en="cardinal number" type="NUMB" tag="NUMB_cd">seibi</token>
+		<token id="272" word="lowe" en="attributive adjective" type="JJ" tag="JJ">lowe</token>
+		<token id="273" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="274" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="45">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 80</source>
+	<attribution></attribution>
+	<feature>Dataset 37. Marking of pronominal possessors: preceding word</feature>
+	<text>Mi futu no de so bigi.</text>
+	<gloss>My feet are not so big.</gloss>
+	<tokens>
+		<token id="275" word="Mi" en="plural first person possessive pronoun" type="PP$" tag="PP$_1pl">Mi</token>
+		<token id="276" word="futu" en="noun" type="NN" tag="NN">futu</token>
+		<token id="277" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="278" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="279" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="280" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="281" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="46">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 82</source>
+	<attribution></attribution>
+	<feature>Dataset 37. Marking of pronominal possessors: adpositional phrase following the possessum</feature>
+	<text>Dan a no man nanga a ouderwets sani fu en.</text>
+	<gloss>Then he can’t put up with her old-fashioned ways</gloss>
+	<tokens>
+		<token id="282" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="283" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="284" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="285" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="286" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="287" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="288" word="ouderwets" en="attributive adjective" type="JJ" tag="JJ">ouderwets</token>
+		<token id="289" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="290" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="291" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="292" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="47">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 84</source>
+	<attribution></attribution>
+	<feature>Dataset 37. Marking of pronominal possessors: adpositional phrase following the possessum</feature>
+	<text>den srafu fu den</text>
+	<gloss>their slaves</gloss>
+	<tokens>
+		<token id="293" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="294" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="295" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="296" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="297" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="48">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 85</source>
+	<attribution></attribution>
+	<feature>Dataset 38. Marking of possessor noun phrases: adpositional or case marking of possessor</feature>
+	<text>A plan fu a Masra e go doro.</text>
+	<gloss>The Lord’s plan continues.</gloss>
+	<tokens>
+		<token id="298" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="299" word="plan" en="noun" type="NN" tag="NN">plan</token>
+		<token id="300" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="301" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="302" word="Masra" en="noun" type="NN" tag="NN">Masra</token>
+		<token id="303" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="304" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="305" word="doro" en="intransitive verb" type="VB" tag="VB_intr">doro</token>
+		<token id="306" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="49">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 87</source>
+	<attribution></attribution>
+	<feature>Dataset 38. Marking of possessor noun phrases: no marking</feature>
+	<text>Den bigi suma taki yu kan kibri yu granmama bere.</text>
+	<gloss>The older folk say you can hide your grandmother’s belly.</gloss>
+	<tokens>
+		<token id="307" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="308" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="309" word="suma" en="noun" type="NN" tag="NN">suma</token>
+		<token id="310" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="311" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="312" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="313" word="kibri" en="transitive verb" type="VB" tag="VB_tran">kibri</token>
+		<token id="314" word="yu" en="singular second person possessive pronoun" type="PP$" tag="PP$_2sg">yu</token>
+		<token id="315" word="granmama" en="noun" type="NN" tag="NN">granmama</token>
+		<token id="316" word="bere" en="noun" type="NN" tag="NN">bere</token>
+		<token id="317" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="50">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 89</source>
+	<attribution></attribution>
+	<feature>Dataset 39. Identical to dependent pronominal possessor</feature>
+	<text>A buku disi na fu mi.</text>
+	<gloss>This book is mine.</gloss>
+	<tokens>
+		<token id="318" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="319" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="320" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="321" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="322" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="323" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="324" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="51">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 24</source>
+	<attribution></attribution>
+	<feature>Dataset 41. Comparative adjective marking: adjective is marked</feature>
+	<text>A oloisi disi moro diri.</text>
+	<gloss>This watch is more expensive.</gloss>
+	<tokens>
+		<token id="325" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="326" word="oloisi" en="noun" type="NN" tag="NN">oloisi</token>
+		<token id="327" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="328" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="329" word="diri" en="intransitive verb" type="VB" tag="VB_intr">diri</token>
+		<token id="330" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="52">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 92</source>
+	<attribution></attribution>
+	<feature>Dataset 41. Comparative adjective marking: adjective is not marked</feature>
+	<text>John bigi moro Peter.</text>
+	<gloss>John’s bigger than Peter.</gloss>
+	<tokens>
+		<token id="331" word="John" en="proper name" type="NP" tag="NP_name">John</token>
+		<token id="332" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="333" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="334" word="Peter" en="proper name" type="NP" tag="NP_name">Peter</token>
+		<token id="335" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="53">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 93</source>
+	<attribution></attribution>
+	<feature>Dataset 42. Comparative standard marking: secondary surpass marking</feature>
+	<text>Amba tranga pasa Kofi.</text>
+	<gloss>Amba is stronger than Kofi.</gloss>
+	<tokens>
+		<token id="336" word="Amba" en="proper name" type="NP" tag="NP_name">Amba</token>
+		<token id="337" word="tranga" en="intransitive verb" type="VB" tag="VB_intr">tranga</token>
+		<token id="338" word="pasa" en="comparative" type="COMP" tag="COMP">pasa</token>
+		<token id="339" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="340" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="54">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 95</source>
+	<attribution></attribution>
+	<feature>Dataset 42. Comparative standard marking: secondary surpass marking</feature>
+	<text>A oloisi disi moro diri moro a dati.</text>
+	<gloss>This watch is more expensive than that one.</gloss>
+	<tokens>
+		<token id="341" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="342" word="oloisi" en="noun" type="NN" tag="NN">oloisi</token>
+		<token id="343" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="344" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="345" word="diri" en="intransitive verb" type="VB" tag="VB_intr">diri</token>
+		<token id="346" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="347" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="348" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="349" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="55">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 97</source>
+	<attribution></attribution>
+	<feature>Dataset 43. Position of tense, aspect, and mood markers in relation to the verb: immediately preceding the verb</feature>
+	<text>Efu mi ben gudu, mi ben sa bai wan oto.</text>
+	<gloss>If I were rich, I would buy a car.</gloss>
+	<tokens>
+		<token id="350" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="351" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="352" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="353" word="gudu" en="intransitive verb" type="VB" tag="VB_intr">gudu</token>
+		<token id="354" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="355" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="356" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="357" word="sa" en="modal" type="MD" tag="MD">sa</token>
+		<token id="358" word="bai" en="ditransitive verb" type="VB" tag="VB_ditr">bai</token>
+		<token id="359" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="360" word="oto" en="noun" type="NN" tag="NN">oto</token>
+		<token id="361" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="56">
+	<source>Apics. Winford, Donald. 2002. Creoles in the context of contact linguistics. In Gilbert, Glenn (ed.), Pidgin and creole linguistics in the 21st century, 287-354. New York: Peter Lang. Example 99</source>
+	<attribution></attribution>
+	<feature>Dataset 44. Internal order of tense, aspect, and mood markers: Tense-Mood-Aspect</feature>
+	<text>Wel, dan granpa ben sa e gi den (owru tori) ma dati mi no miti.</text>
+	<gloss>Well, then granddad would have (habitually) told them, but I never experienced that.</gloss>
+	<tokens>
+		<token id="362" word="Wel" en="coordinating conjunction" type="CC" tag="CC_so">Wel</token>
+		<token id="363" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="364" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="365" word="granpa" en="noun" type="NN" tag="NN">granpa</token>
+		<token id="366" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="367" word="sa" en="modal" type="MD" tag="MD">sa</token>
+		<token id="368" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="369" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="370" word="den" en="singular third person pronoun" type="PRN" tag="PRN_3sg">den</token>
+		<token id="371" word="owru" en="attributive adjective" type="JJ" tag="JJ">owru</token>
+		<token id="372" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="373" word="ma" en="coordinating conjunction" type="CC" tag="CC_or">ma</token>
+		<token id="374" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="375" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="376" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="377" word="miti" en="transitive verb" type="VB" tag="VB_tran">miti</token>
+		<token id="378" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="57">
+	<source>Apics. Winford, Donald. 2002. Creoles in the context of contact linguistics. In Gilbert, Glenn (ed.), Pidgin and creole linguistics in the 21st century, 287-354. New York: Peter Lang. Example 101</source>
+	<attribution></attribution>
+	<feature>Dataset 44. Internal order of tense, aspect, and mood markers: Tense-Mood-Aspect</feature>
+	<text>A ben musu e taki nanga en m’ma.</text>
+	<gloss>She must have been talking to her mother.</gloss>
+	<tokens>
+		<token id="379" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="380" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="381" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="382" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="383" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="384" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="385" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="386" word="m’ma" en="noun" type="NN" tag="NN">m’ma</token>
+		<token id="387" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="58">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 104</source>
+	<attribution></attribution>
+	<feature>Dataset 46. Tightness of the link between the progressive marker and the verb: particle, nothing can intervene</feature>
+	<text>Dus suma pikin e musu meki muyti.</text>
+	<gloss>So the children must do their best.</gloss>
+	<tokens>
+		<token id="388" word="Dus" en="coordinating conjunction" type="CC" tag="CC_so">Dus</token>
+		<token id="389" word="suma" en="noun" type="NN" tag="NN">suma</token>
+		<token id="390" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="391" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="392" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="393" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="394" word="muyti" en="noun" type="NN" tag="NN">muyti</token>
+		<token id="395" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="59">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins.</source>
+	<attribution>Winford 2000a: 397</attribution>
+	<feature>Dataset 47. Uses of the progressive marker: progressive, habitual, and current state</feature>
+	<text>En efu a man dati wini en, a kondre e kon bun zeker.</text>
+	<gloss>And if that man wins it [the election], the country will surely improve.</gloss>
+	<tokens>
+		<token id="396" word="En" en="coordinating conjunction" type="CC" tag="CC_and">En</token>
+		<token id="397" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="398" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="399" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="400" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="401" word="wini" en="transitive verb" type="VB" tag="VB_tran">wini</token>
+		<token id="402" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="403" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="404" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="405" word="kondre" en="noun" type="NN" tag="NN">kondre</token>
+		<token id="406" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="407" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="408" word="bun" en="intransitive verb" type="VB" tag="VB_intr">bun</token>
+		<token id="409" word="zeker" en="adverb" type="RB" tag="RB">zeker</token>
+		<token id="410" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="60">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 106</source>
+	<attribution></attribution>
+	<feature>Dataset 47. Uses of the progressive marker: progressive, habitual, and current state</feature>
+	<text>Mi e sidon dya, mi e denki fu beroof wan bangi now de.</text>
+	<gloss>I’m sitting here thinking to rob a bank right now.</gloss>
+	<tokens>
+		<token id="411" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="412" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="413" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="414" word="dya" en="nominal adverb" type="RN" tag="RN">dya</token>
+		<token id="415" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="416" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="417" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="418" word="denki" en="factive verb" type="VB" tag="VB_fact">denki</token>
+		<token id="419" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="420" word="beroof" en="transitive verb" type="VB" tag="VB_tran">beroof</token>
+		<token id="421" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="422" word="bangi" en="noun" type="NN" tag="NN">bangi</token>
+		<token id="423" word="now de" en="adverb" type="RB" tag="RB">now de</token>
+		<token id="424" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="61">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 108</source>
+	<attribution></attribution>
+	<feature>Dataset 47. Uses of the progressive marker: progressive, habitual, and current state</feature>
+	<text>Yu no e sabi a wet so bun.</text>
+	<gloss>You don’t really know the law so well.</gloss>
+	<tokens>
+		<token id="425" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="426" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="427" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="428" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="429" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="430" word="wet" en="noun" type="NN" tag="NN">wet</token>
+		<token id="431" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="432" word="bun" en="adverb" type="RB" tag="RB">bun</token>
+		<token id="433" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="62">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 110</source>
+	<attribution></attribution>
+	<feature>Dataset 47. Uses of the progressive marker: progressive, habitual, and current state</feature>
+	<text>Den no e wani taki Sranan Tongo moro.</text>
+	<gloss>They don't want to speak Sranan Tongo anymore.</gloss>
+	<tokens>
+		<token id="434" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="435" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="436" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="437" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="438" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="439" word="Sranan" en="proper name" type="NP" tag="NP_name">Sranan</token>
+		<token id="440" word="Tongo" en="proper name" type="NP" tag="NP_name">Tongo</token>
+		<token id="441" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="442" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="63">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 9</source>
+	<attribution></attribution>
+	<feature>Dataset 48. Uses of the habitual marker: habitual, progressive, and current state</feature>
+	<text>soso dungru katun krosi</text>
+	<gloss>only dark cotton clothes</gloss>
+	<tokens>
+		<token id="443" word="soso" en="adverb" type="RB" tag="RB">soso</token>
+		<token id="444" word="dungru" en="attributive adjective" type="JJ" tag="JJ">dungru</token>
+		<token id="445" word="katun" en="attributive adjective" type="JJ" tag="JJ">katun</token>
+		<token id="446" word="krosi" en="noun" type="NN" tag="NN">krosi</token>
+		<token id="447" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="64">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 110</source>
+	<attribution></attribution>
+	<feature>Dataset 48. Uses of the habitual marker: habitual, progressive, and current state</feature>
+	<text>Den no e wani taki Sranan Tongo moro.</text>
+	<gloss>They don't want to speak Sranan Tongo anymore.</gloss>
+	<tokens>
+		<token id="448" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="449" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="450" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="451" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="452" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="453" word="Sranan" en="proper name" type="NP" tag="NP_name">Sranan</token>
+		<token id="454" word="Tongo" en="proper name" type="NP" tag="NP_name">Tongo</token>
+		<token id="455" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="456" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="65">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 116</source>
+	<attribution></attribution>
+	<feature>Dataset 48. Uses of the habitual marker: habitual, progressive, and current state</feature>
+	<text>A pikin e krin en kamra.</text>
+	<gloss>The child is cleaning her room.</gloss>
+	<tokens>
+		<token id="457" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="458" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="459" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="460" word="krin" en="transitive verb" type="VB" tag="VB_tran">krin</token>
+		<token id="461" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="462" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="463" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="66">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 118</source>
+	<attribution></attribution>
+	<feature>Dataset 48. Uses of the habitual marker: habitual, progressive, and current state</feature>
+	<text>Efu yu no wroko, dan you no o nyan, tog.</text>
+	<gloss>If you don’t work, then you won’t eat, right?</gloss>
+	<tokens>
+		<token id="464" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="465" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="466" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="467" word="wroko" en="intransitive verb" type="VB" tag="VB_intr">wroko</token>
+		<token id="468" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="469" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="470" word="you" en="singular second person pronoun" type="PRN" tag="PRN_2sg">you</token>
+		<token id="471" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="472" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="473" word="nyan" en="intransitive verb" type="VB" tag="VB_intr">nyan</token>
+		<token id="474" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="475" word="tog" en="rhetorical question" type="UH" tag="UH_tag">tog</token>
+		<token id="476" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="67">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 116</source>
+	<attribution></attribution>
+	<feature>Dataset 49. Mixed aspectual-temporal system</feature>
+	<text>A pikin e krin en kamra.</text>
+	<gloss>The child is cleaning her room.</gloss>
+	<tokens>
+		<token id="477" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="478" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="479" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="480" word="krin" en="transitive verb" type="VB" tag="VB_tran">krin</token>
+		<token id="481" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="482" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="483" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="68">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 114</source>
+	<attribution></attribution>
+	<feature>Dataset 49. Mixed aspectual-temporal system</feature>
+	<text>Di mi kon na oso esde a ben skrifi tu brifi kaba.</text>
+	<gloss>When I came to the house yesterday, he had already written two letters.</gloss>
+	<tokens>
+		<token id="484" word="Di" en="subordinating conjunction" type="CS" tag="CS_time">Di</token>
+		<token id="485" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="486" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="487" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="488" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="489" word="esde" en="nominal adverb" type="RN" tag="RN">esde</token>
+		<token id="490" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="491" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="492" word="skrifi" en="transitive verb" type="VB" tag="VB_tran">skrifi</token>
+		<token id="493" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="494" word="brifi" en="noun" type="NN" tag="NN">brifi</token>
+		<token id="495" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="496" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="69">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 117</source>
+	<attribution></attribution>
+	<feature>Dataset 50. Same TAM marking in negated clauses</feature>
+	<text>A man wani taki den kaw musu go pupe.</text>
+	<gloss>The man wanted the cows to relieve themselves.</gloss>
+	<tokens>
+		<token id="497" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="498" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="499" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="500" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="501" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="502" word="kaw" en="noun" type="NN" tag="NN">kaw</token>
+		<token id="503" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="504" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="505" word="pupe" en="intransitive verb" type="VB" tag="VB_intr">pupe</token>
+		<token id="506" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="70">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 119</source>
+	<attribution></attribution>
+	<feature>Dataset 50. Same TAM marking in negated clauses</feature>
+	<text>Ma yu no musu du den sani dati.</text>
+	<gloss>But you mustn’t do those things.</gloss>
+	<tokens>
+		<token id="507" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="508" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="509" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="510" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="511" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="512" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="513" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="514" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="515" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="71">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 121</source>
+	<attribution></attribution>
+	<feature>Dataset 51. Stative verbs with present reference and dynamic verbs with past perfective reference are both unmarked</feature>
+	<text>A pikin wani go sribi.</text>
+	<gloss>The child wants to go and sleep.</gloss>
+	<tokens>
+		<token id="516" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="517" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="518" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="519" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="520" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="521" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="72">
+	<source>Apics. Seuren, Pieter. 1981. Tense and aspect in Sranan. Linguistics 19. 1043-1076. Example 123</source>
+	<attribution></attribution>
+	<feature>Dataset 52. Inchoative expressed by progressive marker</feature>
+	<text>Safrisafri mi e sabi den pasi kba.</text>
+	<gloss>I’m slowly getting to know the roads.</gloss>
+	<tokens>
+		<token id="522" word="Safrisafri" en="adverb" type="RB" tag="RB">Safrisafri</token>
+		<token id="523" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="524" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="525" word="sabi" en="transitive verb" type="VB" tag="VB_tran">sabi</token>
+		<token id="526" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="527" word="pasi" en="noun" type="NN" tag="NN">pasi</token>
+		<token id="528" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="529" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="73">
+	<source>Apics. Seuren, Pieter. 1981. Tense and aspect in Sranan. Linguistics 19. 1043-1076. Example 125</source>
+	<attribution></attribution>
+	<feature>Dataset 52. Inchoative expressed by progressive marker</feature>
+	<text>A pikin e kon breiti.</text>
+	<gloss>The child is becoming happy.</gloss>
+	<tokens>
+		<token id="530" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="531" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="532" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="533" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="534" word="breiti" en="intransitive verb" type="VB" tag="VB_intr">breiti</token>
+		<token id="535" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="74">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302.</source>
+	<attribution>Winford 1997: 94</attribution>
+	<feature>Dataset 55. Ability verb also expresses epistemic possibility</feature>
+	<text>Kande Jan ben sribi kaba.</text>
+	<gloss>Perhaps John was already asleep.</gloss>
+	<tokens>
+		<token id="536" word="Kande" en="adverb" type="RB" tag="RB">Kande</token>
+		<token id="537" word="Jan" en="proper name" type="NP" tag="NP_name">Jan</token>
+		<token id="538" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="539" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="540" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="541" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="75">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 128</source>
+	<attribution></attribution>
+	<feature>Dataset 55. Ability verb also expresses epistemic possibility</feature>
+	<text>A kan de taki Jan ben sribi kaba.</text>
+	<gloss>It’s possible that John was already asleep.</gloss>
+	<tokens>
+		<token id="542" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="543" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="544" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="545" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="546" word="Jan" en="proper name" type="NP" tag="NP_name">Jan</token>
+		<token id="547" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="548" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="549" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="550" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="76">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 130</source>
+	<attribution></attribution>
+	<feature>Dataset 56. The prohibitive: normal imperative construction and normal negator</feature>
+	<text>No naki en!</text>
+	<gloss>Don’t hit it!</gloss>
+	<tokens>
+		<token id="551" word="No" en="negation" type="NEG" tag="NEG">No</token>
+		<token id="552" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="553" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="554" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="77">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 132</source>
+	<attribution></attribution>
+	<feature>Dataset 56. The prohibitive: normal imperative construction and normal negator</feature>
+	<text>A no e naki en.</text>
+	<gloss>He doesn’t hit it.</gloss>
+	<tokens>
+		<token id="555" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="556" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="557" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="558" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="559" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="560" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="78">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 134</source>
+	<attribution></attribution>
+	<feature>Dataset 57. No marking of patient NPs</feature>
+	<text>So den losi pom nanga kuku nanga ala den sortu sani.</text>
+	<gloss>That’s how they baked pom and cake and all that stuff.</gloss>
+	<tokens>
+		<token id="561" word="So" en="coordinating conjunction" type="CC" tag="CC_so">So</token>
+		<token id="562" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="563" word="losi" en="transitive verb" type="VB" tag="VB_tran">losi</token>
+		<token id="564" word="pom" en="noun" type="NN" tag="NN">pom</token>
+		<token id="565" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="566" word="kuku" en="noun" type="NN" tag="NN">kuku</token>
+		<token id="567" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="568" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="569" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="570" word="sortu" en="quantifier" type="AB" tag="AB">sortu</token>
+		<token id="571" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="572" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="79">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 135</source>
+	<attribution></attribution>
+	<feature>Dataset 57. No marking of patient NPs</feature>
+	<text>Den nyan unu sturu bij.</text>
+	<gloss>They even ate our chairs.</gloss>
+	<tokens>
+		<token id="573" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="574" word="nyan" en="transitive verb" type="VB" tag="VB_tran">nyan</token>
+		<token id="575" word="unu" en="plural first person possessive pronoun" type="PP$" tag="PP$_1pl">unu</token>
+		<token id="576" word="sturu" en="noun" type="NN" tag="NN">sturu</token>
+		<token id="577" word="bij" en="adverb" type="RB" tag="RB">bij</token>
+		<token id="578" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="80">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 137</source>
+	<attribution></attribution>
+	<feature>Dataset 58. Alignment of case marking of full noun phrases: neutral alignment</feature>
+	<text>Ma dan den meti no lon gwe?</text>
+	<gloss>But didn’t the geese run away?</gloss>
+	<tokens>
+		<token id="579" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="580" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="581" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="582" word="meti" en="noun" type="NN" tag="NN">meti</token>
+		<token id="583" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="584" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="585" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="586" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="81">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 139</source>
+	<attribution></attribution>
+	<feature>Dataset 59. Alignment of case marking of personal pronouns: accusative alignment</feature>
+	<text>Mi e teki en poti ini a pan.</text>
+	<gloss>I take it and put it in the pan.</gloss>
+	<tokens>
+		<token id="587" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="588" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="589" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="590" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="591" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="592" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="593" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="594" word="pan" en="noun" type="NN" tag="NN">pan</token>
+		<token id="595" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="82">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 141</source>
+	<attribution></attribution>
+	<feature>Dataset 59. Alignment of case marking of personal pronouns: accusative alignment</feature>
+	<text>En nanga trawan kon dya nanga wan bigi sipi.</text>
+	<gloss>He and others came here on a big ship.</gloss>
+	<tokens>
+		<token id="596" word="En" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">En</token>
+		<token id="597" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="598" word="trawan" en="indefinite pronoun" type="PRN" tag="PRN_ind">trawan</token>
+		<token id="599" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="600" word="dya" en="nominal adverb" type="RN" tag="RN">dya</token>
+		<token id="601" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="602" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="603" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="604" word="sipi" en="noun" type="NN" tag="NN">sipi</token>
+		<token id="605" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="83">
+	<source>Apics. Bruyn and Adrienne and Muysken, Pieter and Verrips, Maaike. 1999. Double-object constructions in the creole languages: development and acquisition. In DeGraff, Michel (ed.), Language creation and language change: Creolization, diachrony and development, 329-373. Cambridge, MA: MIT Press. Example 143</source>
+	<attribution></attribution>
+	<feature>Dataset 60. Ditransitive constructions with 'give': double-object construction</feature>
+	<text>Mi gi a san disi wan nen.</text>
+	<gloss>I gave this thing a name.</gloss>
+	<tokens>
+		<token id="606" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="607" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="608" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="609" word="san" en="noun" type="NN" tag="NN">san</token>
+		<token id="610" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="611" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="612" word="nen" en="noun" type="NN" tag="NN">nen</token>
+		<token id="613" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="84">
+	<source>Apics. Bruyn and Adrienne and Muysken, Pieter and Verrips, Maaike. 1999. Double-object constructions in the creole languages: development and acquisition. In DeGraff, Michel (ed.), Language creation and language change: Creolization, diachrony and development, 329-373. Cambridge, MA: MIT Press. Example 145</source>
+	<attribution></attribution>
+	<feature>Dataset 60. Ditransitive constructions with 'give': double-object construction</feature>
+	<text>Dus dan a mati o gi den suma fu en a tori.</text>
+	<gloss>So then the friend will tell his relatives the story.</gloss>
+	<tokens>
+		<token id="614" word="Dus" en="coordinating conjunction" type="CC" tag="CC_so">Dus</token>
+		<token id="615" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="616" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="617" word="mati" en="noun" type="NN" tag="NN">mati</token>
+		<token id="618" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="619" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="620" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="621" word="suma" en="noun" type="NN" tag="NN">suma</token>
+		<token id="622" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="623" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="624" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="625" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="626" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="85">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 147</source>
+	<attribution></attribution>
+	<feature>Dataset 61. Order of recipient and theme in ditransitive constructions: Subject – verb – recipient – theme</feature>
+	<text>Unu no kan gi den man a disi.</text>
+	<gloss>You can’t give them these.</gloss>
+	<tokens>
+		<token id="627" word="Unu" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">Unu</token>
+		<token id="628" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="629" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="630" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="631" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="632" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="633" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="634" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="635" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="86">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 41</source>
+	<attribution></attribution>
+	<feature>Dataset 62. Expression of pronominal subjects: Obligatory pronoun words</feature>
+	<text>A de bun.</text>
+	<gloss>He/She/It is good/well.</gloss>
+	<tokens>
+		<token id="636" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="637" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="638" word="bun" en="intransitive verb" type="VB" tag="VB_intr">bun</token>
+		<token id="639" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="87">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 150</source>
+	<attribution></attribution>
+	<feature>Dataset 62. Expression of pronominal subjects: Obligatory pronoun words</feature>
+	<text>Yu sii, unu de bezig bouw a stal drape moro bun.</text>
+	<gloss>You see, we’re busy making the stall there better.</gloss>
+	<tokens>
+		<token id="640" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="641" word="sii" en="intransitive verb" type="VB" tag="VB_intr">sii</token>
+		<token id="642" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="643" word="unu" en="plural first person pronoun" type="PRN" tag="PRN_1pl">unu</token>
+		<token id="644" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="645" word="bezig" en="attributive adjective" type="JJ" tag="JJ">bezig</token>
+		<token id="646" word="bouw" en="transitive verb" type="VB" tag="VB_tran">bouw</token>
+		<token id="647" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="648" word="stal" en="noun" type="NN" tag="NN">stal</token>
+		<token id="649" word="drape" en="nominal adverb" type="RN" tag="RN">drape</token>
+		<token id="650" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="651" word="bun" en="adverb" type="RB" tag="RB">bun</token>
+		<token id="652" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="88">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 152</source>
+	<attribution></attribution>
+	<feature>Dataset 63. Expletive subject in ‘seem’ constructions:  an expletive subject is used</feature>
+	<text>Mi taki dan a gersi leki mi dede kba.</text>
+	<gloss>I said, “Then it looks like I’m already dead.”</gloss>
+	<tokens>
+		<token id="653" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="654" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="655" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="656" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="657" word="gersi" en="factive verb" type="VB" tag="VB_fact">gersi</token>
+		<token id="658" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="659" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="660" word="dede" en="intransitive verb" type="VB" tag="VB_intr">dede</token>
+		<token id="661" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="662" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="89">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 155</source>
+	<attribution></attribution>
+	<feature>Dataset 65. Raining constructions: rain falls</feature>
+	<text>En sontron te unu kmopo a skoro alen e kon.</text>
+	<gloss>And sometimes when we came from school it rained.</gloss>
+	<tokens>
+		<token id="663" word="En" en="coordinating conjunction" type="CC" tag="CC_and">En</token>
+		<token id="664" word="sontron" en="adverb" type="RB" tag="RB">sontron</token>
+		<token id="665" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="666" word="unu" en="plural first person pronoun" type="PRN" tag="PRN_1pl">unu</token>
+		<token id="667" word="kmopo" en="verb of movement" type="VB" tag="VB_mov">kmopo</token>
+		<token id="668" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="669" word="skoro" en="noun" type="NN" tag="NN">skoro</token>
+		<token id="670" word="alen" en="noun" type="NN" tag="NN">alen</token>
+		<token id="671" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="672" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="673" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="90">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 157</source>
+	<attribution></attribution>
+	<feature>Dataset 65. Raining constructions: rain falls</feature>
+	<text>A alen wai pikinso.</text>
+	<gloss>The rain has blown away a little (i.e.: It’s not raining so hard anymore.)</gloss>
+	<tokens>
+		<token id="674" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="675" word="alen" en="noun" type="NN" tag="NN">alen</token>
+		<token id="676" word="wai" en="intransitive verb" type="VB" tag="VB_intr">wai</token>
+		<token id="677" word="pikinso" en="adverb" type="RB" tag="RB">pikinso</token>
+		<token id="678" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="91">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 159</source>
+	<attribution></attribution>
+	<feature>Dataset 66. Experiencer constructions with 'headache': body-part is subject</feature>
+	<text>Mi weri.</text>
+	<gloss>I’m tired.</gloss>
+	<tokens>
+		<token id="679" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="680" word="weri" en="intransitive verb" type="VB" tag="VB_intr">weri</token>
+		<token id="681" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="92">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 160</source>
+	<attribution></attribution>
+	<feature>Dataset 67. Experiencer constructions with 'like': experiencer is subject</feature>
+	<text>So ma dan mi bigin lobi a sani kba.</text>
+	<gloss>So, but then I began to like the thing.</gloss>
+	<tokens>
+		<token id="682" word="So" en="coordinating conjunction" type="CC" tag="CC_so">So</token>
+		<token id="683" word="ma" en="coordinating conjunction" type="CC" tag="CC_or">ma</token>
+		<token id="684" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="685" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="686" word="bigin" en="transitive verb" type="VB" tag="VB_tran">bigin</token>
+		<token id="687" word="lobi" en="transitive verb" type="VB" tag="VB_tran">lobi</token>
+		<token id="688" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="689" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="690" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="691" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="93">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 162</source>
+	<attribution></attribution>
+	<feature>Dataset 67. Experiencer constructions with 'like': experiencer is subject</feature>
+	<text>A frow lobi go a Holland.</text>
+	<gloss>His wife likes to go to the Netherlands.</gloss>
+	<tokens>
+		<token id="692" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="693" word="frow" en="noun" type="NN" tag="NN">frow</token>
+		<token id="694" word="lobi" en="transitive verb" type="VB" tag="VB_tran">lobi</token>
+		<token id="695" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="696" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="697" word="Holland" en="proper name" type="NP" tag="NP_name">Holland</token>
+		<token id="698" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="94">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 164</source>
+	<attribution></attribution>
+	<feature>Dataset 68. Experiencer is subject, 'fear' is verbal</feature>
+	<text>Wan leysi mi si wan weri ede sani ma mi no e frede, yere.</text>
+	<gloss>Once I saw something horrible, but I was not scared.</gloss>
+	<tokens>
+		<token id="699" word="Wan" en="cardinal number" type="NUMB" tag="NUMB_cd">Wan</token>
+		<token id="700" word="leysi" en="nominal adverb" type="RN" tag="RN">leysi</token>
+		<token id="701" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="702" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="703" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="704" word="weri" en="attributive adjective" type="JJ" tag="JJ">weri</token>
+		<token id="705" word="ede" en="noun" type="NN" tag="NN">ede</token>
+		<token id="706" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="707" word="ma" en="coordinating conjunction" type="CC" tag="CC_or">ma</token>
+		<token id="708" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="709" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="710" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="711" word="frede" en="intransitive verb" type="VB" tag="VB_intr">frede</token>
+		<token id="712" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="713" word="yere" en="interjection" type="UH" tag="UH">yere</token>
+		<token id="714" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="95">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 169</source>
+	<attribution></attribution>
+	<feature>Dataset 69. Instrumental expressions: serial verb</feature>
+	<text>Kofi teki a nefi koti a brede.</text>
+	<gloss>Kofi cut the bread with a knife.</gloss>
+	<tokens>
+		<token id="715" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="716" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="717" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="718" word="nefi" en="noun" type="NN" tag="NN">nefi</token>
+		<token id="719" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="720" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="721" word="brede" en="noun" type="NN" tag="NN">brede</token>
+		<token id="722" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="96">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 171</source>
+	<attribution></attribution>
+	<feature>Dataset 69. Instrumental expressions: serial verb</feature>
+	<text>Kande a taigi yu meki yu furu a heri bari nanga watra, dan yu abi fu go teki watra drape a mofo gotro, lai a bari.</text>
+	<gloss>Maybe she will tell you to fill the whole barrel with water, then you have to go take water from in front of the ditch and fill the barrel.</gloss>
+	<tokens>
+		<token id="723" word="Kande" en="adverb" type="RB" tag="RB">Kande</token>
+		<token id="724" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="725" word="taigi" en="factive verb" type="VB" tag="VB_fact">taigi</token>
+		<token id="726" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="727" word="meki" en="complementizer" type="COMPL" tag="COMPL">meki</token>
+		<token id="728" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="729" word="furu" en="transitive verb" type="VB" tag="VB_tran">furu</token>
+		<token id="730" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="731" word="heri" en="attributive adjective" type="JJ" tag="JJ">heri</token>
+		<token id="732" word="bari" en="noun" type="NN" tag="NN">bari</token>
+		<token id="733" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="734" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="735" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="736" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="737" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="738" word="abi fu" en="modal" type="MD" tag="MD">abi fu</token>
+		<token id="739" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="740" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="741" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="742" word="drape" en="nominal adverb" type="RN" tag="RN">drape</token>
+		<token id="743" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="744" word="mofo" en="noun" type="NN" tag="NN">mofo</token>
+		<token id="745" word="gotro" en="noun" type="NN" tag="NN">gotro</token>
+		<token id="746" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="747" word="lai" en="transitive verb" type="VB" tag="VB_tran">lai</token>
+		<token id="748" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="749" word="bari" en="noun" type="NN" tag="NN">bari</token>
+		<token id="750" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="97">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 167</source>
+	<attribution></attribution>
+	<feature>Dataset 69. Instrumental expressions: adposition</feature>
+	<text>Yu kan tapu en nanga wan planga.</text>
+	<gloss>You can close it with a plank.</gloss>
+	<tokens>
+		<token id="751" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="752" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="753" word="tapu" en="transitive verb" type="VB" tag="VB_tran">tapu</token>
+		<token id="754" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="755" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="756" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="757" word="planga" en="noun" type="NN" tag="NN">planga</token>
+		<token id="758" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="98">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 172</source>
+	<attribution></attribution>
+	<feature>Dataset 70. Comitatives and instrumentals: identity</feature>
+	<text>Dan fakansi ten dan wi e go nanga wan heri groep.</text>
+	<gloss>During the vacation we went with the entire group.</gloss>
+	<tokens>
+		<token id="759" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="760" word="fakansi" en="noun" type="NN" tag="NN">fakansi</token>
+		<token id="761" word="ten" en="noun" type="NN" tag="NN">ten</token>
+		<token id="762" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="763" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="764" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="765" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="766" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="767" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="768" word="heri" en="attributive adjective" type="JJ" tag="JJ">heri</token>
+		<token id="769" word="groep" en="noun" type="NN" tag="NN">groep</token>
+		<token id="770" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="99">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 174</source>
+	<attribution></attribution>
+	<feature>Dataset 70. Comitatives and instrumentals: identity</feature>
+	<text>Te mi ppa e wroko dan, den e gwe nanga en.</text>
+	<gloss>When my father went to work then they would go with him.</gloss>
+	<tokens>
+		<token id="771" word="Te" en="subordinating conjunction" type="CS" tag="CS_time">Te</token>
+		<token id="772" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="773" word="ppa" en="noun" type="NN" tag="NN">ppa</token>
+		<token id="774" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="775" word="wroko" en="intransitive verb" type="VB" tag="VB_intr">wroko</token>
+		<token id="776" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="777" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="778" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="779" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="780" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="781" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="782" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="783" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="100">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 176</source>
+	<attribution></attribution>
+	<feature>Dataset 70. Comitatives and instrumentals: identity</feature>
+	<text>Yu kan tapu en nanga wan planga.</text>
+	<gloss>You can close it with a plank.</gloss>
+	<tokens>
+		<token id="784" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="785" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="786" word="tapu" en="transitive verb" type="VB" tag="VB_tran">tapu</token>
+		<token id="787" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="788" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="789" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="790" word="planga" en="noun" type="NN" tag="NN">planga</token>
+		<token id="791" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="101">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 177</source>
+	<attribution></attribution>
+	<feature>Dataset 71. Noun phrase conjunction and comitative: identity</feature>
+	<text>So den losi pom nanga kuku nanga ala den sortu sani.</text>
+	<gloss>That’s how they baked pom and cake and all that stuff.</gloss>
+	<tokens>
+		<token id="792" word="So" en="coordinating conjunction" type="CC" tag="CC_so">So</token>
+		<token id="793" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="794" word="losi" en="transitive verb" type="VB" tag="VB_tran">losi</token>
+		<token id="795" word="pom" en="noun" type="NN" tag="NN">pom</token>
+		<token id="796" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="797" word="kuku" en="noun" type="NN" tag="NN">kuku</token>
+		<token id="798" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="799" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="800" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="801" word="sortu" en="quantifier" type="AB" tag="AB">sortu</token>
+		<token id="802" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="803" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="102">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 179</source>
+	<attribution></attribution>
+	<feature>Dataset 71. Noun phrase conjunction and comitative: identity</feature>
+	<text>Tyari a karaaf nanga wan kan gi mi.</text>
+	<gloss>Fetch the pitcher and a can for me.</gloss>
+	<tokens>
+		<token id="804" word="Tyari" en="transitive verb" type="VB" tag="VB_tran">Tyari</token>
+		<token id="805" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="806" word="karaaf" en="noun" type="NN" tag="NN">karaaf</token>
+		<token id="807" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="808" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="809" word="kan" en="noun" type="NN" tag="NN">kan</token>
+		<token id="810" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="811" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="812" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="103">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 181</source>
+	<attribution></attribution>
+	<feature>Dataset 72. Nominal and verbal conjunction: differentiation</feature>
+	<text>Boiki papa ben prani gruntu èn a ben kewki fowru nanga wan kaw.</text>
+	<gloss>Boiki’s father grew vegetables, and he raised chickens and a cow.</gloss>
+	<tokens>
+		<token id="813" word="Boiki" en="proper name" type="NP" tag="NP_name">Boiki</token>
+		<token id="814" word="papa" en="noun" type="NN" tag="NN">papa</token>
+		<token id="815" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="816" word="prani" en="transitive verb" type="VB" tag="VB_tran">prani</token>
+		<token id="817" word="gruntu" en="noun" type="NN" tag="NN">gruntu</token>
+		<token id="818" word="èn" en="coordinating conjunction" type="CC" tag="CC_and">èn</token>
+		<token id="819" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="820" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="821" word="kewki" en="transitive verb" type="VB" tag="VB_tran">kewki</token>
+		<token id="822" word="fowru" en="noun" type="NN" tag="NN">fowru</token>
+		<token id="823" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="824" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="825" word="kaw" en="noun" type="NN" tag="NN">kaw</token>
+		<token id="826" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="104">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 183</source>
+	<attribution></attribution>
+	<feature>Dataset 73. Predicative noun phrases: invariant copula</feature>
+	<text>Den tu man na skowtu.</text>
+	<gloss>The two men are policemen.</gloss>
+	<tokens>
+		<token id="827" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="828" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="829" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="830" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="831" word="skowtu" en="noun" type="NN" tag="NN">skowtu</token>
+		<token id="832" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="105">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 184</source>
+	<attribution></attribution>
+	<feature>Dataset 74. Predicative adjectives: variable copula</feature>
+	<text>A liba bradi.</text>
+	<gloss>The river is wide.</gloss>
+	<tokens>
+		<token id="833" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="834" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="835" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="836" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="106">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 186</source>
+	<attribution></attribution>
+	<feature>Dataset 74. Predicative adjectives: variable copula</feature>
+	<text>A bun</text>
+	<gloss>It's good/okay.</gloss>
+	<tokens>
+		<token id="837" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="838" word="bun" en="intransitive verb" type="VB" tag="VB_intr">bun</token>
+		<token id="839" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="107">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 188</source>
+	<attribution></attribution>
+	<feature>Dataset 74. Predicative adjectives: variable copula</feature>
+	<text>A agu dati de moi kaba.</text>
+	<gloss>That pig is already nice and fat.</gloss>
+	<tokens>
+		<token id="840" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="841" word="agu" en="noun" type="NN" tag="NN">agu</token>
+		<token id="842" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="843" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="844" word="moi" en="attributive adjective" type="JJ" tag="JJ">moi</token>
+		<token id="845" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="846" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="108">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 190</source>
+	<attribution></attribution>
+	<feature>Dataset 75. Predicative locative phrases: invariant copula</feature>
+	<text>A owru de baka a doro.</text>
+	<gloss>The machete is behind the door.</gloss>
+	<tokens>
+		<token id="847" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="848" word="owru" en="noun" type="NN" tag="NN">owru</token>
+		<token id="849" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="850" word="baka" en="preposition" type="IN" tag="IN">baka</token>
+		<token id="851" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="852" word="doro" en="noun" type="NN" tag="NN">doro</token>
+		<token id="853" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="109">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 182</source>
+	<attribution></attribution>
+	<feature>Dataset 76. Predicative noun phrases and predicative locative phrases: differentiation</feature>
+	<text>Den tu sma disi na Sranansma.</text>
+	<gloss>These two people are Surinamese.</gloss>
+	<tokens>
+		<token id="854" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="855" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="856" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="857" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="858" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="859" word="Sranansma" en="noun" type="NN" tag="NN">Sranansma</token>
+		<token id="860" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="110">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 189</source>
+	<attribution></attribution>
+	<feature>Dataset 76. Predicative noun phrases and predicative locative phrases: differentiation</feature>
+	<text>Den pikin ben de na skoro.</text>
+	<gloss>The children were at school.</gloss>
+	<tokens>
+		<token id="861" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="862" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="863" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="864" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="865" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="866" word="skoro" en="noun" type="NN" tag="NN">skoro</token>
+		<token id="867" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="111">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 192</source>
+	<attribution></attribution>
+	<feature>Dataset 76. Predicative noun phrases and predicative locative phrases: differentiation</feature>
+	<text>Mi prakseri a bai disi nanga a man dati musu de brada.</text>
+	<gloss>I think this boy and that man must be brothers.</gloss>
+	<tokens>
+		<token id="868" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="869" word="prakseri" en="factive verb" type="VB" tag="VB_fact">prakseri</token>
+		<token id="870" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="871" word="bai" en="noun" type="NN" tag="NN">bai</token>
+		<token id="872" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="873" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="874" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="875" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="876" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="877" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="878" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="879" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="880" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="112">
+	<source>Apics. Winford, Donald and Migge, Bettina. 2008. Surinamese Creole: Morphology and syntax. In Schneider, Edgar W. (ed.), Varieties of English, Vol. 2: The Americas and the Caribbean, 693-731. Berlin: Mouton de Gruyter. Example 194</source>
+	<attribution></attribution>
+	<feature>Dataset 76. Predicative noun phrases and predicative locative phrases: differentiation</feature>
+	<text>Ma Sjo srefi ben de datisey.</text>
+	<gloss>But Sjo himself was from that area.</gloss>
+	<tokens>
+		<token id="881" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="882" word="Sjo" en="proper name" type="NP" tag="NP_name">Sjo</token>
+		<token id="883" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="884" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="885" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="886" word="datisey" en="nominal adverb" type="RN" tag="RN">datisey</token>
+		<token id="887" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="113">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 196</source>
+	<attribution></attribution>
+	<feature>Dataset 77. Predicative possession: transitive</feature>
+	<text>Efu yu no abi flashlait efu munkendi, yu no e sii.</text>
+	<gloss>If you didn’t have a flashlight or moonlight, you couldn’t see.</gloss>
+	<tokens>
+		<token id="888" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="889" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="890" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="891" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="892" word="flashlait" en="noun" type="NN" tag="NN">flashlait</token>
+		<token id="893" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="894" word="munkendi" en="noun" type="NN" tag="NN">munkendi</token>
+		<token id="895" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="896" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="897" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="898" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="899" word="sii" en="intransitive verb" type="VB" tag="VB_intr">sii</token>
+		<token id="900" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="114">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 198</source>
+	<attribution></attribution>
+	<feature>Dataset 78. Existential verb and transitive possession verb: overlap</feature>
+	<text>Mi no abi a bribi dati.</text>
+	<gloss>I don’t believe so.</gloss>
+	<tokens>
+		<token id="901" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="902" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="903" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="904" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="905" word="bribi" en="noun" type="NN" tag="NN">bribi</token>
+		<token id="906" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="907" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="115">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 200</source>
+	<attribution></attribution>
+	<feature>Dataset 78. Existential verb and transitive possession verb: overlap</feature>
+	<text>Mi no abi televisi na oso.</text>
+	<gloss>I don’t have TV at home.</gloss>
+	<tokens>
+		<token id="908" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="909" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="910" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="911" word="televisi" en="noun" type="NN" tag="NN">televisi</token>
+		<token id="912" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="913" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="914" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="116">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 202</source>
+	<attribution></attribution>
+	<feature>Dataset 78. Existential verb and transitive possession verb: overlap</feature>
+	<text>Den abi wan singi e singi taki lespeki no de moro.</text>
+	<gloss>There’s a song that says that there’s no respect anymore.</gloss>
+	<tokens>
+		<token id="915" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="916" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="917" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="918" word="singi" en="noun" type="NN" tag="NN">singi</token>
+		<token id="919" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="920" word="singi" en="intransitive verb" type="VB" tag="VB_intr">singi</token>
+		<token id="921" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="922" word="lespeki" en="noun" type="NN" tag="NN">lespeki</token>
+		<token id="923" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="924" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="925" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="926" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="117">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 206</source>
+	<attribution></attribution>
+	<feature>Dataset 79. Going to named places: preposition</feature>
+	<text>Yu ben go nanga trein na Republiek.</text>
+	<gloss>You went by train to Republiek.</gloss>
+	<tokens>
+		<token id="927" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="928" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="929" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="930" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="931" word="trein" en="noun" type="NN" tag="NN">trein</token>
+		<token id="932" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="933" word="Republiek" en="proper name" type="NP" tag="NP_name">Republiek</token>
+		<token id="934" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="118">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 208</source>
+	<attribution></attribution>
+	<feature>Dataset 79. Going to named places: preposition</feature>
+	<text>En a man taki te a man go a Holland dan a man o seni wan sani gi mi.</text>
+	<gloss>And the man said that when he went to Holland he would send something for me.</gloss>
+	<tokens>
+		<token id="935" word="En" en="coordinating conjunction" type="CC" tag="CC_and">En</token>
+		<token id="936" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="937" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="938" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="939" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="940" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="941" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="942" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="943" word="a" en="locative preposition" type="LOC" tag="LOC">a</token>
+		<token id="944" word="Holland" en="proper name" type="NP" tag="NP_name">Holland</token>
+		<token id="945" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="946" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="947" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="948" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="949" word="seni" en="transitive verb" type="VB" tag="VB_tran">seni</token>
+		<token id="950" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="951" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="952" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="953" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="954" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="119">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 210</source>
+	<attribution></attribution>
+	<feature>Dataset 80. Coming from named places: preposition</feature>
+	<text>A granman fu den Dyuka kmopo fu Dritabiki.</text>
+	<gloss>The chief of the Aukeners comes from Drietabbetje.</gloss>
+	<tokens>
+		<token id="955" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="956" word="granman" en="noun" type="NN" tag="NN">granman</token>
+		<token id="957" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="958" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="959" word="Dyuka" en="proper name" type="NP" tag="NP_name">Dyuka</token>
+		<token id="960" word="kmopo" en="transitive verb" type="VB" tag="VB_tran">kmopo</token>
+		<token id="961" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="962" word="Dritabiki" en="proper name" type="NP" tag="NP_name">Dritabiki</token>
+		<token id="963" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="120">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 204</source>
+	<attribution></attribution>
+	<feature>Dataset 81. Motion-to and motion-from: overlap</feature>
+	<text>A no e denki fu kon baka na oso.</text>
+	<gloss>It hasn’t crossed her mind to come back home.</gloss>
+	<tokens>
+		<token id="964" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="965" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="966" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="967" word="denki" en="factive verb" type="VB" tag="VB_fact">denki</token>
+		<token id="968" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="969" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="970" word="baka" en="transitive verb" type="VB" tag="VB_tran">baka</token>
+		<token id="971" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="972" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="973" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="121">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 212</source>
+	<attribution></attribution>
+	<feature>Dataset 82. Transitive motion verbs 'push': serial verb construction plus preposition</feature>
+	<text>Di a bromfiets lon drei, mi ben abi fu pusu en go na oso.</text>
+	<gloss>When the motorbike ran out of gas, I had to push it home.</gloss>
+	<tokens>
+		<token id="974" word="Di" en="subordinating conjunction" type="CS" tag="CS_time">Di</token>
+		<token id="975" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="976" word="bromfiets" en="noun" type="NN" tag="NN">bromfiets</token>
+		<token id="977" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="978" word="drei" en="intransitive verb" type="VB" tag="VB_intr">drei</token>
+		<token id="979" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="980" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="981" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="982" word="abi fu" en="modal" type="MD" tag="MD">abi fu</token>
+		<token id="983" word="pusu" en="transitive verb" type="VB" tag="VB_tran">pusu</token>
+		<token id="984" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="985" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="986" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="987" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="988" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="122">
+	<source>Apics. Sebba, Mark. 1987. The syntax of serial verbs. An investigation into serialisation in Sranan and other languages. Amsterdam: John Benjamins. Example 214</source>
+	<attribution></attribution>
+	<feature>Dataset 83. Transitive motion verbs 'pull': serial verb construction plus preposition</feature>
+	<text>Kofi hari a ston puru na ini a olo.</text>
+	<gloss>Kofi pulled the stone out of the hole.</gloss>
+	<tokens>
+		<token id="989" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="990" word="hari" en="transitive verb" type="VB" tag="VB_tran">hari</token>
+		<token id="991" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="992" word="ston" en="noun" type="NN" tag="NN">ston</token>
+		<token id="993" word="puru" en="transitive verb" type="VB" tag="VB_tran">puru</token>
+		<token id="994" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="995" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="996" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="997" word="olo" en="noun" type="NN" tag="NN">olo</token>
+		<token id="998" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="123">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 216</source>
+	<attribution></attribution>
+	<feature>Dataset 84. Directional serial verb constructions with 'come' and 'go': directionals exist</feature>
+	<text>Yu kan tyari wan suma go a wan tehuis.</text>
+	<gloss>You can take someone to a nursing home.</gloss>
+	<tokens>
+		<token id="999" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="1000" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="1001" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="1002" word="suma" en="indefinite pronoun" type="PRN" tag="PRN_ind">suma</token>
+		<token id="1003" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="1004" word="a" en="locative preposition" type="LOC" tag="LOC">a</token>
+		<token id="1005" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="1006" word="tehuis" en="noun" type="NN" tag="NN">tehuis</token>
+		<token id="1007" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="124">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 218</source>
+	<attribution></attribution>
+	<feature>Dataset 85. 'Take' serial verb constructions: theme of the second verb, literal interpretation possible</feature>
+	<text>A man teki swarfu dosu fringi naki.</text>
+	<gloss>The man takes the matchbox and throws it and hits.</gloss>
+	<tokens>
+		<token id="1008" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="1009" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1010" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="1011" word="swarfu" en="noun" type="NN" tag="NN">swarfu</token>
+		<token id="1012" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="1013" word="fringi" en="transitive verb" type="VB" tag="VB_tran">fringi</token>
+		<token id="1014" word="naki" en="intransitive verb" type="VB" tag="VB_intr">naki</token>
+		<token id="1015" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="125">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 220</source>
+	<attribution></attribution>
+	<feature>Dataset 85. 'Take' serial verb constructions: theme of the second verb, literal interpretation impossible</feature>
+	<text>Mi papa e teki moro furu aandacht gi a man.</text>
+	<gloss>My father pays more attention to the man.</gloss>
+	<tokens>
+		<token id="1016" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="1017" word="papa" en="noun" type="NN" tag="NN">papa</token>
+		<token id="1018" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1019" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="1020" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="1021" word="furu" en="quantifier" type="AB" tag="AB">furu</token>
+		<token id="1022" word="aandacht" en="noun" type="NN" tag="NN">aandacht</token>
+		<token id="1023" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="1024" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1025" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1026" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="126">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 169</source>
+	<attribution></attribution>
+	<feature>Dataset 85. 'Take' serial verb constructions: instrument of the second verb, no resumptive pronoun</feature>
+	<text>Kofi teki a nefi koti a brede.</text>
+	<gloss>Kofi cut the bread with a knife.</gloss>
+	<tokens>
+		<token id="1027" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="1028" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="1029" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1030" word="nefi" en="noun" type="NN" tag="NN">nefi</token>
+		<token id="1031" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="1032" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1033" word="brede" en="noun" type="NN" tag="NN">brede</token>
+		<token id="1034" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="127">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 223</source>
+	<attribution></attribution>
+	<feature>Dataset 86. 'Give' serial verb constructions: 'give' in second position, recipient or beneficiary</feature>
+	<text>Mi seri a oso gi en.</text>
+	<gloss>I sold the house to him/her.</gloss>
+	<tokens>
+		<token id="1035" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1036" word="seri" en="transitive verb" type="VB" tag="VB_tran">seri</token>
+		<token id="1037" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1038" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="1039" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="1040" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="1041" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="128">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 225</source>
+	<attribution></attribution>
+	<feature>Dataset 87. Reflexive constructions: compound reflexive pronoun with emphasizer</feature>
+	<text>A koti ensrefi nanga wan nefi.</text>
+	<gloss>He cut himself with a knife.</gloss>
+	<tokens>
+		<token id="1042" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="1043" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="1044" word="ensrefi" en="plural third person reflexive pronoun" type="PPL" tag="PPL_3pl">ensrefi</token>
+		<token id="1045" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1046" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="1047" word="nefi" en="noun" type="NN" tag="NN">nefi</token>
+		<token id="1048" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="129">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 225</source>
+	<attribution></attribution>
+	<feature>Dataset 88. Intensifiers and reflexive pronouns are identical</feature>
+	<text>A koti ensrefi nanga wan nefi.</text>
+	<gloss>He cut himself with a knife.</gloss>
+	<tokens>
+		<token id="1049" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="1050" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="1051" word="ensrefi" en="plural third person reflexive pronoun" type="PPL" tag="PPL_3pl">ensrefi</token>
+		<token id="1052" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1053" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="1054" word="nefi" en="noun" type="NN" tag="NN">nefi</token>
+		<token id="1055" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="130">
+	<source>Apics. Nickel, Marilyn and Wilner, John. 1984. Papers on Sranan Tongo. Paramaribo: Instituut voor Taalwetenschap. ((Summer Institute of Linguistics)). Example 228</source>
+	<attribution></attribution>
+	<feature>Dataset 88. Intensifiers and reflexive pronouns are identical</feature>
+	<text>Kande en srefi e kon na foto bori na agu gi mi.</text>
+	<gloss>Maybe he himself comes to the city to cook the pig for me.</gloss>
+	<tokens>
+		<token id="1056" word="Kande" en="adverb" type="RB" tag="RB">Kande</token>
+		<token id="1057" word="en" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">en</token>
+		<token id="1058" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="1059" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1060" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="1061" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="1062" word="foto" en="noun" type="NN" tag="NN">foto</token>
+		<token id="1063" word="bori" en="transitive verb" type="VB" tag="VB_tran">bori</token>
+		<token id="1064" word="na" en="singular article" type="AT" tag="AT_sg">na</token>
+		<token id="1065" word="agu" en="noun" type="NN" tag="NN">agu</token>
+		<token id="1066" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="1067" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1068" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="131">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 230</source>
+	<attribution></attribution>
+	<feature>Dataset 89. Reciprocal constructions: identical and special reciprocal construction</feature>
+	<text>Den srudati feti nanga densrefi.</text>
+	<gloss>The soldiers fought with each other.</gloss>
+	<tokens>
+		<token id="1069" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="1070" word="srudati" en="noun" type="NN" tag="NN">srudati</token>
+		<token id="1071" word="feti" en="transitive verb" type="VB" tag="VB_tran">feti</token>
+		<token id="1072" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1073" word="densrefi" en="plural third person reflexive pronoun" type="PPL" tag="PPL_3pl">densrefi</token>
+		<token id="1074" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="132">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 232</source>
+	<attribution></attribution>
+	<feature>Dataset 89. Reciprocal constructions: identical and special reciprocal construction</feature>
+	<text>Den brasa makandra.</text>
+	<gloss>They hugged each other.</gloss>
+	<tokens>
+		<token id="1075" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="1076" word="brasa" en="transitive verb" type="VB" tag="VB_tran">brasa</token>
+		<token id="1077" word="makandra" en="adverb" type="RB" tag="RB">makandra</token>
+		<token id="1078" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="133">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 234</source>
+	<attribution></attribution>
+	<feature>Dataset 90. Passive constructions: passive without verbal coding</feature>
+	<text>A liba bradi kba.</text>
+	<gloss>The river has already been widened.</gloss>
+	<tokens>
+		<token id="1079" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="1080" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="1081" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="1082" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="1083" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="134">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 21</source>
+	<attribution></attribution>
+	<feature>Dataset 92. Subject relative clauses: relative particle and gap</feature>
+	<text>a man di gi mi a papira</text>
+	<gloss>the man who gave me the paper</gloss>
+	<tokens>
+		<token id="1084" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1085" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1086" word="di" en="relative pronoun subjective form" type="REL" tag="REL_subj">di</token>
+		<token id="1087" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="1088" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1089" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1090" word="papira" en="noun" type="NN" tag="NN">papira</token>
+		<token id="1091" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="135">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 239</source>
+	<attribution></attribution>
+	<feature>Dataset 92. Subject relative clauses: relative particle and gap</feature>
+	<text>A sani di de nownow unu no man tyari.</text>
+	<gloss>What we now have is tough to bear.</gloss>
+	<tokens>
+		<token id="1092" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="1093" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="1094" word="di" en="relative pronoun objective form" type="REL" tag="REL_obj">di</token>
+		<token id="1095" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="1096" word="nownow" en="adverb" type="RB" tag="RB">nownow</token>
+		<token id="1097" word="unu" en="plural first person pronoun" type="PRN" tag="PRN_1pl">unu</token>
+		<token id="1098" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1099" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="1100" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="1101" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="136">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 237</source>
+	<attribution></attribution>
+	<feature>Dataset 92. Subject relative clauses: relative pronoun</feature>
+	<text>Den man san e meki na kondre kon sani.</text>
+	<gloss>The men that are causing the country to become the way it is.</gloss>
+	<tokens>
+		<token id="1102" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="1103" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1104" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="1105" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1106" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="1107" word="na" en="singular article" type="AT" tag="AT_sg">na</token>
+		<token id="1108" word="kondre" en="noun" type="NN" tag="NN">kondre</token>
+		<token id="1109" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="1110" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="1111" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="137">
+	<source>Apics. Winford, Donald. 2008. Atlantic creole syntax. In Kouwenberg, Silvia and Singler, John (eds.), The handbook of pidgin and creole studies, 19-47. Malden, MA: Wiley-Blackwell. Example 245</source>
+	<attribution></attribution>
+	<feature>Dataset 93. Object relative clauses: zero and gap</feature>
+	<text>Mi srefi dya abi famiri mi no sabi.</text>
+	<gloss>I myself have relatives that I don’t know.</gloss>
+	<tokens>
+		<token id="1112" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1113" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="1114" word="dya" en="nominal adverb" type="RN" tag="RN">dya</token>
+		<token id="1115" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="1116" word="famiri" en="noun" type="NN" tag="NN">famiri</token>
+		<token id="1117" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1118" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1119" word="sabi" en="transitive verb" type="VB" tag="VB_tran">sabi</token>
+		<token id="1120" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="138">
+	<source>Apics. Winford, Donald. 2008. Atlantic creole syntax. In Kouwenberg, Silvia and Singler, John (eds.), The handbook of pidgin and creole studies, 19-47. Malden, MA: Wiley-Blackwell. Example 22</source>
+	<attribution></attribution>
+	<feature>Dataset 93. Object relative clauses: relative pronoun</feature>
+	<text>a tori disi san mi e go taki</text>
+	<gloss>the story that I’m going to tell</gloss>
+	<tokens>
+		<token id="1121" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1122" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="1123" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="1124" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="1125" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1126" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1127" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="1128" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="1129" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="139">
+	<source>Apics. Winford, Donald. 2008. Atlantic creole syntax. In Kouwenberg, Silvia and Singler, John (eds.), The handbook of pidgin and creole studies, 19-47. Malden, MA: Wiley-Blackwell. Example 242</source>
+	<attribution></attribution>
+	<feature>Dataset 93. Object relative clauses: relative particle and gap</feature>
+	<text>Mi e wani go libi nanga a man di mi o sori yu.</text>
+	<gloss>I want to go and live with the person that I’ll show you.</gloss>
+	<tokens>
+		<token id="1130" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1131" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1132" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="1133" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="1134" word="libi" en="intransitive verb" type="VB" tag="VB_intr">libi</token>
+		<token id="1135" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1136" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1137" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1138" word="di" en="relative pronoun objective form" type="REL" tag="REL_obj">di</token>
+		<token id="1139" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1140" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="1141" word="sori" en="transitive verb" type="VB" tag="VB_tran">sori</token>
+		<token id="1142" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1143" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="140">
+	<source>Apics. Winford, Donald. 2008. Atlantic creole syntax. In Kouwenberg, Silvia and Singler, John (eds.), The handbook of pidgin and creole studies, 19-47. Malden, MA: Wiley-Blackwell. Example 244</source>
+	<attribution></attribution>
+	<feature>Dataset 93. Object relative clauses: relative particle and gap</feature>
+	<text>Yu abi furu Sumter di mi no sabi.</text>
+	<gloss>There are many people by the name of Sumter that I don’t know.</gloss>
+	<tokens>
+		<token id="1144" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="1145" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="1146" word="furu" en="quantifier" type="AB" tag="AB">furu</token>
+		<token id="1147" word="Sumter" en="noun" type="NN" tag="NN">Sumter</token>
+		<token id="1148" word="di" en="relative pronoun objective form" type="REL" tag="REL_obj">di</token>
+		<token id="1149" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1150" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1151" word="sabi" en="transitive verb" type="VB" tag="VB_tran">sabi</token>
+		<token id="1152" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="141">
+	<source>Apics. Winford, Donald. 2008. Atlantic creole syntax. In Kouwenberg, Silvia and Singler, John (eds.), The handbook of pidgin and creole studies, 19-47. Malden, MA: Wiley-Blackwell. Example 247</source>
+	<attribution></attribution>
+	<feature>Dataset 94. Instrument relative clauses: Relative pronoun with pied-piping</feature>
+	<text>a nefi nanga san a koti a bred</text>
+	<gloss>the knife with which he cut the bread</gloss>
+	<tokens>
+		<token id="1153" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1154" word="nefi" en="noun" type="NN" tag="NN">nefi</token>
+		<token id="1155" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1156" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="1157" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="1158" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="1159" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1160" word="bred" en="noun" type="NN" tag="NN">bred</token>
+		<token id="1161" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="142">
+	<source>Apics. Plag, Ingo. 1993. Sentential complementation in Sranan: On the formation of an English-based creole language. (Linguistische Arbeiten 300.) Tübingen: Max Niemeyer Verlag. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 251</source>
+	<attribution></attribution>
+	<feature>Dataset 95. Complementizer with verbs of speaking: complementizer not synchronically related to 'say'</feature>
+	<text>Den boi taki dati den o kon tamara baka.</text>
+	<gloss>The boys said that they would come back tomorrow.</gloss>
+	<tokens>
+		<token id="1162" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="1163" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="1164" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="1165" word="dati" en="complementizer" type="COMPL" tag="COMPL">dati</token>
+		<token id="1166" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="1167" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="1168" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="1169" word="tamara" en="nominal adverb" type="RN" tag="RN">tamara</token>
+		<token id="1170" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="1171" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="143">
+	<source>Apics. Plag, Ingo. 1993. Sentential complementation in Sranan: On the formation of an English-based creole language. (Linguistische Arbeiten 300.) Tübingen: Max Niemeyer Verlag. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 249</source>
+	<attribution></attribution>
+	<feature>Dataset 95. Complementizer with verbs of speaking: no complementizer</feature>
+	<text>Da' Anansi taki, eng go proberi efi eng kan sabi fa a nemn.</text>
+	<gloss>Then Anansi said he would try if he could learn his name.</gloss>
+	<tokens>
+		<token id="1172" word="Da'" en="coordinating conjunction" type="CC" tag="CC_so">Da'</token>
+		<token id="1173" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="1174" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="1175" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1176" word="eng" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">eng</token>
+		<token id="1177" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="1178" word="proberi" en="transitive verb" type="VB" tag="VB_tran">proberi</token>
+		<token id="1179" word="efi" en="subordinating conjunction" type="CS" tag="CS_if">efi</token>
+		<token id="1180" word="eng" en="singular third person pronoun" type="PRN" tag="PRN_3sg">eng</token>
+		<token id="1181" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="1182" word="sabi" en="transitive verb" type="VB" tag="VB_tran">sabi</token>
+		<token id="1183" word="fa" en="adverbial relative" type="REL" tag="REL_adv">fa</token>
+		<token id="1184" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="1185" word="nemn" en="intransitive verb" type="VB" tag="VB_intr">nemn</token>
+		<token id="1186" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="144">
+	<source>Apics. Plag, Ingo. 1993. Sentential complementation in Sranan: On the formation of an English-based creole language. (Linguistische Arbeiten 300.) Tübingen: Max Niemeyer Verlag. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 252</source>
+	<attribution></attribution>
+	<feature>Dataset 96. Complementizer with verbs of knowing: complementizer identical to bare 'say'</feature>
+	<text>A no ben sab' taki na wan bigi Anansi.</text>
+	<gloss>He did not know that this was a grown-up Anansi.</gloss>
+	<tokens>
+		<token id="1187" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="1188" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1189" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="1190" word="sab'" en="transitive verb" type="VB" tag="VB_tran">sab'</token>
+		<token id="1191" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="1192" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="1193" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="1194" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="1195" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="1196" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="145">
+	<source>Apics. Plag, Ingo. 1993. Sentential complementation in Sranan: On the formation of an English-based creole language. (Linguistische Arbeiten 300.) Tübingen: Max Niemeyer Verlag. Example 255</source>
+	<attribution></attribution>
+	<feature>Dataset 97. 'Want' complement subjects: the complement subject is left implicit</feature>
+	<text>Jan wani fu kisi moni.</text>
+	<gloss>Jan wants to make money.</gloss>
+	<tokens>
+		<token id="1197" word="Jan" en="proper name" type="NP" tag="NP_name">Jan</token>
+		<token id="1198" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="1199" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="1200" word="kisi" en="transitive verb" type="VB" tag="VB_tran">kisi</token>
+		<token id="1201" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="1202" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="146">
+	<source>Apics. Plag, Ingo. 1993. Sentential complementation in Sranan: On the formation of an English-based creole language. (Linguistische Arbeiten 300.) Tübingen: Max Niemeyer Verlag. Example 256</source>
+	<attribution></attribution>
+	<feature>Dataset 256. Complements of 'think' and 'want': identical complementizer</feature>
+	<text>Yu denki taki na ala sma o gi bun sani.</text>
+	<gloss>You think that everyone will give good (spirits).</gloss>
+	<tokens>
+		<token id="1203" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="1204" word="denki" en="factive verb" type="VB" tag="VB_fact">denki</token>
+		<token id="1205" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="1206" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="1207" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="1208" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="1209" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="1210" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="1211" word="bun" en="attributive adjective" type="JJ" tag="JJ">bun</token>
+		<token id="1212" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="1213" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="147">
+	<source>Apics. Plag, Ingo. 1993. Sentential complementation in Sranan: On the formation of an English-based creole language. (Linguistische Arbeiten 300.) Tübingen: Max Niemeyer Verlag. Example 258</source>
+	<attribution></attribution>
+	<feature>Dataset 98. Complements of 'think' and 'want': identical complementizer</feature>
+	<text>Mi denki yu kaba nanga en.</text>
+	<gloss>I thought you were done with it.</gloss>
+	<tokens>
+		<token id="1214" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1215" word="denki" en="factive verb" type="VB" tag="VB_fact">denki</token>
+		<token id="1216" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1217" word="kaba" en="intransitive verb" type="VB" tag="VB_intr">kaba</token>
+		<token id="1218" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1219" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="1220" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="148">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 260</source>
+	<attribution></attribution>
+	<feature>Dataset 99. Verb doubling in temporal clauses: verb doubling is not possible in temporal clauses</feature>
+	<text>Di mi doro na oso esde, mi brada gi mi moni.</text>
+	<gloss>When I got home yesterday, my brother gave me money.</gloss>
+	<tokens>
+		<token id="1221" word="Di" en="subordinating conjunction" type="CS" tag="CS_time">Di</token>
+		<token id="1222" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1223" word="doro" en="intransitive verb" type="VB" tag="VB_intr">doro</token>
+		<token id="1224" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="1225" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="1226" word="esde" en="nominal adverb" type="RN" tag="RN">esde</token>
+		<token id="1227" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1228" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="1229" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="1230" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="1231" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1232" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="1233" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="149">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 262</source>
+	<attribution></attribution>
+	<feature>Dataset 100. Negative morpheme types: negative particle</feature>
+	<text>Mi no si en esde.</text>
+	<gloss>I didn’t see him yesterday.</gloss>
+	<tokens>
+		<token id="1234" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1235" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1236" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="1237" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="1238" word="esde" en="nominal adverb" type="RN" tag="RN">esde</token>
+		<token id="1239" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="150">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 118</source>
+	<attribution></attribution>
+	<feature>Dataset 101. Position of standard negation: before the verb</feature>
+	<text>Efu yu no wroko, dan you no o nyan, tog.</text>
+	<gloss>If you don’t work, then you won’t eat, right?</gloss>
+	<tokens>
+		<token id="1240" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="1241" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1242" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1243" word="wroko" en="intransitive verb" type="VB" tag="VB_intr">wroko</token>
+		<token id="1244" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1245" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="1246" word="you" en="singular second person pronoun" type="PRN" tag="PRN_2sg">you</token>
+		<token id="1247" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1248" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="1249" word="nyan" en="intransitive verb" type="VB" tag="VB_intr">nyan</token>
+		<token id="1250" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1251" word="tog" en="rhetorical question" type="UH" tag="UH_tag">tog</token>
+		<token id="1252" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="151">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 265</source>
+	<attribution></attribution>
+	<feature>Dataset 102. Negation and indefinite pronouns: co-occurrence with predicate negation</feature>
+	<text>No wan suma no man verklaar yu wan oorlog tori.</text>
+	<gloss>No one can tell you war stories.</gloss>
+	<tokens>
+		<token id="1253" word="No wan" en="quantifier" type="AB" tag="AB">No wan</token>
+		<token id="1254" word="suma" en="indefinite pronoun" type="PRN" tag="PRN_ind">suma</token>
+		<token id="1255" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1256" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="1257" word="verklaar" en="transitive verb" type="VB" tag="VB_tran">verklaar</token>
+		<token id="1258" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1259" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="1260" word="oorlog" en="noun" type="NN" tag="NN">oorlog</token>
+		<token id="1261" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="1262" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="152">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 267</source>
+	<attribution></attribution>
+	<feature>Dataset 102. Negation and indefinite pronouns: co-occurrence with predicate negation</feature>
+	<text>Noti no pasa nanga mi.</text>
+	<gloss>Nothing happened to me.</gloss>
+	<tokens>
+		<token id="1263" word="Noti" en="indefinite pronoun" type="PRN" tag="PRN_ind">Noti</token>
+		<token id="1264" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="1265" word="pasa" en="intransitive verb" type="VB" tag="VB_intr">pasa</token>
+		<token id="1266" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1267" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1268" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="153">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 269</source>
+	<attribution></attribution>
+	<feature>Dataset 103. Polar tags['question']s: final tags['question'] particle</feature>
+	<text>A film ben span, no?</text>
+	<gloss>The movie was exciting, wasn’t it?</gloss>
+	<tokens>
+		<token id="1269" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="1270" word="film" en="noun" type="NN" tag="NN">film</token>
+		<token id="1271" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="1272" word="span" en="intransitive verb" type="VB" tag="VB_intr">span</token>
+		<token id="1273" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1274" word="no" en="rhetorical question" type="UH" tag="UH_tag">no</token>
+		<token id="1275" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="154">
+	<source>Apics. Winford, Donald. 2002. Tense and aspect in Sranan and the creole prototype. In McWhorter, John (ed.), Language change and language contact in pidgins and creoles, 383-442. Amsterdam/Philadelphia: John Benjamins. Example 271</source>
+	<attribution></attribution>
+	<feature>Dataset 103. Polar tags['question']s: only interrogative intonation</feature>
+	<text>Nownow yu e teki en kba nownow?</text>
+	<gloss>Are you already recording it right now?</gloss>
+	<tokens>
+		<token id="1276" word="Nownow" en="adverb" type="RB" tag="RB">Nownow</token>
+		<token id="1277" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1278" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1279" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="1280" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="1281" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="1282" word="nownow" en="adverb" type="RB" tag="RB">nownow</token>
+		<token id="1283" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="155">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 272</source>
+	<attribution></attribution>
+	<feature>Dataset 104. Focusing of the noun phrase: cleft with copula before focus</feature>
+	<text>Na yu fufuru mi moni!</text>
+	<gloss>It’s you that stole my money.</gloss>
+	<tokens>
+		<token id="1284" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="1285" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1286" word="fufuru" en="transitive verb" type="VB" tag="VB_tran">fufuru</token>
+		<token id="1287" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="1288" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="1289" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="156">
+	<source>Apics. Winford, Donald. 1997. Property items and predication in Sranan. Journal of Pidgin and Creole Languages 12. 237-302. Example 274</source>
+	<attribution></attribution>
+	<feature>Dataset 105. Focusing of the noun phrase: cleft with copula before focus</feature>
+	<text>Want na tu leisi mi nanga a man meki afsprak kaba.</text>
+	<gloss>Because it’s twice that the guy and I made an appointment already.</gloss>
+	<tokens>
+		<token id="1290" word="Want" en="subordinating conjunction" type="CS" tag="CS_expl">Want</token>
+		<token id="1291" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="1292" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="1293" word="leisi" en="nominal adverb" type="RN" tag="RN">leisi</token>
+		<token id="1294" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1295" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1296" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1297" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1298" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="1299" word="afsprak" en="noun" type="NN" tag="NN">afsprak</token>
+		<token id="1300" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="1301" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="157">
+	<source>Apics. Winford, Donald. 2000. Irrealis in Sranan: Mood and modality in a radical creole. Journal of Pidgin and Creole Languages 15. 63-125. Example 276</source>
+	<attribution></attribution>
+	<feature>Dataset 105. Verb doubling and focus: verb fronted with a copy in the background clause</feature>
+	<text>A stik yu o stik a pikin.</text>
+	<gloss>You’ll suffocate the child this way.</gloss>
+	<tokens>
+		<token id="1302" word="A" en="focus marker" type="FOC" tag="FOC">A</token>
+		<token id="1303" word="stik" en="transitive verb" type="VB" tag="VB_tran">stik</token>
+		<token id="1304" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1305" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="1306" word="stik" en="transitive verb" type="VB" tag="VB_tran">stik</token>
+		<token id="1307" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1308" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="1309" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="158">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 279</source>
+	<attribution></attribution>
+	<feature>Dataset 106. Focus particle 'also': after the focused element</feature>
+	<text>Yu srefi tu musu dyompu nanga wan, yu begrijp.</text>
+	<gloss>You too must jump with one [foot], you understand.</gloss>
+	<tokens>
+		<token id="1310" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="1311" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="1312" word="tu" en="adverb" type="RB" tag="RB">tu</token>
+		<token id="1313" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="1314" word="dyompu" en="intransitive verb" type="VB" tag="VB_intr">dyompu</token>
+		<token id="1315" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="1316" word="wan" en="indefinite pronoun" type="PRN" tag="PRN_ind">wan</token>
+		<token id="1317" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1318" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="1319" word="begrijp" en="intransitive verb" type="VB" tag="VB_intr">begrijp</token>
+		<token id="1320" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="159">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 278</source>
+	<attribution></attribution>
+	<feature>Dataset 106. Focus particle 'also': non-adjacent following</feature>
+	<text>I mu yepi wroko tu. </text>
+	<gloss>You, too, must help with the work.</gloss>
+	<tokens>
+		<token id="1321" word="I" en="singular second person pronoun" type="PRN" tag="PRN_2sg">I</token>
+		<token id="1322" word="mu" en="modal" type="MD" tag="MD">mu</token>
+		<token id="1323" word="yepi" en="intransitive verb" type="VB" tag="VB_intr">yepi</token>
+		<token id="1324" word="wroko" en="transitive verb" type="VB" tag="VB_tran">wroko</token>
+		<token id="1325" word="tu" en="adverb" type="RB" tag="RB">tu</token>
+		<token id="1326" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="160">
+	<source>Apics. Wilner, John. 1992. Wortubuku ini Sranan Tongo (Sranan Tongo – English Dictionary). Paramaribo: Summer Institute of Linguistics. Example 282</source>
+	<attribution></attribution>
+	<feature>Dataset 107. Vocative markers: optional vocative marker preceding noun</feature>
+	<text>We, yere dya.</text>
+	<gloss>Hey, listen here.</gloss>
+	<tokens>
+		<token id="1327" word="We" en="interjection" type="UH" tag="UH">We</token>
+		<token id="1328" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1329" word="yere" en="intransitive verb" type="VB" tag="VB_intr">yere</token>
+		<token id="1330" word="dya" en="adverbial noun" type="NN" tag="NN_adv">dya</token>
+		<token id="1331" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="161">
+	<source>Apics. Donald Winford, Ingo Plag. 2013. Sranan structure dataset. Example 284</source>
+	<attribution></attribution>
+	<feature>Dataset 108. Para-linguistic usages of clicks: clicks can express only affective meanings</feature>
+	<text>A kon, a langa en mofo, a man meki wan tyuri, dan a gwe.</text>
+	<gloss>He came, he pouted?, the guy made a ‘suck teeth’ and went away.</gloss>
+	<tokens>
+		<token id="1332" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="1333" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="1334" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1335" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="1336" word="langa" en="transitive verb" type="VB" tag="VB_tran">langa</token>
+		<token id="1337" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="1338" word="mofo" en="noun" type="NN" tag="NN">mofo</token>
+		<token id="1339" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1340" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1341" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="1342" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="1343" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="1344" word="tyuri" en="noun" type="NN" tag="NN">tyuri</token>
+		<token id="1345" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="1346" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="1347" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="1348" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="1349" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="162">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 290</source>
+	<attribution></attribution>
+	<feature>Dataset 112. 'Hand' and 'arm': identity</feature>
+	<text>Mi broko mi anu di mi dyompo kmopo fu a bon.</text>
+	<gloss>I broke my arm when I jumped out of the tree.</gloss>
+	<tokens>
+		<token id="1350" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1351" word="broko" en="transitive verb" type="VB" tag="VB_tran">broko</token>
+		<token id="1352" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="1353" word="anu" en="noun" type="NN" tag="NN">anu</token>
+		<token id="1354" word="di" en="subordinating conjunction" type="CS" tag="CS_time">di</token>
+		<token id="1355" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1356" word="dyompo" en="intransitive verb" type="VB" tag="VB_intr">dyompo</token>
+		<token id="1357" word="kmopo" en="verb of movement" type="VB" tag="VB_mov">kmopo</token>
+		<token id="1358" word="fu" en="preposition of place" type="INL" tag="INL">fu</token>
+		<token id="1359" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="1360" word="bon" en="noun" type="NN" tag="NN">bon</token>
+		<token id="1361" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="163">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 293</source>
+	<attribution></attribution>
+	<feature>Dataset 114. 'Body hair' and 'feather': overlap</feature>
+	<text>Mi e kan mi wiwiri mamanten yuru fosi mi e go na doro.</text>
+	<gloss>I comb my hair in the morning before going out.</gloss>
+	<tokens>
+		<token id="1362" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="1363" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1364" word="kan" en="transitive verb" type="VB" tag="VB_tran">kan</token>
+		<token id="1365" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="1366" word="wiwiri" en="noun" type="NN" tag="NN">wiwiri</token>
+		<token id="1367" word="mamanten" en="nominal adverb" type="RN" tag="RN">mamanten</token>
+		<token id="1368" word="yuru" en="nominal adverb" type="RN" tag="RN">yuru</token>
+		<token id="1369" word="fosi" en="subordinating conjunction" type="CS" tag="CS_time">fosi</token>
+		<token id="1370" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="1371" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1372" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="1373" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="1374" word="doro" en="noun" type="NN" tag="NN">doro</token>
+		<token id="1375" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="164">
+	<source>Apics. Wilner, John. 2007. Wortubuku fu Sranan Tongo. Paramaribo: SIL International. Example 296</source>
+	<attribution></attribution>
+	<feature>Dataset 115. 'Hear' and 'smell': differentiation</feature>
+	<text>I n'e yere?</text>
+	<gloss>Can't you hear?</gloss>
+	<tokens>
+		<token id="1376" word="I" en="singular second person pronoun" type="PRN" tag="PRN_2sg">I</token>
+		<token id="1377" word="n'" en="negation" type="NEG" tag="NEG">n'</token>
+		<token id="1378" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="1379" word="yere" en="intransitive verb" type="VB" tag="VB_intr">yere</token>
+		<token id="1380" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>

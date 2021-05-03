@@ -1,0 +1,1233 @@
+<sentence id="1">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'ma'</source>
+	<attribution>Wilner</attribution>
+	<feature>'sanede' as wh-word</feature>
+	<text>Ma Maria ben abi bere.</text>
+	<gloss>But Mary was pregnant.</gloss>
+	<tokens>
+		<token id="1" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="2" word="Maria" en="proper name" type="NP" tag="NP">Maria</token>
+		<token id="3" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="4" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="5" word="bere" en="noun" type="NN" tag="NN">bere</token>
+		<token id="6" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'sanede'</source>
+	<attribution>Wilner</attribution>
+	<feature>'sanede' as wh-word</feature>
+	<text>Sanede yu naki a dagu?</text>
+	<gloss>Why did you hit the dog?</gloss>
+	<tokens>
+		<token id="7" word="Sanede" en="interrogative word" type="WP" tag="WP">Sanede</token>
+		<token id="8" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="9" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="10" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="11" word="dagu" en="noun" type="NN" tag="NN">dagu</token>
+		<token id="12" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'sanede'</source>
+	<attribution>Wilner</attribution>
+	<feature>'sanede' as subordinating conjunction</feature>
+	<text>A boi no taigi mi fu sanede a naki a dagu.</text>
+	<gloss>The boy didn’t tell me why he hit the dog.</gloss>
+	<tokens>
+		<token id="13" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="14" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="15" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="16" word="taigi" en="factive verb" type="VB" tag="VB_fact">taigi</token>
+		<token id="17" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="18" word="fu sanede" en="subordinating conjunction" type="CS" tag="CS_expl">fu sanede</token>
+		<token id="19" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="20" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="21" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="22" word="dagu" en="noun" type="NN" tag="NN">dagu</token>
+		<token id="23" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'san'</source>
+	<attribution>Wilner</attribution>
+	<feature>'san' as wh-word</feature>
+	<text>San yu e kon du dyaso?</text>
+	<gloss>What have you come here for?</gloss>
+	<tokens>
+		<token id="24" word="San" en="interrogative word" type="WP" tag="WP">San</token>
+		<token id="25" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="26" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="27" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="28" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="29" word="dyaso" en="adverb" type="RB" tag="RB">dyaso</token>
+		<token id="30" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'san'</source>
+	<attribution>Wilner</attribution>
+	<feature>Relative pronoun</feature>
+	<text>Mi no sabi san a boi kon fu du.</text>
+	<gloss>I don’t know what the boy has come here for.</gloss>
+	<tokens>
+		<token id="31" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="32" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="33" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="34" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="35" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="36" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="37" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="38" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="39" word="du" en="intransitive verb" type="VB" tag="VB_intr">du</token>
+		<token id="40" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'di'</source>
+	<attribution>Wilner</attribution>
+	<feature>'di' as relative pronoun</feature>
+	<text>A man di gi mi a papira no taigi mi san fu du nanga en.</text>
+	<gloss>The man who gave me the paper didn’t tell me what to do with it.</gloss>
+	<tokens>
+		<token id="41" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="42" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="43" word="di" en="relative pronoun subjective form" type="REL" tag="REL_subj">di</token>
+		<token id="44" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="45" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="46" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="47" word="papira" en="noun" type="NN" tag="NN">papira</token>
+		<token id="48" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="49" word="taigi" en="factive verb" type="VB" tag="VB_fact">taigi</token>
+		<token id="50" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="51" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="52" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="53" word="du" en="intransitive verb" type="VB" tag="VB_intr">du</token>
+		<token id="54" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="55" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="56" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'di'</source>
+	<attribution>Wilner</attribution>
+	<feature>'di' as Subordinating conjunction</feature>
+	<text>Di mi ben e sribi, a fufuruman kon na ini a oso.</text>
+	<gloss>While I was sleeping the thief came in the house</gloss>
+	<tokens>
+		<token id="57" word="Di" en="subordinating conjunction" type="CS" tag="CS_time">Di</token>
+		<token id="58" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="59" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="60" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="61" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="62" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="63" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="64" word="fufuruman" en="noun" type="NN" tag="NN">fufuruman</token>
+		<token id="65" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="66" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="67" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="68" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="69" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="70" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'baya'</source>
+	<attribution>Wilner</attribution>
+	<feature>Interjection</feature>
+	<text>Baya, tamara yu no mu kon.</text>
+	<gloss>Listen, don’t come tomorrow.</gloss>
+	<tokens>
+		<token id="71" word="Baya" en="interjection" type="UH" tag="UH">Baya</token>
+		<token id="72" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="73" word="tamara" en="nominal adverb" type="RN" tag="RN">tamara</token>
+		<token id="74" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="75" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="76" word="mu" en="modal" type="MD" tag="MD">mu</token>
+		<token id="77" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="78" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'yèrè'</source>
+	<attribution>Wilner</attribution>
+	<feature>Interjection</feature>
+	<text>Tide mi no o kon na yu oso, yèrè!</text>
+	<gloss> I’m not coming to your house today, ya hear!</gloss>
+	<tokens>
+		<token id="79" word="Tide" en="nominal adverb" type="RN" tag="RN">Tide</token>
+		<token id="80" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="81" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="82" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="83" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="84" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="85" word="yu" en="singular second person possessive pronoun" type="PP$" tag="PP$_2sg">yu</token>
+		<token id="86" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="87" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="88" word="yèrè" en="interjection" type="UH" tag="UH">yèrè</token>
+		<token id="89" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'no'</source>
+	<attribution>Wilner</attribution>
+	<feature>'no' as rhetorical question (interjection)</feature>
+	<text>A film ben span, no?</text>
+	<gloss>The movie was exciting, wasn’t it?</gloss>
+	<tokens>
+		<token id="90" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="91" word="film" en="noun" type="NN" tag="NN">film</token>
+		<token id="92" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="93" word="span" en="intransitive verb" type="VB" tag="VB_intr">span</token>
+		<token id="94" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="95" word="no" en="rhetorical question" type="UH" tag="UH_tag">no</token>
+		<token id="96" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fu'</source>
+	<attribution>Wilner</attribution>
+	<feature>'fu' as possessive</feature>
+	<text>A oto na fu en.</text>
+	<gloss>The car is his.</gloss>
+	<tokens>
+		<token id="97" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="98" word="oto" en="noun" type="NN" tag="NN">oto</token>
+		<token id="99" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="100" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="101" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="102" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fu'</source>
+	<attribution>Wilner</attribution>
+	<feature>First 'fu' as subordinating conjunction, second as possessive</feature>
+	<text>Fu di mi mu wasi den krosi fu mi, meki mi no man gwe.</text>
+	<gloss>Because I’ve got to wash my clothes, I can’t go</gloss>
+	<tokens>
+		<token id="103" word="Fu di" en="subordinating conjunction" type="CS" tag="CS_expl">Fu di</token>
+		<token id="104" word="mi" en="singular article" type="AT" tag="AT_sg">mi</token>
+		<token id="105" word="mu" en="modal" type="MD" tag="MD">mu</token>
+		<token id="106" word="wasi" en="transitive verb" type="VB" tag="VB_tran">wasi</token>
+		<token id="107" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="108" word="krosi" en="noun" type="NN" tag="NN">krosi</token>
+		<token id="109" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="110" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="111" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="112" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="113" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="114" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="115" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="116" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="117" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fu'</source>
+	<attribution>Wilner</attribution>
+	<feature>'fu' as complementizer</feature>
+	<text>Den bigiman e kon makandra fu taki a moni tori.</text>
+	<gloss>The leaders come together (in order) to discuss the money situation.</gloss>
+	<tokens>
+		<token id="118" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="119" word="bigiman" en="noun" type="NN" tag="NN">bigiman</token>
+		<token id="120" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="121" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="122" word="makandra" en="adverb" type="RB" tag="RB">makandra</token>
+		<token id="123" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="124" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="125" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="126" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="127" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="128" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fu'</source>
+	<attribution>Wilner</attribution>
+	<feature>First 'fu' as possessive, second as preposition</feature>
+	<text>A granman fu den Dyuka kmopo fu Dritabiki.</text>
+	<gloss>The chief of the Aukaners comes from Drietabbetje</gloss>
+	<tokens>
+		<token id="129" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="130" word="granman" en="noun" type="NN" tag="NN">granman</token>
+		<token id="131" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="132" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="133" word="Dyuka" en="proper name" type="NP" tag="NP">Dyuka</token>
+		<token id="134" word="kmopo" en="verb of movement" type="VB" tag="VB_mov">kmopo</token>
+		<token id="135" word="fu" en="preposition" type="IN" tag="IN">fu</token>
+		<token id="136" word="Dritabiki" en="proper name" type="NP" tag="NP">Dritabiki</token>
+		<token id="137" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fu'</source>
+	<attribution>Wilner</attribution>
+	<feature>'fu' as preposition</feature>
+	<text>Mi bai pinda fu a frow dati.</text>
+	<gloss>I bought peanuts from that lady.</gloss>
+	<tokens>
+		<token id="138" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="139" word="bai" en="ditransitive verb" type="VB" tag="VB_ditr">bai</token>
+		<token id="140" word="pinda" en="noun" type="NN" tag="NN">pinda</token>
+		<token id="141" word="fu" en="preposition" type="IN" tag="IN">fu</token>
+		<token id="142" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="143" word="frow" en="noun" type="NN" tag="NN">frow</token>
+		<token id="144" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="145" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'gi'</source>
+	<attribution>Wilner</attribution>
+	<feature>'gi' as a preposition</feature>
+	<text>Go bai wan brede gi mi.</text>
+	<gloss>Вuy some bread for me.</gloss>
+	<tokens>
+		<token id="146" word="Go" en="verb of movement" type="VB" tag="VB_mov">Go</token>
+		<token id="147" word="bai" en="ditransitive verb" type="VB" tag="VB_ditr">bai</token>
+		<token id="148" word="wan" en="singular article" type="AT" tag="AT_sg">wan</token>
+		<token id="149" word="brede" en="noun" type="NN" tag="NN">brede</token>
+		<token id="150" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="151" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="152" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'gi'</source>
+	<attribution>Wilner</attribution>
+	<feature>'gi' as verb</feature>
+	<text>A bon disi no e gi bun nyanyan.</text>
+	<gloss>This tree does not produce good fruit.</gloss>
+	<tokens>
+		<token id="153" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="154" word="bon" en="noun" type="NN" tag="NN">bon</token>
+		<token id="155" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="156" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="157" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="158" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="159" word="bun" en="attributive adjective" type="JJ" tag="JJ">bun</token>
+		<token id="160" word="nyanyan" en="noun" type="NN" tag="NN">nyanyan</token>
+		<token id="161" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'pe'</source>
+	<attribution>Wilner</attribution>
+	<feature>'pe' as relative</feature>
+	<text>Mi e tan pe a skowtu-oso de.</text>
+	<gloss>I live where the police station is.</gloss>
+	<tokens>
+		<token id="162" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="163" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="164" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="165" word="pe" en="adverbial relative" type="REL" tag="REL_adv">pe</token>
+		<token id="166" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="167" word="skowtu-oso" en="noun" type="NN" tag="NN">skowtu-oso</token>
+		<token id="168" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="169" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'pe'</source>
+	<attribution>Wilner</attribution>
+	<feature>'pe' as noun</feature>
+	<text>Mi no go no wan pe.</text>
+	<gloss></gloss>
+	<tokens>
+		<token id="170" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="171" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="172" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="173" word="no wan" en="quantifier" type="AB" tag="AB">no wan</token>
+		<token id="174" word="pe" en="noun" type="NN" tag="NN">pe</token>
+		<token id="175" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'pe'</source>
+	<attribution>Wilner</attribution>
+	<feature>'pe' as wh-word</feature>
+	<text>Pe yu e go?</text>
+	<gloss>Where are you going?</gloss>
+	<tokens>
+		<token id="176" word="Pe" en="interrogative word" type="WP" tag="WP">Pe</token>
+		<token id="177" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="178" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="179" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="180" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'misrefi'</source>
+	<attribution>Wilner</attribution>
+	<feature>reflexive pronoun</feature>
+	<text>Mi gi misrefi mankeri di mi ben e kapu den taki.</text>
+	<gloss></gloss>
+	<tokens>
+		<token id="181" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="182" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="183" word="misrefi" en="singular first person reflexive pronoun" type="PPL" tag="PPL_1sg">misrefi</token>
+		<token id="184" word="mankeri" en="noun" type="NN" tag="NN">mankeri</token>
+		<token id="185" word="di" en="subordinating conjunction" type="CS" tag="CS_time">di</token>
+		<token id="186" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="187" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="188" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="189" word="kapu" en="transitive verb" type="VB" tag="VB_tran">kapu</token>
+		<token id="190" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="191" word="taki" en="noun" type="NN" tag="NN">taki</token>
+		<token id="192" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'ensrefi'</source>
+	<attribution>Wilner</attribution>
+	<feature>reflexive pronoun</feature>
+	<text>A gi ensrefi mankeri.</text>
+	<gloss>He injured himself.</gloss>
+	<tokens>
+		<token id="193" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="194" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="195" word="ensrefi" en="singular third person reflexive pronoun" type="PPL" tag="PPL_3sg">ensrefi</token>
+		<token id="196" word="mankeri" en="noun" type="NN" tag="NN">mankeri</token>
+		<token id="197" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'wisrefi'</source>
+	<attribution>Wilner</attribution>
+	<feature>reflexive pronoun</feature>
+	<text>Efu wi e tan feti so doro, wi o kiri wisrefi.</text>
+	<gloss>If we keep fighting like this, we will destroy ourselves.</gloss>
+	<tokens>
+		<token id="198" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="199" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="200" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="201" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="202" word="feti" en="intransitive verb" type="VB" tag="VB_intr">feti</token>
+		<token id="203" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="204" word="doro" en="adverb" type="RB" tag="RB">doro</token>
+		<token id="205" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="206" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="207" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="208" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="209" word="wisrefi" en="plural first person reflexive pronoun" type="PPL" tag="PPL_1pl">wisrefi</token>
+		<token id="210" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'en'</source>
+	<attribution>Wilner</attribution>
+	<feature>'en' as possessive pronoun</feature>
+	<text>A dagu e leki en soro futu.</text>
+	<gloss>The dog is licking its sore paw.</gloss>
+	<tokens>
+		<token id="211" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="212" word="dagu" en="noun" type="NN" tag="NN">dagu</token>
+		<token id="213" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="214" word="leki" en="transitive verb" type="VB" tag="VB_tran">leki</token>
+		<token id="215" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="216" word="soro" en="attributive adjective" type="JJ" tag="JJ">soro</token>
+		<token id="217" word="futu" en="noun" type="NN" tag="NN">futu</token>
+		<token id="218" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'en'</source>
+	<attribution>Wilner</attribution>
+	<feature>'en' as emphatic pronoun</feature>
+	<text>En na mi basi.</text>
+	<gloss>He is my boss.</gloss>
+	<tokens>
+		<token id="219" word="En" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">En</token>
+		<token id="220" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="221" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="222" word="basi" en="noun" type="NN" tag="NN">basi</token>
+		<token id="223" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="26">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fosi'</source>
+	<attribution>Wilner</attribution>
+	<feature>'fosi' as ordinal number</feature>
+	<text>Mi na a fosi pikin fu mi mama.</text>
+	<gloss>I am my mother’s first child.</gloss>
+	<tokens>
+		<token id="224" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="225" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="226" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="227" word="fosi" en="ordinal number" type="NUMB" tag="NUMB_od">fosi</token>
+		<token id="228" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="229" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="230" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="231" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="232" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="27">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'fosi'</source>
+	<attribution>Wilner</attribution>
+	<feature>'fosi' as subordinating conjunction</feature>
+	<text>Fosi mi go drape, mi mus du wan sani.</text>
+	<gloss>Before I go there I have to do something</gloss>
+	<tokens>
+		<token id="233" word="Fosi" en="subordinating conjunction" type="CS" tag="CS_time">Fosi</token>
+		<token id="234" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="235" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="236" word="drape" en="adverb" type="RB" tag="RB">drape</token>
+		<token id="237" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="238" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="239" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="240" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="241" word="wan" en="cardinal number" type="NUMB" tag="NUMB_cd">wan</token>
+		<token id="242" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="243" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="28">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'musu'</source>
+	<attribution>Wilner</attribution>
+	<feature>modal</feature>
+	<text>Ala den mama mus tyari den pikin fu go teki spoiti.</text>
+	<gloss>Every mother should take her children to get vaccinated.</gloss>
+	<tokens>
+		<token id="244" word="Ala" en="quantifier" type="AB" tag="AB">Ala</token>
+		<token id="245" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="246" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="247" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="248" word="tyari" en="verb of movement" type="VB" tag="VB_mov">tyari</token>
+		<token id="249" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="250" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="251" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="252" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="253" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="254" word="spoiti" en="noun" type="NN" tag="NN">spoiti</token>
+		<token id="255" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="29">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'alamala'</source>
+	<attribution>Wilner</attribution>
+	<feature>Specifier</feature>
+	<text>Un alamala o go tide na foto.</text>
+	<gloss> We are all going to town today.</gloss>
+	<tokens>
+		<token id="256" word="Un" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">Un</token>
+		<token id="257" word="alamala" en="specifier" type="AP" tag="AP">alamala</token>
+		<token id="258" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="259" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="260" word="tide" en="nominal adverb" type="RN" tag="RN">tide</token>
+		<token id="261" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="262" word="foto" en="noun" type="NN" tag="NN">foto</token>
+		<token id="263" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="30">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'srefi'</source>
+	<attribution>Wilner</attribution>
+	<feature>'srefi' as specifier</feature>
+	<text>Yu srefi sabi a sani dati, san wani taki yu lan.</text>
+	<gloss>You yourself know what it means to be paralyzed.</gloss>
+	<tokens>
+		<token id="264" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="265" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="266" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="267" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="268" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="269" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="270" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="271" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="272" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="273" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="274" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="275" word="lan" en="intransitive verb" type="VB" tag="VB_intr">lan</token>
+		<token id="276" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="31">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'srefi'</source>
+	<attribution>Wilner</attribution>
+	<feature>focus marker, 'srefi' as adjective</feature>
+	<text>Ala dei na den srefi sma e kon ferferi unu.</text>
+	<gloss>Every day the same people come and bother us.</gloss>
+	<tokens>
+		<token id="277" word="Ala" en="pre-quantifier" type="AB" tag="AB_pre">Ala</token>
+		<token id="278" word="dei" en="nominal adverb" type="RN" tag="RN">dei</token>
+		<token id="279" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="280" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="281" word="srefi" en="attributive adjective" type="JJ" tag="JJ">srefi</token>
+		<token id="282" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="283" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="284" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="285" word="ferferi" en="transitive verb" type="VB" tag="VB_tran">ferferi</token>
+		<token id="286" word="unu" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">unu</token>
+		<token id="287" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="32">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'srefi'</source>
+	<attribution>Wilner</attribution>
+	<feature>'srefi' as specifier</feature>
+	<text>Na en srefi ben mus du ala sani.</text>
+	<gloss>He himself had to do everything.</gloss>
+	<tokens>
+		<token id="288" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="289" word="en" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">en</token>
+		<token id="290" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="291" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="292" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="293" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="294" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="295" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="296" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="33">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na'</source>
+	<attribution>Wilner</attribution>
+	<feature>'na' as copula</feature>
+	<text>Den tu man na skowtu.</text>
+	<gloss>The two men are policemen.</gloss>
+	<tokens>
+		<token id="297" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="298" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="299" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="300" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="301" word="skowtu" en="noun" type="NN" tag="NN">skowtu</token>
+		<token id="302" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="34">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na'</source>
+	<attribution>Wilner</attribution>
+	<feature>'na' as locative preposition</feature>
+	<text>Mi e go na mi mama oso.</text>
+	<gloss> I’m going to my mother’s house. Mi de na mi mama. I’m at my mother’s.</gloss>
+	<tokens>
+		<token id="303" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="304" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="305" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="306" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="307" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="308" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="309" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="310" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="35">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na'</source>
+	<attribution>Wilner</attribution>
+	<feature>'na' as focus marker (with verb)</feature>
+	<text>Na kon yu e kon fu teki a moni kba?</text>
+	<gloss>You’ve come already to take the money?</gloss>
+	<tokens>
+		<token id="311" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="312" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="313" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="314" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="315" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="316" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="317" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="318" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="319" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="320" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="321" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="36">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na'</source>
+	<attribution>Wilner</attribution>
+	<feature>'na' as focus marker (with pronoun)</feature>
+	<text>Na yu fufuru mi moni!</text>
+	<gloss>You (emp) stole my money!</gloss>
+	<tokens>
+		<token id="322" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="323" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="324" word="fufuru" en="transitive verb" type="VB" tag="VB_tran">fufuru</token>
+		<token id="325" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="326" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="327" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="37">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na'</source>
+	<attribution>Wilner</attribution>
+	<feature>'na' as focus marker (with adverb)</feature>
+	<text>Na drape un mus go.</text>
+	<gloss>We must go there (emp)</gloss>
+	<tokens>
+		<token id="328" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="329" word="drape" en="adverb" type="RB" tag="RB">drape</token>
+		<token id="330" word="un" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">un</token>
+		<token id="331" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="332" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="333" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="38">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na'</source>
+	<attribution>Wilner</attribution>
+	<feature>'na' as locative preposition</feature>
+	<text>Mi de na mi mama.</text>
+	<gloss>I’m at my mother’s.</gloss>
+	<tokens>
+		<token id="334" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="335" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="336" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="337" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="338" word="mama" en="noun" type="NN" tag="NN">mama</token>
+		<token id="339" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="39">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'na di'</source>
+	<attribution>Wilner</attribution>
+	<feature>Subordinating conjunction</feature>
+	<text>Na di den dagu bari so mi no kon ini a dyari.</text>
+	<gloss>Because the dogs barked so, I didn’t come in the yard.</gloss>
+	<tokens>
+		<token id="340" word="Na di" en="subordinating conjunction" type="CS" tag="CS_expl">Na di</token>
+		<token id="341" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="342" word="dagu" en="noun" type="NN" tag="NN">dagu</token>
+		<token id="343" word="bari" en="intransitive verb" type="VB" tag="VB_intr">bari</token>
+		<token id="344" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="345" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="346" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="347" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="348" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="349" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="350" word="dyari" en="noun" type="NN" tag="NN">dyari</token>
+		<token id="351" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="40">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'ini'</source>
+	<attribution>Wilner</attribution>
+	<feature>'ini' as locative preposition</feature>
+	<text>A bedi de na ini a kamra.</text>
+	<gloss>The bed is in the (bed)room.</gloss>
+	<tokens>
+		<token id="352" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="353" word="bedi" en="noun" type="NN" tag="NN">bedi</token>
+		<token id="354" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="355" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="356" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="357" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="358" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="359" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="41">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'ini'</source>
+	<attribution>Wilner</attribution>
+	<feature>'ini' as noun</feature>
+	<text>Yu no e kon na ini?</text>
+	<gloss>Aren’t you coming inside?</gloss>
+	<tokens>
+		<token id="360" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="361" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="362" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="363" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="364" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="365" word="ini" en="adverbial noun" type="NN" tag="NN_adv">ini</token>
+		<token id="366" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="42">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'de'</source>
+	<attribution>Wilner</attribution>
+	<feature>Existential</feature>
+	<text>A owru de baka a doro.</text>
+	<gloss>The machete is behind the door.</gloss>
+	<tokens>
+		<token id="367" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="368" word="owru" en="noun" type="NN" tag="NN">owru</token>
+		<token id="369" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="370" word="baka" en="preposition of place" type="INL" tag="INL">baka</token>
+		<token id="371" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="372" word="doro" en="noun" type="NN" tag="NN">doro</token>
+		<token id="373" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="43">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'tapu'</source>
+	<attribution>Wilner</attribution>
+	<feature>'tapu' as preposition</feature>
+	<text>A nyanyan de tapu a tafra.</text>
+	<gloss>The food is on the table.</gloss>
+	<tokens>
+		<token id="374" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="375" word="nyanyan" en="noun" type="NN" tag="NN">nyanyan</token>
+		<token id="376" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="377" word="tapu" en="preposition of place" type="INL" tag="INL">tapu</token>
+		<token id="378" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="379" word="tafra" en="noun" type="NN" tag="NN">tafra</token>
+		<token id="380" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="44">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'tapu'</source>
+	<attribution>Wilner</attribution>
+	<feature>'tapu' as verb</feature>
+	<text>Yu mu tapu den pikin meki den no prei na strati.</text>
+	<gloss>You must keep the children from playing in the street</gloss>
+	<tokens>
+		<token id="381" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="382" word="mu" en="modal" type="MD" tag="MD">mu</token>
+		<token id="383" word="tapu" en="transitive verb" type="VB" tag="VB_tran">tapu</token>
+		<token id="384" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="385" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="386" word="meki" en="complementizer" type="COMPL" tag="COMPL">meki</token>
+		<token id="387" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="388" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="389" word="prei" en="intransitive verb" type="VB" tag="VB_intr">prei</token>
+		<token id="390" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="391" word="strati" en="noun" type="NN" tag="NN">strati</token>
+		<token id="392" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="45">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'kba'</source>
+	<attribution>Wilner</attribution>
+	<feature>'kaba' as verb</feature>
+	<text>A pasi kba dya.</text>
+	<gloss>The path ends here.</gloss>
+	<tokens>
+		<token id="393" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="394" word="pasi" en="noun" type="NN" tag="NN">pasi</token>
+		<token id="395" word="kba" en="intransitive verb" type="VB" tag="VB_intr">kba</token>
+		<token id="396" word="dya" en="adverb" type="RB" tag="RB">dya</token>
+		<token id="397" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="46">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'owru'</source>
+	<attribution>Wilner</attribution>
+	<feature>Kba as adverb</feature>
+	<text>Mi e owru kba.</text>
+	<gloss>I’m getting old already</gloss>
+	<tokens>
+		<token id="398" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="399" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="400" word="owru" en="intransitive verb" type="VB" tag="VB_intr">owru</token>
+		<token id="401" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="402" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="47">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'abra'</source>
+	<attribution>Wilner</attribution>
+	<feature>preposition</feature>
+	<text>Den plane no mag frei abra a foto.</text>
+	<gloss>Planes are not allowed to fly over the city.</gloss>
+	<tokens>
+		<token id="403" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="404" word="plane" en="noun" type="NN" tag="NN">plane</token>
+		<token id="405" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="406" word="mag" en="modal" type="MD" tag="MD">mag</token>
+		<token id="407" word="frei" en="intransitive verb" type="VB" tag="VB_intr">frei</token>
+		<token id="408" word="abra" en="preposition" type="IN" tag="IN">abra</token>
+		<token id="409" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="410" word="foto" en="noun" type="NN" tag="NN">foto</token>
+		<token id="411" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="48">
+	<source>Wilner</source>
+	<attribution>Wilner</attribution>
+	<feature></feature>
+	<text>Mi go nanga mi brada na foto.</text>
+	<gloss>I went with my brother to town.</gloss>
+	<tokens>
+		<token id="412" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="413" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="414" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="415" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="416" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="417" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="418" word="foto" en="noun" type="NN" tag="NN">foto</token>
+		<token id="419" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="49">
+	<source>Wilner</source>
+	<attribution>Wilner</attribution>
+	<feature>Subordinating conjunction, numeral</feature>
+	<text>Boiki papa ben prani gruntu èn a ben kweki fowru nanga wan kaw.</text>
+	<gloss>Boiki’s father grew vegetables, and he raised chickens and a cow.</gloss>
+	<tokens>
+		<token id="420" word="Boiki" en="proper name" type="NP" tag="NP">Boiki</token>
+		<token id="421" word="papa" en="noun" type="NN" tag="NN">papa</token>
+		<token id="422" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="423" word="prani" en="transitive verb" type="VB" tag="VB_tran">prani</token>
+		<token id="424" word="gruntu" en="noun" type="NN" tag="NN">gruntu</token>
+		<token id="425" word="èn" en="coordinating conjunction" type="CC" tag="CC_and">èn</token>
+		<token id="426" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="427" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="428" word="kweki" en="transitive verb" type="VB" tag="VB_tran">kweki</token>
+		<token id="429" word="fowru" en="noun" type="NN" tag="NN">fowru</token>
+		<token id="430" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="431" word="wan" en="quantifier" type="AB" tag="AB">wan</token>
+		<token id="432" word="kaw" en="noun" type="NN" tag="NN">kaw</token>
+		<token id="433" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="50">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'moro'</source>
+	<attribution>Wilner</attribution>
+	<feature>'moro' as quantifier</feature>
+	<text>Poti moro watra ini a embre.</text>
+	<gloss>Put more water in the bucket.</gloss>
+	<tokens>
+		<token id="434" word="Poti" en="intransitive verb" type="VB" tag="VB_intr">Poti</token>
+		<token id="435" word="moro" en="quantifier" type="AB" tag="AB">moro</token>
+		<token id="436" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="437" word="ini" en="preposition" type="IN" tag="IN">ini</token>
+		<token id="438" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="439" word="embre" en="noun" type="NN" tag="NN">embre</token>
+		<token id="440" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="51">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'moro'</source>
+	<attribution>Wilner</attribution>
+	<feature>'moro' as comparative</feature>
+	<text>Mi brada moro langa.</text>
+	<gloss>My brother is taller.</gloss>
+	<tokens>
+		<token id="441" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="442" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="443" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="444" word="langa" en="intransitive verb" type="VB" tag="VB_intr">langa</token>
+		<token id="445" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="52">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'psa'</source>
+	<attribution>Wilner</attribution>
+	<feature>'psa' as comparative</feature>
+	<text>Mi brada langa psa tu meter.</text>
+	<gloss>My brother is taller than two meters.</gloss>
+	<tokens>
+		<token id="446" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="447" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="448" word="langa" en="intransitive verb" type="VB" tag="VB_intr">langa</token>
+		<token id="449" word="psa" en="comparative" type="COMP" tag="COMP">psa</token>
+		<token id="450" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="451" word="meter" en="noun" type="NN" tag="NN">meter</token>
+		<token id="452" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="53">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'psa'</source>
+	<attribution>Wilner</attribution>
+	<feature>'psa' as verb</feature>
+	<text>Un psa a broki kba.</text>
+	<gloss>We’ve already passed the bridge.</gloss>
+	<tokens>
+		<token id="453" word="Un" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">Un</token>
+		<token id="454" word="psa" en="transitive verb" type="VB" tag="VB_tran">psa</token>
+		<token id="455" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="456" word="broki" en="noun" type="NN" tag="NN">broki</token>
+		<token id="457" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="458" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="54">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'moro'</source>
+	<attribution>Wilner</attribution>
+	<feature>'moro' as adverb</feature>
+	<text>Fa a alen kon mi no ben man kon moro.</text>
+	<gloss>Because of the rain, I couldn’t come anymore.</gloss>
+	<tokens>
+		<token id="459" word="Fa" en="subordinating conjunction" type="CS" tag="CS_expl">Fa</token>
+		<token id="460" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="461" word="alen" en="noun" type="NN" tag="NN">alen</token>
+		<token id="462" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="463" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="464" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="465" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="466" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="467" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="468" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="469" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="55">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'dati'</source>
+	<attribution>Wilner</attribution>
+	<feature>'dati' as demostrative</feature>
+	<text>Na a boi dati kon fufuru ini mi oso.</text>
+	<gloss>That is the boy who came and stole from my house.</gloss>
+	<tokens>
+		<token id="470" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="471" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="472" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="473" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="474" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="475" word="fufuru" en="intransitive verb" type="VB" tag="VB_intr">fufuru</token>
+		<token id="476" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="477" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="478" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="479" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="56">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'dati'</source>
+	<attribution>Wilner</attribution>
+	<feature>'dati' as complement</feature>
+	<text>Den boi taki dati den o kon tamara baka.</text>
+	<gloss>The boys said that they would come back tomorrow.</gloss>
+	<tokens>
+		<token id="480" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="481" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="482" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="483" word="dati" en="complementizer" type="COMPL" tag="COMPL">dati</token>
+		<token id="484" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="485" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="486" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="487" word="tamara" en="nominal adverb" type="RN" tag="RN">tamara</token>
+		<token id="488" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="489" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="57">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'taki'</source>
+	<attribution>Wilner</attribution>
+	<feature>'taki' as complement</feature>
+	<text>Yu denki taki yu o man du en?</text>
+	<gloss>Do you think that you can do it? </gloss>
+	<tokens>
+		<token id="490" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="491" word="denki" en="factive verb" type="VB" tag="VB_fact">denki</token>
+		<token id="492" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="493" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="494" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="495" word="man" en="modal" type="MD" tag="MD">man</token>
+		<token id="496" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="497" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="498" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="58">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'ibri'</source>
+	<attribution>Wilner</attribution>
+	<feature>Quantifier</feature>
+	<text>Ibri bon san no e gi bun froktu, den o kapu trowe.</text>
+	<gloss>Every tree that does not give good fruit, they will chop down</gloss>
+	<tokens>
+		<token id="499" word="Ibri" en="quantifier" type="AB" tag="AB">Ibri</token>
+		<token id="500" word="bon" en="noun" type="NN" tag="NN">bon</token>
+		<token id="501" word="san" en="relative pronoun subjective form" type="REL" tag="REL_subj">san</token>
+		<token id="502" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="503" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="504" word="gi" en="transitive verb" type="VB" tag="VB_tran">gi</token>
+		<token id="505" word="bun" en="attributive adjective" type="JJ" tag="JJ">bun</token>
+		<token id="506" word="froktu" en="noun" type="NN" tag="NN">froktu</token>
+		<token id="507" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="508" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="509" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="510" word="kapu" en="transitive verb" type="VB" tag="VB_tran">kapu</token>
+		<token id="511" word="trowe" en="intransitive verb" type="VB" tag="VB_intr">trowe</token>
+		<token id="512" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="59">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'pikinso'</source>
+	<attribution>Wilner</attribution>
+	<feature>'pikinso' as quantifier</feature>
+	<text>A fufuruman gwe nanga a pikinso moni san mi ben kibri.</text>
+	<gloss>The thief ran off with the little money that I had set aside.</gloss>
+	<tokens>
+		<token id="513" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="514" word="fufuruman" en="noun" type="NN" tag="NN">fufuruman</token>
+		<token id="515" word="gwe" en="verb of movement" type="VB" tag="VB_mov">gwe</token>
+		<token id="516" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="517" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="518" word="pikinso" en="quantifier" type="AB" tag="AB">pikinso</token>
+		<token id="519" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="520" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="521" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="522" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="523" word="kibri" en="intransitive verb" type="VB" tag="VB_intr">kibri</token>
+		<token id="524" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="60">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'pinkinso'</source>
+	<attribution>Wilner</attribution>
+	<feature>'pinkinso' as adverb</feature>
+	<text>Mi o skreki en pikinso gi yu.</text>
+	<gloss>I’ll warm it up a little for you.</gloss>
+	<tokens>
+		<token id="525" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="526" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="527" word="skreki" en="transitive verb" type="VB" tag="VB_tran">skreki</token>
+		<token id="528" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="529" word="pikinso" en="adverb" type="RB" tag="RB">pikinso</token>
+		<token id="530" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="531" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="532" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="61">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'son'</source>
+	<attribution>Wilner</attribution>
+	<feature>Quantifier</feature>
+	<text>Yu no e ferstan son sani te bigisma taki.</text>
+	<gloss>You don’t understand some things when old people speak.</gloss>
+	<tokens>
+		<token id="533" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="534" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="535" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="536" word="ferstan" en="transitive verb" type="VB" tag="VB_tran">ferstan</token>
+		<token id="537" word="son" en="quantifier" type="AB" tag="AB">son</token>
+		<token id="538" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="539" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="540" word="bigisma" en="noun" type="NN" tag="NN">bigisma</token>
+		<token id="541" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="542" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="62">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'ipi'</source>
+	<attribution>Wilner</attribution>
+	<feature>Quantifier</feature>
+	<text>Mi abi ipi krosi fu wasi.</text>
+	<gloss> We have got a lot of clothes to wash</gloss>
+	<tokens>
+		<token id="543" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="544" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="545" word="ipi" en="quantifier" type="AB" tag="AB">ipi</token>
+		<token id="546" word="krosi" en="noun" type="NN" tag="NN">krosi</token>
+		<token id="547" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="548" word="wasi" en="intransitive verb" type="VB" tag="VB_intr">wasi</token>
+		<token id="549" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="63">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'back'</source>
+	<attribution>Wilner</attribution>
+	<feature>'baka' as noun</feature>
+	<text>Mi baka e hati mi!</text>
+	<gloss>My back is killing me!</gloss>
+	<tokens>
+		<token id="550" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="551" word="baka" en="noun" type="NN" tag="NN">baka</token>
+		<token id="552" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="553" word="hati" en="transitive verb" type="VB" tag="VB_tran">hati</token>
+		<token id="554" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="555" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="64">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'baka'</source>
+	<attribution>Wilner</attribution>
+	<feature>'baka' as verb</feature>
+	<text>Fosi yu stofu a fowru, baka en pikinso.</text>
+	<gloss>Before you braise the chicken, you need to fry it a little</gloss>
+	<tokens>
+		<token id="556" word="Fosi" en="subordinating conjunction" type="CS" tag="CS_time">Fosi</token>
+		<token id="557" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="558" word="stofu" en="transitive verb" type="VB" tag="VB_tran">stofu</token>
+		<token id="559" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="560" word="fowru" en="noun" type="NN" tag="NN">fowru</token>
+		<token id="561" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="562" word="baka" en="transitive verb" type="VB" tag="VB_tran">baka</token>
+		<token id="563" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="564" word="pikinso" en="adverb" type="RB" tag="RB">pikinso</token>
+		<token id="565" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="65">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'baka'</source>
+	<attribution>Wilner</attribution>
+	<feature>'baka' as preposition</feature>
+	<text>Den sneisi e kibri sukru baka a toonbangi.</text>
+	<gloss>The Chinese (shopkeepers) hide sugar behind the counter.</gloss>
+	<tokens>
+		<token id="566" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="567" word="sneisi" en="noun" type="NN" tag="NN">sneisi</token>
+		<token id="568" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="569" word="kibri" en="transitive verb" type="VB" tag="VB_tran">kibri</token>
+		<token id="570" word="sukru" en="noun" type="NN" tag="NN">sukru</token>
+		<token id="571" word="baka" en="preposition of place" type="INL" tag="INL">baka</token>
+		<token id="572" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="573" word="toonbangi" en="noun" type="NN" tag="NN">toonbangi</token>
+		<token id="574" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="66">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'baka'</source>
+	<attribution>Wilner</attribution>
+	<feature>'baka' as adverb</feature>
+	<text>Efu yu e naki a boi baka, mi o fon yu.</text>
+	<gloss>If you hit the boy again, I’ll beat you.</gloss>
+	<tokens>
+		<token id="575" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="576" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="577" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="578" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="579" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="580" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="581" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="582" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="583" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="584" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="585" word="fon" en="transitive verb" type="VB" tag="VB_tran">fon</token>
+		<token id="586" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="587" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="67">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'dyarusu'</source>
+	<attribution>Wilner</attribution>
+	<feature>Attributive adjective</feature>
+	<text>A pikin disi na wan dyarusu pikin.</text>
+	<gloss>This child is a jealous child.</gloss>
+	<tokens>
+		<token id="588" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="589" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="590" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="591" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="592" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="593" word="dyarusu" en="attributive adjective" type="JJ" tag="JJ">dyarusu</token>
+		<token id="594" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="595" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="68">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'bere'</source>
+	<attribution>Wilner</attribution>
+	<feature>Attributive adjective</feature>
+	<text>A boi disi abi wan langa bere.</text>
+	<gloss>Тhis boy has an insatiable appetite.</gloss>
+	<tokens>
+		<token id="596" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="597" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="598" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="599" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="600" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="601" word="langa" en="attributive adjective" type="JJ" tag="JJ">langa</token>
+		<token id="602" word="bere" en="noun" type="NN" tag="NN">bere</token>
+		<token id="603" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="69">
+	<source>Wilner John (2007), Wortubuku fu Sranan Tongo. Sranan Tongo – English Dictionary. SIL International. From entry 'kefalek'</source>
+	<attribution>Wilner</attribution>
+	<feature>Attributive adjective</feature>
+	<text>Na wan kefalek sani a boi disi du.</text>
+	<gloss>It was an exceptional thing that this boy did.</gloss>
+	<tokens>
+		<token id="604" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="605" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="606" word="kefalek" en="attributive adjective" type="JJ" tag="JJ">kefalek</token>
+		<token id="607" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="608" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="609" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="610" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="611" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="612" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

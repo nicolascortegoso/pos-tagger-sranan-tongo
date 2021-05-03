@@ -1,0 +1,1816 @@
+<sentence id="1">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 2a</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>yere!</text>
+	<gloss>listen!</gloss>
+	<tokens>
+		<token id="1" word="yere" en="intransitive verb" type="VB" tag="VB_intr">yere</token>
+		<token id="2" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 2c</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>Anansi gwe</text>
+	<gloss>Anansi left</gloss>
+	<tokens>
+		<token id="3" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="4" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="5" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 2e</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>alen kon tranga</text>
+	<gloss>It rained hard</gloss>
+	<tokens>
+		<token id="6" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="7" word="alen" en="noun" type="NN" tag="NN">alen</token>
+		<token id="8" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="9" word="tranga" en="adverb" type="RB" tag="RB">tranga</token>
+		<token id="10" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 2g</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>den ben sidon na ini den boto</text>
+	<gloss>they sat in their boat</gloss>
+	<tokens>
+		<token id="11" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="12" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="13" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="14" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="15" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="16" word="den" en="plural third person possessive pronoun" type="PP$" tag="PP$_3pl">den</token>
+		<token id="17" word="boto" en="noun" type="NN" tag="NN">boto</token>
+		<token id="18" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 3a</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>Anansi no ben abi notnoti</text>
+	<gloss>Anansi didn't have anything</gloss>
+	<tokens>
+		<token id="19" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="20" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="21" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="22" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="23" word="notnoti" en="indefinite pronoun" type="PRN" tag="PRN_ind">notnoti</token>
+		<token id="24" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 3c</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>mi e teki a patu wawan</text>
+	<gloss>I only take the pot</gloss>
+	<tokens>
+		<token id="25" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="26" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="27" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="28" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="29" word="patu" en="noun" type="NN" tag="NN">patu</token>
+		<token id="30" word="wawan" en="specifier" type="AP" tag="AP">wawan</token>
+		<token id="31" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 3e</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>mi e marki a watra nanga mi finga</text>
+	<gloss>I measure the water with my finger</gloss>
+	<tokens>
+		<token id="32" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="33" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="34" word="marki" en="transitive verb" type="VB" tag="VB_tran">marki</token>
+		<token id="35" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="36" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="37" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="38" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="39" word="finga" en="noun" type="NN" tag="NN">finga</token>
+		<token id="40" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 3g</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>a basya ben e wipi den srefsrefi nanga langa wipi</text>
+	<gloss>the boss would whip them mercilessly with a long whip</gloss>
+	<tokens>
+		<token id="41" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="42" word="basya" en="noun" type="NN" tag="NN">basya</token>
+		<token id="43" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="44" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="45" word="wipi" en="transitive verb" type="VB" tag="VB_tran">wipi</token>
+		<token id="46" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="47" word="srefsrefi" en="adverb" type="RB" tag="RB">srefsrefi</token>
+		<token id="48" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="49" word="langa" en="attributive adjective" type="JJ" tag="JJ">langa</token>
+		<token id="50" word="wipi" en="noun" type="NN" tag="NN">wipi</token>
+		<token id="51" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 4b</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>ala den sma e taigi pikinnengre, un no naki en</text>
+	<gloss>all the people tell the children, 'do not hit it'</gloss>
+	<tokens>
+		<token id="52" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="53" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="54" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="55" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="56" word="taigi" en="transitive verb" type="VB" tag="VB_tran">taigi</token>
+		<token id="57" word="pikinnengre" en="noun" type="NN" tag="NN">pikinnengre</token>
+		<token id="58" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="59" word="un" en="singular second person pronoun" type="PRN" tag="PRN_2sg">un</token>
+		<token id="60" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="61" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="62" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="63" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 4d</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>yu kan taigi en odi gi mi</text>
+	<gloss>tell him 'hi' for me</gloss>
+	<tokens>
+		<token id="64" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="65" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="66" word="taigi" en="transitive verb" type="VB" tag="VB_tran">taigi</token>
+		<token id="67" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="68" word="odi" en="interjection" type="UH" tag="UH">odi</token>
+		<token id="69" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="70" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="71" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 5b</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>a dei dati Tigri ben o kon tu</text>
+	<gloss>that day Tiger would come too</gloss>
+	<tokens>
+		<token id="72" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="73" word="dei" en="nominal adverb" type="RN" tag="RN">dei</token>
+		<token id="74" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="75" word="Tigri" en="proper name" type="NP" tag="NP_name">Tigri</token>
+		<token id="76" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="77" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="78" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="79" word="tu" en="adverb" type="RB" tag="RB">tu</token>
+		<token id="80" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 6</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>na kon yu e kon na mi</text>
+	<gloss>you're coming to me</gloss>
+	<tokens>
+		<token id="81" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="82" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="83" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="84" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="85" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="86" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="87" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="88" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 7b</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>Anansi no kan go drape moro</text>
+	<gloss>Anansi can't go there anymore</gloss>
+	<tokens>
+		<token id="89" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="90" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="91" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="92" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="93" word="drape" en="adverb" type="RB" tag="RB">drape</token>
+		<token id="94" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="95" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 9a</source>
+	<attribution></attribution>
+	<feature>Active clause. Indicative</feature>
+	<text>San yu tyari kon gi mi?</text>
+	<gloss>What did you bring for me?</gloss>
+	<tokens>
+		<token id="96" word="San" en="interrogative word" type="WP" tag="WP">San</token>
+		<token id="97" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="98" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="99" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="100" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="101" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="102" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 9c</source>
+	<attribution></attribution>
+	<feature>Active clause. Interrogative</feature>
+	<text>Oten yu o gi mi moni baka?</text>
+	<gloss>When will you give me the money back?</gloss>
+	<tokens>
+		<token id="103" word="Oten" en="interrogative word" type="WP" tag="WP">Oten</token>
+		<token id="104" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="105" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="106" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="107" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="108" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="109" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="110" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 10b</source>
+	<attribution></attribution>
+	<feature>Active clause. Interrogative</feature>
+	<text>i wan dringi pikin biri?</text>
+	<gloss>Would you like to drink some beer?</gloss>
+	<tokens>
+		<token id="111" word="i" en="singular second person pronoun" type="PRN" tag="PRN_2sg">i</token>
+		<token id="112" word="wan" en="quantifier" type="AB" tag="AB">wan</token>
+		<token id="113" word="dringi" en="transitive verb" type="VB" tag="VB_tran">dringi</token>
+		<token id="114" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="115" word="biri" en="noun" type="NN" tag="NN">biri</token>
+		<token id="116" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 11a</source>
+	<attribution></attribution>
+	<feature>Active clause. Imperative</feature>
+	<text>Gwe!</text>
+	<gloss>Go away!</gloss>
+	<tokens>
+		<token id="117" word="Gwe" en="intransitive verb" type="VB" tag="VB_intr">Gwe</token>
+		<token id="118" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 11c</source>
+	<attribution></attribution>
+	<feature>Active clause. Imperative</feature>
+	<text>Un no naki en!</text>
+	<gloss>Don't you hit it!</gloss>
+	<tokens>
+		<token id="119" word="Un" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">Un</token>
+		<token id="120" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="121" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="122" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="123" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 12b</source>
+	<attribution></attribution>
+	<feature>Stative clause. Descriptive clause</feature>
+	<text>a no doti</text>
+	<gloss>it's not dirty</gloss>
+	<tokens>
+		<token id="124" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="125" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="126" word="doti" en="intransitive verb" type="VB" tag="VB_intr">doti</token>
+		<token id="127" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 13a</source>
+	<attribution></attribution>
+	<feature>Stative clause. Descriptive clause</feature>
+	<text>a ben pikin</text>
+	<gloss>it was small</gloss>
+	<tokens>
+		<token id="128" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="129" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="130" word="pikin" en="intransitive verb" type="VB" tag="VB_intr">pikin</token>
+		<token id="131" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 13c</source>
+	<attribution></attribution>
+	<feature>Stative clause. Descriptive clause</feature>
+	<text>wan sma o de swanger</text>
+	<gloss>someone will be pregnant</gloss>
+	<tokens>
+		<token id="132" word="wan" en="singular article" type="AT" tag="AT_sg">wan</token>
+		<token id="133" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="134" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="135" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="136" word="swanger" en="attributive adjective" type="JJ" tag="JJ">swanger</token>
+		<token id="137" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 14a</source>
+	<attribution></attribution>
+	<feature>Stative clause. Descriptive clause</feature>
+	<text>a faya tumsi</text>
+	<gloss>it's awfully hot</gloss>
+	<tokens>
+		<token id="138" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="139" word="faya" en="intransitive verb" type="VB" tag="VB_intr">faya</token>
+		<token id="140" word="tumsi" en="adverb" type="RB" tag="RB">tumsi</token>
+		<token id="141" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 15a</source>
+	<attribution></attribution>
+	<feature>Stative clause. Descriptive clause</feature>
+	<text>mi oso moro bigi leki dati</text>
+	<gloss>my house is bigger than that</gloss>
+	<tokens>
+		<token id="142" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="143" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="144" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="145" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="146" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="147" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="148" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 15c</source>
+	<attribution></attribution>
+	<feature>Stative clause. Descriptive clause</feature>
+	<text>Kenneth bigi psa twee meter</text>
+	<gloss>Kenneth is taller than two meters</gloss>
+	<tokens>
+		<token id="149" word="Kenneth" en="proper name" type="NP" tag="NP_name">Kenneth</token>
+		<token id="150" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="151" word="psa" en="comparative" type="COMP" tag="COMP">psa</token>
+		<token id="152" word="twee" en="cardinal number" type="NUMB" tag="NUMB_cd">twee</token>
+		<token id="153" word="meter" en="noun" type="NN" tag="NN">meter</token>
+		<token id="154" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 16b</source>
+	<attribution></attribution>
+	<feature>Stative clause. Existential clause</feature>
+	<text>nownow wroko no de</text>
+	<gloss>there isn't any work now</gloss>
+	<tokens>
+		<token id="155" word="nownow" en="nominal adverb" type="RN" tag="RN">nownow</token>
+		<token id="156" word="wroko" en="noun" type="NN" tag="NN">wroko</token>
+		<token id="157" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="158" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="159" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="26">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 17a</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>en fesnen na Christoforus</text>
+	<gloss>his first name is Christopher</gloss>
+	<tokens>
+		<token id="160" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="161" word="fesnen" en="noun" type="NN" tag="NN">fesnen</token>
+		<token id="162" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="163" word="Christoforus" en="proper name" type="NP" tag="NP_name">Christoforus</token>
+		<token id="164" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="27">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 17c</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>a ben de wan bun datra</text>
+	<gloss>he was a good doctor</gloss>
+	<tokens>
+		<token id="165" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="166" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="167" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="168" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="169" word="bun" en="attributive adjective" type="JJ" tag="JJ">bun</token>
+		<token id="170" word="datra" en="noun" type="NN" tag="NN">datra</token>
+		<token id="171" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="28">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 18a</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>en na mi mati</text>
+	<gloss>he is my friend</gloss>
+	<tokens>
+		<token id="172" word="en" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">en</token>
+		<token id="173" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="174" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="175" word="mati" en="noun" type="NN" tag="NN">mati</token>
+		<token id="176" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="29">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 19a</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>den tu sma disi na Sranansma</text>
+	<gloss>these two people are Surinamers</gloss>
+	<tokens>
+		<token id="177" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="178" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="179" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="180" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="181" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="182" word="Sranansma" en="proper name" type="NP" tag="NP_name">Sranansma</token>
+		<token id="183" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="30">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 20</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>Ma den srafu di ben e kon den no ben abi a srefi leti</text>
+	<gloss>But the slaves who came didn't have the same rights</gloss>
+	<tokens>
+		<token id="184" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="185" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="186" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="187" word="di" en="relative pronoun subjective form" type="REL" tag="REL_subj">di</token>
+		<token id="188" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="189" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="190" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="191" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="192" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="193" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="194" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="195" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="196" word="srefi" en="attributive adjective" type="JJ" tag="JJ">srefi</token>
+		<token id="197" word="leti" en="noun" type="NN" tag="NN">leti</token>
+		<token id="198" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="31">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 22a</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>a buku disi na fu mi</text>
+	<gloss>this book is mine</gloss>
+	<tokens>
+		<token id="199" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="200" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="201" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="202" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="203" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="204" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="205" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="32">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 22c</source>
+	<attribution></attribution>
+	<feature>Equative clause</feature>
+	<text>a tori disi na fu srafuten na ini Sranan</text>
+	<gloss>this story is about the time of slavery in Suriname</gloss>
+	<tokens>
+		<token id="206" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="207" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="208" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="209" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="210" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="211" word="srafuten" en="noun" type="NN" tag="NN">srafuten</token>
+		<token id="212" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="213" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="214" word="Sranan" en="proper name" type="NP" tag="NP_name">Sranan</token>
+		<token id="215" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="33">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 23b</source>
+	<attribution></attribution>
+	<feature>Process clause</feature>
+	<text>ef' a ben e nyan furu dan a ben sa kon moro bigi</text>
+	<gloss>if he had eaten a lot then he would have become bigger</gloss>
+	<tokens>
+		<token id="216" word="ef'" en="subordinating conjunction" type="CS" tag="CS_if">ef'</token>
+		<token id="217" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="218" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="219" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="220" word="nyan" en="transitive verb" type="VB" tag="VB_tran">nyan</token>
+		<token id="221" word="furu" en="adverb" type="RB" tag="RB">furu</token>
+		<token id="222" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="223" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="224" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="225" word="sa" en="modal" type="MD" tag="MD">sa</token>
+		<token id="226" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="227" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="228" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="229" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="34">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 24b</source>
+	<attribution></attribution>
+	<feature>Process clause</feature>
+	<text>a e kon fatu</text>
+	<gloss>he's getting fat</gloss>
+	<tokens>
+		<token id="230" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="231" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="232" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="233" word="fatu" en="intransitive verb" type="VB" tag="VB_intr">fatu</token>
+		<token id="234" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="35">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 25a</source>
+	<attribution></attribution>
+	<feature>Process clause</feature>
+	<text>a strati tron wan liba</text>
+	<gloss>the street became a river</gloss>
+	<tokens>
+		<token id="235" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="236" word="strati" en="noun" type="NN" tag="NN">strati</token>
+		<token id="237" word="tron" en="transitive verb" type="VB" tag="VB_tran">tron</token>
+		<token id="238" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="239" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="240" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="36">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 25c</source>
+	<attribution></attribution>
+	<feature>Process clause</feature>
+	<text>san yu wani tron te yu kon bigi?</text>
+	<gloss>what do you want to be when you grow up?</gloss>
+	<tokens>
+		<token id="241" word="san" en="interrogative word" type="WP" tag="WP">san</token>
+		<token id="242" word="yu" en="singular third person pronoun" type="PRN" tag="PRN_3sg">yu</token>
+		<token id="243" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="244" word="tron" en="transitive verb" type="VB" tag="VB_tran">tron</token>
+		<token id="245" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="246" word="yu" en="singular third person pronoun" type="PRN" tag="PRN_3sg">yu</token>
+		<token id="247" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="248" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="249" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="37">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 26b</source>
+	<attribution></attribution>
+	<feature>Relative clause</feature>
+	<text>a tori disi san mi e go taki tide na fu srafuten</text>
+	<gloss>this story that I'm going to tell today is about slavery</gloss>
+	<tokens>
+		<token id="250" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="251" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="252" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="253" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="254" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="255" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="256" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="257" word="taki" en="transitive verb" type="VB" tag="VB_tran">taki</token>
+		<token id="258" word="tide" en="nominal adverb" type="RN" tag="RN">tide</token>
+		<token id="259" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="260" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="261" word="srafuten" en="noun" type="NN" tag="NN">srafuten</token>
+		<token id="262" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="38">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 26d</source>
+	<attribution></attribution>
+	<feature>Relative clause</feature>
+	<text>a kamra pe den ben e tan ben dungru</text>
+	<gloss>the room where they stayed was dark</gloss>
+	<tokens>
+		<token id="263" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="264" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="265" word="pe" en="adverbial relative" type="REL" tag="REL_adv">pe</token>
+		<token id="266" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="267" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="268" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="269" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="270" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="271" word="dungru" en="intransitive verb" type="VB" tag="VB_intr">dungru</token>
+		<token id="272" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="39">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 27b</source>
+	<attribution></attribution>
+	<feature>Coordinate sentences</feature>
+	<text>mi e poti en ini a patu noso mi e poti en ini a pan</text>
+	<gloss>I put it in the pot or I put it in the pan</gloss>
+	<tokens>
+		<token id="273" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="274" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="275" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="276" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="277" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="278" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="279" word="patu" en="noun" type="NN" tag="NN">patu</token>
+		<token id="280" word="noso" en="coordinating conjunction" type="CC" tag="CC_or">noso</token>
+		<token id="281" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="282" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="283" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="284" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="285" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="286" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="287" word="pan" en="noun" type="NN" tag="NN">pan</token>
+		<token id="288" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="40">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 27d</source>
+	<attribution></attribution>
+	<feature>Coordinate sentences</feature>
+	<text>te mi e luku efu a gari of mi e smeri en son leisi</text>
+	<gloss>when I look to see if it's done or I smell it sometimes</gloss>
+	<tokens>
+		<token id="289" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="290" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="291" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="292" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="293" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="294" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="295" word="gari" en="intransitive verb" type="VB" tag="VB_intr">gari</token>
+		<token id="296" word="of" en="coordinating conjunction" type="CC" tag="CC_or">of</token>
+		<token id="297" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="298" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="299" word="smeri" en="transitive verb" type="VB" tag="VB_tran">smeri</token>
+		<token id="300" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="301" word="son" en="quantifier" type="AB" tag="AB">son</token>
+		<token id="302" word="leisi" en="nominal adverb" type="RN" tag="RN">leisi</token>
+		<token id="303" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="41">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 28b</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Purpose</feature>
+	<text>wan dei Anansi no ben abi notnoti fu gi sisa Akuba</text>
+	<gloss>one day Anansi did not have anything to give sister Akuba</gloss>
+	<tokens>
+		<token id="304" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="305" word="dei" en="nominal adverb" type="RN" tag="RN">dei</token>
+		<token id="306" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="307" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="308" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="309" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="310" word="notnoti" en="indefinite pronoun" type="PRN" tag="PRN_ind">notnoti</token>
+		<token id="311" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="312" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="313" word="sisa" en="noun" type="NN" tag="NN">sisa</token>
+		<token id="314" word="Akuba" en="proper name" type="NP" tag="NP_name">Akuba</token>
+		<token id="315" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="42">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 30a</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Reason</feature>
+	<text>someni ben dede fu di den no ben kisi wan bun yepi</text>
+	<gloss>so many people died because they didn't receive good care</gloss>
+	<tokens>
+		<token id="316" word="someni" en="indefinite pronoun" type="PRN" tag="PRN_ind">someni</token>
+		<token id="317" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="318" word="dede" en="intransitive verb" type="VB" tag="VB_intr">dede</token>
+		<token id="319" word="fu di" en="subordinating conjunction" type="CS" tag="CS_expl">fu di</token>
+		<token id="320" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="321" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="322" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="323" word="kisi" en="transitive verb" type="VB" tag="VB_tran">kisi</token>
+		<token id="324" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="325" word="bun" en="attributive adjective" type="JJ" tag="JJ">bun</token>
+		<token id="326" word="yepi" en="noun" type="NN" tag="NN">yepi</token>
+		<token id="327" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="43">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 30c</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Reason</feature>
+	<text>mi e spuru a patu pikinso want kande kakalaka noso wan sani go ini a patu</text>
+	<gloss>I rinse the pot a little because maybe a cockroach or something went in it</gloss>
+	<tokens>
+		<token id="328" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="329" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="330" word="spuru" en="transitive verb" type="VB" tag="VB_tran">spuru</token>
+		<token id="331" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="332" word="patu" en="noun" type="NN" tag="NN">patu</token>
+		<token id="333" word="pikinso" en="adverb" type="RB" tag="RB">pikinso</token>
+		<token id="334" word="want" en="subordinating conjunction" type="CS" tag="CS_expl">want</token>
+		<token id="335" word="Kande" en="adverb" type="RB" tag="RB">Kande</token>
+		<token id="336" word="kakalaka" en="noun" type="NN" tag="NN">kakalaka</token>
+		<token id="337" word="noso" en="coordinating conjunction" type="CC" tag="CC_or">noso</token>
+		<token id="338" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="339" word="sani" en="indefinite pronoun" type="PRN" tag="PRN_ind">sani</token>
+		<token id="340" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="341" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="342" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="343" word="patu" en="noun" type="NN" tag="NN">patu</token>
+		<token id="344" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="44">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 32</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Condition</feature>
+	<text>nanga aladi den ben e wroko so tranga toku den ben kisi fonfon</text>
+	<gloss>even though they worked so hard, nevertheless they got thrashings</gloss>
+	<tokens>
+		<token id="345" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="346" word="aladi" en="subordinating conjunction" type="CS" tag="CS_if">aladi</token>
+		<token id="347" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="348" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="349" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="350" word="wroko" en="transitive verb" type="VB" tag="VB_tran">wroko</token>
+		<token id="351" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="352" word="tranga" en="adverb" type="RB" tag="RB">tranga</token>
+		<token id="353" word="toku" en="coordinating conjunction" type="CC" tag="CC_so">toku</token>
+		<token id="354" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="355" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="356" word="kisi" en="transitive verb" type="VB" tag="VB_tran">kisi</token>
+		<token id="357" word="fonfon" en="noun" type="NN" tag="NN">fonfon</token>
+		<token id="358" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="45">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 33b</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Time</feature>
+	<text>di a waka na ini a busi a doro wan pikin kampu</text>
+	<gloss>when he walked in the forest he came to a small hut</gloss>
+	<tokens>
+		<token id="359" word="di" en="subordinating conjunction" type="CS" tag="CS_time">di</token>
+		<token id="360" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="361" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="362" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="363" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="364" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="365" word="busi" en="noun" type="NN" tag="NN">busi</token>
+		<token id="366" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="367" word="doro" en="transitive verb" type="VB" tag="VB_tran">doro</token>
+		<token id="368" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="369" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="370" word="kampu" en="noun" type="NN" tag="NN">kampu</token>
+		<token id="371" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="46">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 33d</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Time</feature>
+	<text>sodrai yu si en ala den sma e taigi pikinnengre, un no naki en</text>
+	<gloss>as soon as you see it all the people tell the children, don't hit it</gloss>
+	<tokens>
+		<token id="372" word="sodrai" en="subordinating conjunction" type="CS" tag="CS_time">sodrai</token>
+		<token id="373" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="374" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="375" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="376" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="377" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="378" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="379" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="380" word="taigi" en="transitive verb" type="VB" tag="VB_tran">taigi</token>
+		<token id="381" word="pikinnengre" en="noun" type="NN" tag="NN">pikinnengre</token>
+		<token id="382" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="383" word="un" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">un</token>
+		<token id="384" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="385" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="386" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="387" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="47">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 34b</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Cause</feature>
+	<text>a man dati ben e meki muiti meki furu srafu kon fri</text>
+	<gloss>that man tried hard to set many slaves free</gloss>
+	<tokens>
+		<token id="388" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="389" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="390" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="391" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="392" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="393" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="394" word="muiti" en="noun" type="NN" tag="NN">muiti</token>
+		<token id="395" word="meki" en="complementizer" type="COMPL" tag="COMPL">meki</token>
+		<token id="396" word="furu" en="quantifier" type="AB" tag="AB">furu</token>
+		<token id="397" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="398" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="399" word="fri" en="intransitive verb" type="VB" tag="VB_intr">fri</token>
+		<token id="400" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="48">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 35b</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Cause</feature>
+	<text>meki a luku!</text>
+	<gloss>Let him see!</gloss>
+	<tokens>
+		<token id="401" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="402" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="403" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="404" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+	</tokens>
+</sentence>
+<sentence id="49">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 37</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Speech attribution</feature>
+	<text>Anansi taki 'mi abi wan sani dya...'</text>
+	<gloss>Anansi said, 'I've got something here...'</gloss>
+	<tokens>
+		<token id="405" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="406" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="407" word="'" en="punctuation sign" type="PNCT" tag="PNCT">'</token>
+		<token id="408" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="409" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="410" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="411" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="412" word="dya" en="adverb" type="RB" tag="RB">dya</token>
+		<token id="413" word="..." en="punctuation sign" type="PNCT" tag="PNCT">...</token>
+		<token id="414" word="'" en="punctuation sign" type="PNCT" tag="PNCT">'</token>
+		<token id="415" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="50">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 38b</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Speech attribution</feature>
+	<text>mi wani ferteri unu taki someni fri srafu kisi leri</text>
+	<gloss>I want to tell you that many free slaves got an education</gloss>
+	<tokens>
+		<token id="416" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="417" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="418" word="ferteri" en="transitive verb" type="VB" tag="VB_tran">ferteri</token>
+		<token id="419" word="unu" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">unu</token>
+		<token id="420" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="421" word="someni" en="quantifier" type="AB" tag="AB">someni</token>
+		<token id="422" word="fri" en="attributive adjective" type="JJ" tag="JJ">fri</token>
+		<token id="423" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="424" word="kisi" en="transitive verb" type="VB" tag="VB_tran">kisi</token>
+		<token id="425" word="leri" en="noun" type="NN" tag="NN">leri</token>
+		<token id="426" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="51">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 38d</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Speech attribution</feature>
+	<text>a si taki na Anansi</text>
+	<gloss>he saw that it was Anansi</gloss>
+	<tokens>
+		<token id="427" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="428" word="si" en="factive verb" type="VB" tag="VB_fact">si</token>
+		<token id="429" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="430" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="431" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="432" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="52">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 39b</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Speech attribution</feature>
+	<text>a aleisi e sori dati a kba bori</text>
+	<gloss>the rice shows that it's done cooking</gloss>
+	<tokens>
+		<token id="433" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="434" word="aleisi" en="noun" type="NN" tag="NN">aleisi</token>
+		<token id="435" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="436" word="sori" en="intransitive verb" type="VB" tag="VB_intr">sori</token>
+		<token id="437" word="dati" en="complementizer" type="COMPL" tag="COMPL">dati</token>
+		<token id="438" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="439" word="kba" en="transitive verb" type="VB" tag="VB_tran">kba</token>
+		<token id="440" word="bori" en="intransitive verb" type="VB" tag="VB_intr">bori</token>
+		<token id="441" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="53">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 40a</source>
+	<attribution></attribution>
+	<feature>Subordinate sentences. Speech attribution</feature>
+	<text>yu no e si suma e koiri?</text>
+	<gloss>Don't you see who is wandering about?</gloss>
+	<tokens>
+		<token id="442" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="443" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="444" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="445" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="446" word="suma" en="relative pronoun subjective form" type="REL" tag="REL_subj">suma</token>
+		<token id="447" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="448" word="koiri" en="intransitive verb" type="VB" tag="VB_intr">koiri</token>
+		<token id="449" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="54">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 41a</source>
+	<attribution></attribution>
+	<feature>Clause chains</feature>
+	<text>Ontiman drai luku</text>
+	<gloss>Hunter turned and looked</gloss>
+	<tokens>
+		<token id="450" word="Ontiman" en="proper name" type="NP" tag="NP_name">Ontiman</token>
+		<token id="451" word="drai" en="intransitive verb" type="VB" tag="VB_intr">drai</token>
+		<token id="452" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="453" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="55">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 41c</source>
+	<attribution></attribution>
+	<feature>Clause chains</feature>
+	<text>mi e teki en poti ini a pan</text>
+	<gloss>I take it and put it in the pan</gloss>
+	<tokens>
+		<token id="454" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="455" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="456" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="457" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="458" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="459" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="460" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="461" word="pan" en="noun" type="NN" tag="NN">pan</token>
+		<token id="462" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="56">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 41e</source>
+	<attribution></attribution>
+	<feature>Clause chains</feature>
+	<text>a fel a tigri drei a buba fu a tigri</text>
+	<gloss>he skinned the tiger and dried its pelt</gloss>
+	<tokens>
+		<token id="463" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="464" word="fel" en="transitive verb" type="VB" tag="VB_tran">fel</token>
+		<token id="465" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="466" word="tigri" en="noun" type="NN" tag="NN">tigri</token>
+		<token id="467" word="drei" en="transitive verb" type="VB" tag="VB_tran">drei</token>
+		<token id="468" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="469" word="buba" en="noun" type="NN" tag="NN">buba</token>
+		<token id="470" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="471" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="472" word="tigri" en="noun" type="NN" tag="NN">tigri</token>
+		<token id="473" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="57">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 42a</source>
+	<attribution></attribution>
+	<feature>Clause chains</feature>
+	<text>Ontiman lon gwe</text>
+	<gloss>Hunter ran away</gloss>
+	<tokens>
+		<token id="474" word="Ontiman" en="proper name" type="NP" tag="NP_name">Ontiman</token>
+		<token id="475" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="476" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="477" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="58">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 42c</source>
+	<attribution></attribution>
+	<feature>Clause chains</feature>
+	<text>mi e kanti a aleisi go ini na patu</text>
+	<gloss>I pour the rice into the pot</gloss>
+	<tokens>
+		<token id="478" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="479" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="480" word="kanti" en="transitive verb" type="VB" tag="VB_tran">kanti</token>
+		<token id="481" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="482" word="aleisi" en="noun" type="NN" tag="NN">aleisi</token>
+		<token id="483" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="484" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="485" word="na" en="singular article" type="AT" tag="AT_sg">na</token>
+		<token id="486" word="patu" en="noun" type="NN" tag="NN">patu</token>
+		<token id="487" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="59">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 42e</source>
+	<attribution></attribution>
+	<feature>Clause chains</feature>
+	<text>Ba Tigri now kren esesi go na tapu a kronto bon</text>
+	<gloss>Brother Tiger now climbed quickly to the top of the coconut tree</gloss>
+	<tokens>
+		<token id="488" word="Ba" en="proper name" type="NP" tag="NP_name">Ba</token>
+		<token id="489" word="Tigri" en="proper name" type="NP" tag="NP_name">Tigri</token>
+		<token id="490" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="491" word="kren" en="intransitive verb" type="VB" tag="VB_intr">kren</token>
+		<token id="492" word="esesi" en="adverb" type="RB" tag="RB">esesi</token>
+		<token id="493" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="494" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="495" word="tapu" en="preposition of place" type="INL" tag="INL">tapu</token>
+		<token id="496" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="497" word="kronto" en="noun" type="NN" tag="NN">kronto</token>
+		<token id="498" word="bon" en="noun" type="NN" tag="NN">bon</token>
+		<token id="499" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="60">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 43b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>wan oso</text>
+	<gloss>a house</gloss>
+	<tokens>
+		<token id="500" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="501" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="502" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="61">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 43d</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>mi famiri oso</text>
+	<gloss>my family's house</gloss>
+	<tokens>
+		<token id="503" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="504" word="famiri" en="noun" type="NN" tag="NN">famiri</token>
+		<token id="505" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="506" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="62">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 44b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>furu gowtu ben de drape</text>
+	<gloss>much gold was there</gloss>
+	<tokens>
+		<token id="507" word="furu" en="quantifier" type="AB" tag="AB">furu</token>
+		<token id="508" word="gowtu" en="noun" type="NN" tag="NN">gowtu</token>
+		<token id="509" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="510" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="511" word="drape" en="adverb" type="RB" tag="RB">drape</token>
+		<token id="512" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="63">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 45</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>ala den boi doti</text>
+	<gloss>all the boys are dirty</gloss>
+	<tokens>
+		<token id="513" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="514" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="515" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="516" word="doti" en="intransitive verb" type="VB" tag="VB_intr">doti</token>
+		<token id="517" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="64">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 46b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>mi e teki dri kan aleisi</text>
+	<gloss>I take three cups of rice</gloss>
+	<tokens>
+		<token id="518" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="519" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="520" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="521" word="dri" en="cardinal number" type="NUMB" tag="NUMB_cd">dri</token>
+		<token id="522" word="kan" en="noun" type="NN" tag="NN">kan</token>
+		<token id="523" word="aleisi" en="noun" type="NN" tag="NN">aleisi</token>
+		<token id="524" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="65">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 47a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>wan moi pikin grun wan</text>
+	<gloss>a pretty little green one</gloss>
+	<tokens>
+		<token id="525" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="526" word="moi" en="attributive adjective" type="JJ" tag="JJ">moi</token>
+		<token id="527" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="528" word="grun" en="attributive adjective" type="JJ" tag="JJ">grun</token>
+		<token id="529" word="wan" en="specifier" type="AP" tag="AP">wan</token>
+		<token id="530" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="66">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 48a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>tra kondre sma</text>
+	<gloss>people from other countries</gloss>
+	<tokens>
+		<token id="531" word="tra" en="attributive adjective" type="JJ" tag="JJ">tra</token>
+		<token id="532" word="kondre" en="noun" type="NN" tag="NN">kondre</token>
+		<token id="533" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="534" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="67">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 49a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>den si den ingi</text>
+	<gloss>they saw the Indians</gloss>
+	<tokens>
+		<token id="535" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="536" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="537" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="538" word="ingi" en="noun" type="NN" tag="NN">ingi</token>
+		<token id="539" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="68">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 49c</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>a doro wan pikin kampu</text>
+	<gloss>he came to a small hut</gloss>
+	<tokens>
+		<token id="540" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="541" word="doro" en="intransitive verb" type="VB" tag="VB_intr">doro</token>
+		<token id="542" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="543" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="544" word="kampu" en="noun" type="NN" tag="NN">kampu</token>
+		<token id="545" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="69">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 49e</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>dati na a triki fu en</text>
+	<gloss>that is his trick</gloss>
+	<tokens>
+		<token id="546" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="547" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="548" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="549" word="triki" en="noun" type="NN" tag="NN">triki</token>
+		<token id="550" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="551" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="552" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="70">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 50a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>someni ben dede</text>
+	<gloss>so many (people) died</gloss>
+	<tokens>
+		<token id="553" word="someni" en="indefinite pronoun" type="PRN" tag="PRN_ind">someni</token>
+		<token id="554" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="555" word="dede" en="intransitive verb" type="VB" tag="VB_intr">dede</token>
+		<token id="556" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="71">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 51a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>a sani dati</text>
+	<gloss>that thing</gloss>
+	<tokens>
+		<token id="557" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="558" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="559" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="560" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="72">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 52</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>A man Pengel</text>
+	<gloss>the man Pengel</gloss>
+	<tokens>
+		<token id="561" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="562" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="563" word="Pengel" en="proper name" type="NP" tag="NP_name">Pengel</token>
+		<token id="564" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="73">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 53b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>a pikin boi fu mi</text>
+	<gloss>my little boy</gloss>
+	<tokens>
+		<token id="565" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="566" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="567" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="568" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="569" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="570" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="74">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 53d</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>dati a wan nengre leki den srefi</text>
+	<gloss>that was a negro like themselves</gloss>
+	<tokens>
+		<token id="571" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="572" word="a" en="copula" type="COP" tag="COP">a</token>
+		<token id="573" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="574" word="nengre" en="noun" type="NN" tag="NN">nengre</token>
+		<token id="575" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="576" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="577" word="srefi" en="specifier" type="AP" tag="AP">srefi</token>
+		<token id="578" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="75">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 54.</source>
+	<attribution></attribution>
+	<feature>Noun phrase: general structure</feature>
+	<text>a tori disi san mi e go taki tide</text>
+	<gloss>this story that I'm going to tell today</gloss>
+	<tokens>
+		<token id="579" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="580" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="581" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="582" word="san" en="relative pronoun objective form" type="REL" tag="REL_obj">san</token>
+		<token id="583" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="584" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="585" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="586" word="taki" en="transitive verb" type="VB" tag="VB_tran">taki</token>
+		<token id="587" word="tide" en="nominal adverb" type="RN" tag="RN">tide</token>
+		<token id="588" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="76">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 55b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: ordinal phrase</feature>
+	<text>a di fu tu neti dati</text>
+	<gloss>that second night</gloss>
+	<tokens>
+		<token id="589" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="590" word="di fu tu" en="ordinal number" type="NUMB" tag="NUMB_od">di fu tu</token>
+		<token id="591" word="neti" en="nominal adverb" type="RN" tag="RN">neti</token>
+		<token id="592" word="dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">dati</token>
+		<token id="593" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="77">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 56a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: measure phrase</feature>
+	<text>gi mi wan dala botrofisi</text>
+	<gloss>give me 2,50's worth of butter fish</gloss>
+	<tokens>
+		<token id="594" word="gi" en="ditransitive verb" type="VB" tag="VB_ditr">gi</token>
+		<token id="595" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="596" word="wan" en="cardinal number" type="NUMB" tag="NUMB_cd">wan</token>
+		<token id="597" word="dala" en="quantifier" type="AB" tag="AB">dala</token>
+		<token id="598" word="botrofisi" en="noun" type="NN" tag="NN">botrofisi</token>
+		<token id="599" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="78">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 56c</source>
+	<attribution></attribution>
+	<feature>Noun phrase: measure phrase</feature>
+	<text>gi mi tu ipi tomati</text>
+	<gloss>give me two stacks of tomatoes</gloss>
+	<tokens>
+		<token id="600" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="601" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="602" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="603" word="ipi" en="quantifier" type="AB" tag="AB">ipi</token>
+		<token id="604" word="tomati" en="noun" type="NN" tag="NN">tomati</token>
+		<token id="605" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="79">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 57b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: superlatives</feature>
+	<text>a moro bunkopu oto</text>
+	<gloss>the cheapest car</gloss>
+	<tokens>
+		<token id="606" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="607" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="608" word="bunkopu" en="attributive adjective" type="JJ" tag="JJ">bunkopu</token>
+		<token id="609" word="oto" en="noun" type="NN" tag="NN">oto</token>
+		<token id="610" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="80">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 58b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: possession</feature>
+	<text>a buba fu a tigri</text>
+	<gloss>the tiger's pelt</gloss>
+	<tokens>
+		<token id="611" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="612" word="buba" en="noun" type="NN" tag="NN">buba</token>
+		<token id="613" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="614" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="615" word="tigri" en="noun" type="NN" tag="NN">tigri</token>
+		<token id="616" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="81">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 59b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: possession</feature>
+	<text>Charles oto</text>
+	<gloss>Charles' car</gloss>
+	<tokens>
+		<token id="617" word="Charles" en="proper name" type="NP" tag="NP_name">Charles</token>
+		<token id="618" word="oto" en="noun" type="NN" tag="NN">oto</token>
+		<token id="619" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="82">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 60a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: possession</feature>
+	<text>a triki</text>
+	<gloss>the trick</gloss>
+	<tokens>
+		<token id="620" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="621" word="triki" en="noun" type="NN" tag="NN">triki</token>
+		<token id="622" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="83">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 60c</source>
+	<attribution></attribution>
+	<feature>Noun phrase: possession</feature>
+	<text>a triki fu en</text>
+	<gloss>his trick</gloss>
+	<tokens>
+		<token id="623" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="624" word="triki" en="noun" type="NN" tag="NN">triki</token>
+		<token id="625" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="626" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="627" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="84">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 62a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: possession</feature>
+	<text>den srafu fu den</text>
+	<gloss>their slaves</gloss>
+	<tokens>
+		<token id="628" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="629" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="630" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="631" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="632" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="85">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 63a</source>
+	<attribution></attribution>
+	<feature>Noun phrase: coordinate noun phrases</feature>
+	<text>mi e teki a pan noso a patu</text>
+	<gloss>I take the pan or the pot</gloss>
+	<tokens>
+		<token id="633" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="634" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="635" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="636" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="637" word="pan" en="noun" type="NN" tag="NN">pan</token>
+		<token id="638" word="noso" en="coordinating conjunction" type="CC" tag="CC_or">noso</token>
+		<token id="639" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="640" word="patu" en="noun" type="NN" tag="NN">patu</token>
+		<token id="641" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="86">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 63c</source>
+	<attribution></attribution>
+	<feature>Noun phrase: coordinate noun phrases</feature>
+	<text>Anansi ben prei wan triki nanga Kakalaka nanga Kafowru</text>
+	<gloss>Anansi played a trick on Cockroach and Chicken</gloss>
+	<tokens>
+		<token id="642" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="643" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="644" word="prei" en="transitive verb" type="VB" tag="VB_tran">prei</token>
+		<token id="645" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="646" word="triki" en="noun" type="NN" tag="NN">triki</token>
+		<token id="647" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="648" word="Kakalaka" en="proper name" type="NP" tag="NP_name">Kakalaka</token>
+		<token id="649" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="650" word="Kafowru" en="proper name" type="NP" tag="NP_name">Kafowru</token>
+		<token id="651" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="87">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 64b</source>
+	<attribution></attribution>
+	<feature>Noun phrase: coordinate noun phrases</feature>
+	<text>yu no ben abi soso takru srafumasra nanga srafumisi</text>
+	<gloss>you didn't have only mean slave masters and mistresses</gloss>
+	<tokens>
+		<token id="652" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="653" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="654" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="655" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="656" word="soso" en="adverb" type="RB" tag="RB">soso</token>
+		<token id="657" word="takru" en="attributive adjective" type="JJ" tag="JJ">takru</token>
+		<token id="658" word="srafumasra" en="noun" type="NN" tag="NN">srafumasra</token>
+		<token id="659" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="660" word="srafumisi" en="noun" type="NN" tag="NN">srafumisi</token>
+		<token id="661" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="88">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 65b</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: instrument</feature>
+	<text>trawan kan naki yu wan ston broko yu ede</text>
+	<gloss>the other person can crack your skull with a rock</gloss>
+	<tokens>
+		<token id="662" word="trawan" en="indefinite pronoun" type="PRN" tag="PRN_ind">trawan</token>
+		<token id="663" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="664" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="665" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="666" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="667" word="ston" en="noun" type="NN" tag="NN">ston</token>
+		<token id="668" word="broko" en="transitive verb" type="VB" tag="VB_tran">broko</token>
+		<token id="669" word="yu" en="singular second person possessive pronoun" type="PP$" tag="PP$_2sg">yu</token>
+		<token id="670" word="ede" en="noun" type="NN" tag="NN">ede</token>
+		<token id="671" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="89">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 67</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: specify content</feature>
+	<text>a ferteri wan tori fu Anansi nanga Tigri</text>
+	<gloss>he told a story about Anansi and Tiger</gloss>
+	<tokens>
+		<token id="672" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="673" word="ferteri" en="transitive verb" type="VB" tag="VB_tran">ferteri</token>
+		<token id="674" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="675" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="676" word="fu" en="preposition" type="IN" tag="IN">fu</token>
+		<token id="677" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="678" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="679" word="Tigri" en="proper name" type="NP" tag="NP_name">Tigri</token>
+		<token id="680" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="90">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 69</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: comparison</feature>
+	<text>agama na wan pikin sani leki wan pikin legwana</text>
+	<gloss>an agama is a little thing like a small iguana</gloss>
+	<tokens>
+		<token id="681" word="agama" en="noun" type="NN" tag="NN">agama</token>
+		<token id="682" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="683" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="684" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="685" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="686" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="687" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="688" word="pikin" en="attributive adjective" type="JJ" tag="JJ">pikin</token>
+		<token id="689" word="legwana" en="noun" type="NN" tag="NN">legwana</token>
+		<token id="690" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="91">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 71a</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: location</feature>
+	<text>mi e go na a aleisisaka</text>
+	<gloss>1 go to the rice sack</gloss>
+	<tokens>
+		<token id="691" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="692" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="693" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="694" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="695" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="696" word="aleisisaka" en="noun" type="NN" tag="NN">aleisisaka</token>
+		<token id="697" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="92">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 71c</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: location</feature>
+	<text>dan yu e tan tapu a kronto bon</text>
+	<gloss>then stay at the top of the coconut tree</gloss>
+	<tokens>
+		<token id="698" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="699" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="700" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="701" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="702" word="tapu" en="preposition of place" type="INL" tag="INL">tapu</token>
+		<token id="703" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="704" word="kronto" en="noun" type="NN" tag="NN">kronto</token>
+		<token id="705" word="bon" en="noun" type="NN" tag="NN">bon</token>
+		<token id="706" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="93">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 71e</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: location</feature>
+	<text>a tori disi na fu srafuten na ini Sranan</text>
+	<gloss>this story is about the time of slavery in Suriname</gloss>
+	<tokens>
+		<token id="707" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="708" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="709" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="710" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="711" word="fu" en="preposition" type="IN" tag="IN">fu</token>
+		<token id="712" word="srafuten" en="noun" type="NN" tag="NN">srafuten</token>
+		<token id="713" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="714" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="715" word="Sranan" en="proper name" type="NP" tag="NP_name">Sranan</token>
+		<token id="716" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="94">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 72b</source>
+	<attribution></attribution>
+	<feature>Prepositional phrase: location</feature>
+	<text>yu mus bribi na tapu Gado</text>
+	<gloss>you must believe in God</gloss>
+	<tokens>
+		<token id="717" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="718" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="719" word="bribi" en="transitive verb" type="VB" tag="VB_tran">bribi</token>
+		<token id="720" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="721" word="tapu" en="preposition of place" type="INL" tag="INL">tapu</token>
+		<token id="722" word="Gado" en="proper name" type="NP" tag="NP_name">Gado</token>
+		<token id="723" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="95">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 73b</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>dan a lon a teki en gon</text>
+	<gloss>then he ran and took his gun</gloss>
+	<tokens>
+		<token id="724" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="725" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="726" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="727" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="728" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="729" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="730" word="gon" en="noun" type="NN" tag="NN">gon</token>
+		<token id="731" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="96">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 73d</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>ma mi sa luku ini a oso</text>
+	<gloss>but I'll look in the house</gloss>
+	<tokens>
+		<token id="732" word="ma" en="coordinating conjunction" type="CC" tag="CC_or">ma</token>
+		<token id="733" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="734" word="sa" en="modal" type="MD" tag="MD">sa</token>
+		<token id="735" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="736" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="737" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="738" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="739" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="97">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 73f</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>a ben e krin wan konkoni</text>
+	<gloss>'he was cleaning a rabbit</gloss>
+	<tokens>
+		<token id="740" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="741" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="742" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="743" word="krin" en="transitive verb" type="VB" tag="VB_tran">krin</token>
+		<token id="744" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="745" word="konkoni" en="noun" type="NN" tag="NN">konkoni</token>
+		<token id="746" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="98">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 74a</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>mi e gwe.</text>
+	<gloss>I'm leaving now (right away)</gloss>
+	<tokens>
+		<token id="747" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="748" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="749" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="750" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="99">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 74c</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>mi sa gwe.</text>
+	<gloss>I'll leave (no desire to stay)</gloss>
+	<tokens>
+		<token id="751" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="752" word="sa" en="modal" type="MD" tag="MD">sa</token>
+		<token id="753" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="754" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="100">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 75b</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>Anansi ben mus pai mi</text>
+	<gloss>Anansi should have paid me</gloss>
+	<tokens>
+		<token id="755" word="Anansi" en="proper name" type="NP" tag="NP_name">Anansi</token>
+		<token id="756" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="757" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="758" word="pai" en="ditransitive verb" type="VB" tag="VB_ditr">pai</token>
+		<token id="759" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="760" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="101">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 75d</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>dan a no abi fu pai Tigri moro</text>
+	<gloss>then he won't have to pay Tiger anymore</gloss>
+	<tokens>
+		<token id="761" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="762" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="763" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="764" word="abi fu" en="modal" type="MD" tag="MD">abi fu</token>
+		<token id="765" word="pai" en="ditransitive verb" type="VB" tag="VB_ditr">pai</token>
+		<token id="766" word="Tigri" en="proper name" type="NP" tag="NP_name">Tigri</token>
+		<token id="767" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="768" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="102">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 76b</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>mi wani bori aleisi</text>
+	<gloss>I want to cook rice</gloss>
+	<tokens>
+		<token id="769" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="770" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="771" word="bori" en="transitive verb" type="VB" tag="VB_tran">bori</token>
+		<token id="772" word="aleisi" en="noun" type="NN" tag="NN">aleisi</token>
+		<token id="773" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="103">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 77b</source>
+	<attribution></attribution>
+	<feature>Verb pharses: auxiliary</feature>
+	<text>di den kba nyan</text>
+	<gloss>when they finished eating</gloss>
+	<tokens>
+		<token id="774" word="di" en="subordinating conjunction" type="CS" tag="CS_time">di</token>
+		<token id="775" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="776" word="kba" en="transitive verb" type="VB" tag="VB_tran">kba</token>
+		<token id="777" word="nyan" en="intransitive verb" type="VB" tag="VB_intr">nyan</token>
+		<token id="778" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="104">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 78a</source>
+	<attribution></attribution>
+	<feature>Word classes</feature>
+	<text>a bol kon langa</text>
+	<gloss>the boy has grown tall</gloss>
+	<tokens>
+		<token id="779" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="780" word="boi" en="noun" type="NN" tag="NN">boi</token>
+		<token id="781" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="782" word="langa" en="intransitive verb" type="VB" tag="VB_intr">langa</token>
+		<token id="783" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="105">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 79a</source>
+	<attribution></attribution>
+	<feature>Word classes</feature>
+	<text>krin a dyari gi mi</text>
+	<gloss>clean the yard for me</gloss>
+	<tokens>
+		<token id="784" word="krin" en="transitive verb" type="VB" tag="VB_tran">krin</token>
+		<token id="785" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="786" word="dyari" en="noun" type="NN" tag="NN">dyari</token>
+		<token id="787" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="788" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="789" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="106">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 80</source>
+	<attribution></attribution>
+	<feature>Nominals: names</feature>
+	<text>na Ontiman ben e sidon</text>
+	<gloss>The Hunder was sitting down</gloss>
+	<tokens>
+		<token id="790" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="791" word="Ontiman" en="proper name" type="NP" tag="NP_name">Ontiman</token>
+		<token id="792" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="793" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="794" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="795" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="107">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 82a</source>
+	<attribution></attribution>
+	<feature>Nominals: reflexive pronouns</feature>
+	<text>a koti ensrefi nanga wan nefi</text>
+	<gloss>he cuts himself with a knife</gloss>
+	<tokens>
+		<token id="796" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="797" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="798" word="ensrefi" en="singular third person reflexive pronoun" type="PPL" tag="PPL_3sg">ensrefi</token>
+		<token id="799" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="800" word="wan" en="preposition" type="IN" tag="IN">wan</token>
+		<token id="801" word="nefi" en="noun" type="NN" tag="NN">nefi</token>
+		<token id="802" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="108">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 83a</source>
+	<attribution></attribution>
+	<feature>Ditransitive verbs</feature>
+	<text>yu no abi fu pai mi moro</text>
+	<gloss>you don't have to pay me anymore</gloss>
+	<tokens>
+		<token id="803" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="804" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="805" word="abi fu" en="modal" type="MD" tag="MD">abi fu</token>
+		<token id="806" word="pai" en="ditransitive verb" type="VB" tag="VB_ditr">pai</token>
+		<token id="807" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="808" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="809" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="109">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 84a</source>
+	<attribution></attribution>
+	<feature>Articles: emphasis</feature>
+	<text>na en ben feni Sranan</text>
+	<gloss>he found Suriname</gloss>
+	<tokens>
+		<token id="810" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="811" word="en" en="emphatic singular third person pronoun" type="PRN" tag="PRN_3sgemp">en</token>
+		<token id="812" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="813" word="feni" en="transitive verb" type="VB" tag="VB_tran">feni</token>
+		<token id="814" word="Sranan" en="proper name" type="NP" tag="NP_name">Sranan</token>
+		<token id="815" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="110">
+	<source>Nickel, Marilyn; Wilner, John. Papers on Sranan Tongo. n.d. Summer Institute of Linguistics. Example 84</source>
+	<attribution></attribution>
+	<feature>Articles: emphasis</feature>
+	<text>a den eigi srafu leki densrefi ben mus yepi den</text>
+	<gloss>their own slaves like themselves had to help them</gloss>
+	<tokens>
+		<token id="816" word="a" en="focus marker" type="FOC" tag="FOC">a</token>
+		<token id="817" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="818" word="eigi" en="attributive adjective" type="JJ" tag="JJ">eigi</token>
+		<token id="819" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="820" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="821" word="densrefi" en="plural third person reflexive pronoun" type="PPL" tag="PPL_3pl">densrefi</token>
+		<token id="822" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="823" word="mus" en="modal" type="MD" tag="MD">mus</token>
+		<token id="824" word="yepi" en="transitive verb" type="VB" tag="VB_tran">yepi</token>
+		<token id="825" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="826" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

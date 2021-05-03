@@ -1,0 +1,383 @@
+<sentence id="1">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 91</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba musu bradi</text>
+	<gloss>the river must (be) wide</gloss>
+	<tokens>
+		<token id="1" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="2" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="3" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="4" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="5" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 92</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba musu de bradi</text>
+	<gloss>the river must be wide</gloss>
+	<tokens>
+		<token id="6" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="7" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="8" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="9" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="10" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="11" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 93</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>o bradi a liba de?</text>
+	<gloss>what width the river is?</gloss>
+	<tokens>
+		<token id="12" word="o" en="interrogative word" type="WP" tag="WP">o</token>
+		<token id="13" word="bradi" en="attributive adjective" type="JJ" tag="JJ">bradi</token>
+		<token id="14" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="15" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="16" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="17" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 94</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>o bradi a liba bradi?</text>
+	<gloss>how wide is the river?</gloss>
+	<tokens>
+		<token id="18" word="o" en="interrogative word" type="WP" tag="WP">o</token>
+		<token id="19" word="bradi" en="attributive adjective" type="JJ" tag="JJ">bradi</token>
+		<token id="20" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="21" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="22" word="bradi" en="attributive adjective" type="JJ" tag="JJ">bradi</token>
+		<token id="23" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 95</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>fa a liba bradi?</text>
+	<gloss>how wide is the river?</gloss>
+	<tokens>
+		<token id="24" word="fa" en="interrogative word" type="WP" tag="WP">fa</token>
+		<token id="25" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="26" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="27" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="28" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 97</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba de so bradi</text>
+	<gloss>the river is so wide</gloss>
+	<tokens>
+		<token id="29" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="30" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="31" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="32" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="33" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="34" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 98</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba bradi so</text>
+	<gloss>the river is that wide</gloss>
+	<tokens>
+		<token id="35" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="36" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="37" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="38" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="39" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 101</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>na bradi a liba bradi</text>
+	<gloss>the river is really wide</gloss>
+	<tokens>
+		<token id="40" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="41" word="bradi" en="attributive adjective" type="JJ" tag="JJ">bradi</token>
+		<token id="42" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="43" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="44" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="45" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 103</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba disi moro bradi leki a trawan</text>
+	<gloss>this river is wider than that one</gloss>
+	<tokens>
+		<token id="46" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="47" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="48" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="49" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="50" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="51" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="52" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="53" word="trawan" en="indefinite pronoun" type="PRN" tag="PRN_ind">trawan</token>
+		<token id="54" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 104</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba disi bradi moro leki a trawan</text>
+	<gloss>the river this wide more than the other-one</gloss>
+	<tokens>
+		<token id="55" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="56" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="57" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="58" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="59" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="60" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="61" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="62" word="trawan" en="indefinite pronoun" type="PRN" tag="PRN_ind">trawan</token>
+		<token id="63" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 105</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba disi bradi moro a trawan</text>
+	<gloss>the river this wide exceed the other-one</gloss>
+	<tokens>
+		<token id="64" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="65" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="66" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="67" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="68" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="69" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="70" word="trawan" en="indefinite pronoun" type="PRN" tag="PRN_ind">trawan</token>
+		<token id="71" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 108</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>mi de enthoesiast</text>
+	<gloss>I am enthusiastic</gloss>
+	<tokens>
+		<token id="72" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="73" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="74" word="enthoesiast" en="attributive adjective" type="JJ" tag="JJ">enthoesiast</token>
+		<token id="75" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 109</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>a liba bradi so bradi</text>
+	<gloss>the river is só (terribly) wide</gloss>
+	<tokens>
+		<token id="76" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="77" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="78" word="bradi" en="intransitive verb" type="VB" tag="VB_intr">bradi</token>
+		<token id="79" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="80" word="bradi" en="attributive adjective" type="JJ" tag="JJ">bradi</token>
+		<token id="81" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 110</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>bika a ben de moro hei leki Falek</text>
+	<gloss>because he was higher than Falcon</gloss>
+	<tokens>
+		<token id="82" word="bika" en="subordinating conjunction" type="CS" tag="CS_expl">bika</token>
+		<token id="83" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="84" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="85" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="86" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="87" word="hei" en="attributive adjective" type="JJ" tag="JJ">hei</token>
+		<token id="88" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="89" word="Falek" en="proper name" type="NP" tag="NP_name">Falek</token>
+		<token id="90" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 135</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>syen a de te wi frigiti wi afo</text>
+	<gloss></gloss>
+	<tokens>
+		<token id="91" word="syen" en="noun" type="NN" tag="NN">syen</token>
+		<token id="92" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="93" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="94" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="95" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="96" word="frigiti" en="factive verb" type="VB" tag="VB_fact">frigiti</token>
+		<token id="97" word="wi" en="plural first person possessive pronoun" type="PP$" tag="PP$_1pl">wi</token>
+		<token id="98" word="afo" en="noun" type="NN" tag="NN">afo</token>
+		<token id="99" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 137</source>
+	<attribution></attribution>
+	<feature>Predicative Adjectives in Modern Sranan</feature>
+	<text>na siki Tigri siki, a dede</text>
+	<gloss>Tiger is very ill, he's dead</gloss>
+	<tokens>
+		<token id="100" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="101" word="siki" en="intransitive verb" type="VB" tag="VB_intr">siki</token>
+		<token id="102" word="Tigri" en="noun" type="NN" tag="NN">Tigri</token>
+		<token id="103" word="siki" en="intransitive verb" type="VB" tag="VB_intr">siki</token>
+		<token id="104" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="105" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="106" word="dede" en="intransitive verb" type="VB" tag="VB_intr">dede</token>
+		<token id="107" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 161</source>
+	<attribution></attribution>
+	<feature>Nominal predication</feature>
+	<text>Philip na libisuma</text>
+	<gloss>Philip is a human being</gloss>
+	<tokens>
+		<token id="108" word="Philip" en="proper name" type="NP" tag="NP_name">Philip</token>
+		<token id="109" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="110" word="libisuma" en="noun" type="NN" tag="NN">libisuma</token>
+		<token id="111" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 162</source>
+	<attribution></attribution>
+	<feature>Nominal predication</feature>
+	<text>Philip de wan takru suma</text>
+	<gloss>Philip is a mean person</gloss>
+	<tokens>
+		<token id="112" word="Philip" en="proper name" type="NP" tag="NP_name">Philip</token>
+		<token id="113" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="114" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="115" word="takru" en="attributive adjective" type="JJ" tag="JJ">takru</token>
+		<token id="116" word="suma" en="noun" type="NN" tag="NN">suma</token>
+		<token id="117" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 1</source>
+	<attribution></attribution>
+	<feature>Comparative structures in modern Sranan</feature>
+	<text>Kofi bigi moro Kwaku</text>
+	<gloss>Kofi big exceed Kwaku</gloss>
+	<tokens>
+		<token id="118" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="119" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="120" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="121" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="122" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 2</source>
+	<attribution></attribution>
+	<feature>Comparative structures in modern Sranan</feature>
+	<text>Kofi bigi psa Kwaku</text>
+	<gloss>Kofi big pass Kwaku</gloss>
+	<tokens>
+		<token id="123" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="124" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="125" word="psa" en="comparative" type="COMP" tag="COMP">psa</token>
+		<token id="126" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="127" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 3</source>
+	<attribution></attribution>
+	<feature>Comparative structures in modern Sranan</feature>
+	<text>Kofi bigi moro leki Kwaku</text>
+	<gloss>Kofi big more than Kwaku</gloss>
+	<tokens>
+		<token id="128" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="129" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="130" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="131" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="132" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="133" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 4</source>
+	<attribution></attribution>
+	<feature>Comparative structures in modern Sranan</feature>
+	<text>Kofi moro bigi leki Kwaku</text>
+	<gloss>Kofi more big than Kwaku</gloss>
+	<tokens>
+		<token id="134" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="135" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="136" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="137" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="138" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="139" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 5</source>
+	<attribution></attribution>
+	<feature>Comparative structures in modern Sranan</feature>
+	<text>Kofi moro bigi moro leki Kwaku</text>
+	<gloss>Kofi more big more than Kwaku</gloss>
+	<tokens>
+		<token id="140" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="141" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="142" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="143" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="144" word="leki" en="complementizer" type="COMPL" tag="COMPL">leki</token>
+		<token id="145" word="Kwaku" en="punctuation sign" type="PNCT" tag="PNCT">Kwaku</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 6</source>
+	<attribution></attribution>
+	<feature>Comparative structures in modern Sranan</feature>
+	<text>Kofi moro bigi moro Kwaku</text>
+	<gloss>Kofi more big exceed Kwaku</gloss>
+	<tokens>
+		<token id="146" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="147" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="148" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="149" word="moro" en="comparative" type="COMP" tag="COMP">moro</token>
+		<token id="150" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="151" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Jacques Arends. Syntactic developments in Sranan. Creolization as a gradual process. 1989. Example 69</source>
+	<attribution></attribution>
+	<feature>clefting of indirect objects</feature>
+	<text>na Kofi mi gi wan buku</text>
+	<gloss>I gave Kofi a book</gloss>
+	<tokens>
+		<token id="152" word="na" en="focus marker" type="FOC" tag="FOC">na</token>
+		<token id="153" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="154" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="155" word="gi" en="intransitive verb" type="VB" tag="VB_intr">gi</token>
+		<token id="156" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="157" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="158" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

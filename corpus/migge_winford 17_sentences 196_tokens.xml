@@ -1,0 +1,339 @@
+<sentence id="1">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 5b</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Dagu taki, ‘No man, mi dati no o slakti mi meti ete’.</text>
+	<gloss>Dog said, ‘No way man, I’m not going to butcher my animal yet’.</gloss>
+	<tokens>
+		<token id="1" word="Dagu" en="proper name" type="NP" tag="NP_name">Dagu</token>
+		<token id="2" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="3" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="4" word="No" en="negation" type="NEG" tag="NEG">No</token>
+		<token id="5" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="6" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="7" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="8" word="dati" en="transitive verb" type="VB" tag="VB_tran">dati</token>
+		<token id="9" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="10" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="11" word="slakti" en="noun" type="NN" tag="NN">slakti</token>
+		<token id="12" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="13" word="meti" en="noun" type="NN" tag="NN">meti</token>
+		<token id="14" word="ete" en="adverb" type="RB" tag="RB">ete</token>
+		<token id="15" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+		<token id="16" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 6a </source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Now anansi prakseri taki: ‘So, dan now mi o go, meki wan moni, now’.</text>
+	<gloss>So then Spider thought, ‘Now I will go and make some money.’</gloss>
+	<tokens>
+		<token id="17" word="Now" en="adverb" type="RB" tag="RB">Now</token>
+		<token id="18" word="anansi" en="proper name" type="NP" tag="NP_name">anansi</token>
+		<token id="19" word="prakseri" en="intransitive verb" type="VB" tag="VB_intr">prakseri</token>
+		<token id="20" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="21" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="22" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="23" word="So" en="interjection" type="UH" tag="UH">So</token>
+		<token id="24" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="25" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="26" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="27" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="28" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="29" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="30" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="31" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="32" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="33" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="34" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="35" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="36" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+		<token id="37" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 9</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Na papa piki hem, a taki, ‘Luku so wan bigi grong mi habi’.</text>
+	<gloss>The papa answered her, he said, ‘Look, I have so large a field.’</gloss>
+	<tokens>
+		<token id="38" word="Na" en="focus marker" type="FOC" tag="FOC">Na</token>
+		<token id="39" word="papa" en="noun" type="NN" tag="NN">papa</token>
+		<token id="40" word="piki" en="intransitive verb" type="VB" tag="VB_intr">piki</token>
+		<token id="41" word="hem" en="singular third person pronoun" type="PRN" tag="PRN_3sg">hem</token>
+		<token id="42" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="43" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="44" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="45" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="46" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="47" word="Luku" en="intransitive verb" type="VB" tag="VB_intr">Luku</token>
+		<token id="48" word="so" en="adverb" type="RB" tag="RB">so</token>
+		<token id="49" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="50" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="51" word="grong" en="noun" type="NN" tag="NN">grong</token>
+		<token id="52" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="53" word="habi" en="transitive verb" type="VB" tag="VB_tran">habi</token>
+		<token id="54" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+		<token id="55" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 10b</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Want ala sma o taki a sani diri.</text>
+	<gloss>Because everybody will say that things are expensive.</gloss>
+	<tokens>
+		<token id="56" word="Want" en="subordinating conjunction" type="CS" tag="CS_expl">Want</token>
+		<token id="57" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="58" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="59" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="60" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="61" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="62" word="sani" en="noun" type="NN" tag="NN">sani</token>
+		<token id="63" word="diri" en="intransitive verb" type="VB" tag="VB_intr">diri</token>
+		<token id="64" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 10d</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>A taagi mi taki i no e nyan fisi.</text>
+	<gloss>He told me that you don’t eat fish.</gloss>
+	<tokens>
+		<token id="65" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="66" word="taagi" en="intransitive verb" type="VB" tag="VB_intr">taagi</token>
+		<token id="67" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="68" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="69" word="i" en="singular second person pronoun" type="PRN" tag="PRN_2sg">i</token>
+		<token id="70" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="71" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="72" word="nyan" en="transitive verb" type="VB" tag="VB_tran">nyan</token>
+		<token id="73" word="fisi" en="noun" type="NN" tag="NN">fisi</token>
+		<token id="74" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 11a</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Mi sabi taki yu no e nyan pataka.</text>
+	<gloss>I know that you do not eat pataka</gloss>
+	<tokens>
+		<token id="75" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="76" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="77" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="78" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="79" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="80" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="81" word="nyan" en="transitive verb" type="VB" tag="VB_tran">nyan</token>
+		<token id="82" word="pataka" en="noun" type="NN" tag="NN">pataka</token>
+		<token id="83" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 12a</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Ma yu kan si taki a man don fosi.</text>
+	<gloss>But you can see that the guy was stupid then.</gloss>
+	<tokens>
+		<token id="84" word="Ma" en="coordinating conjunction" type="CC" tag="CC_so">Ma</token>
+		<token id="85" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="86" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="87" word="si" en="intransitive verb" type="VB" tag="VB_intr">si</token>
+		<token id="88" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="89" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="90" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="91" word="don" en="transitive verb" type="VB" tag="VB_tran">don</token>
+		<token id="92" word="fosi" en="intransitive verb" type="VB" tag="VB_intr">fosi</token>
+		<token id="93" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 13a</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>A tru tak’ tamara un no abi fu kon na wroko?</text>
+	<gloss>Is it true that tomorrow we do not have to come to work?</gloss>
+	<tokens>
+		<token id="94" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="95" word="tru" en="intransitive verb" type="VB" tag="VB_intr">tru</token>
+		<token id="96" word="tak’" en="complementizer" type="COMPL" tag="COMPL">tak’</token>
+		<token id="97" word="tamara" en="nominal adverb" type="RN" tag="RN">tamara</token>
+		<token id="98" word="un" en="singular first person pronoun" type="PRN" tag="PRN_1sg">un</token>
+		<token id="99" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="100" word="abi fu" en="modal" type="MD" tag="MD">abi fu</token>
+		<token id="101" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="102" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="103" word="wroko" en="noun" type="NN" tag="NN">wroko</token>
+		<token id="104" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 14</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>A gersi taki den kuli wani teki a kondre now op.</text>
+	<gloss>It seems that the Hindustanis want to take over the country now.</gloss>
+	<tokens>
+		<token id="105" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="106" word="gersi" en="factive verb" type="VB" tag="VB_fact">gersi</token>
+		<token id="107" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="108" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="109" word="kuli" en="noun" type="NN" tag="NN">kuli</token>
+		<token id="110" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="111" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="112" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="113" word="kondre" en="noun" type="NN" tag="NN">kondre</token>
+		<token id="114" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="115" word="op" en="adverb" type="RB" tag="RB">op</token>
+		<token id="116" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 16a</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>A kan de taki Jan ben sribi kaba.</text>
+	<gloss>It's possible that John was already sleeping.</gloss>
+	<tokens>
+		<token id="117" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="118" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="119" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="120" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="121" word="Jan" en="proper name" type="NP" tag="NP_name">Jan</token>
+		<token id="122" word="ben" en="imperfective marker" type="TAM" tag="TAM_impf">ben</token>
+		<token id="123" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="124" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="125" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 18</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>A musu de taki a pikin ben nyan a kuku.</text>
+	<gloss>It's probable that the child ate the cake.</gloss>
+	<tokens>
+		<token id="126" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="127" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="128" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="129" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="130" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="131" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="132" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="133" word="nyan" en="transitive verb" type="VB" tag="VB_tran">nyan</token>
+		<token id="134" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="135" word="kuku" en="noun" type="NN" tag="NN">kuku</token>
+		<token id="136" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 20a</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>En nownow, efu yu go na wowoyo taki yu e go bai wan afu sensi, yu sabi o meni en?</text>
+	<gloss>Today, if you go to the market to buy a 1/2 cent, do you know how much you have to pay for it?</gloss>
+	<tokens>
+		<token id="137" word="En" en="coordinating conjunction" type="CC" tag="CC_so">En</token>
+		<token id="138" word="nownow" en="adverb" type="RB" tag="RB">nownow</token>
+		<token id="139" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="140" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="141" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="142" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="143" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="144" word="wowoyo" en="noun" type="NN" tag="NN">wowoyo</token>
+		<token id="145" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="146" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="147" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="148" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="149" word="bai" en="transitive verb" type="VB" tag="VB_tran">bai</token>
+		<token id="150" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="151" word="afu" en="quantifier" type="AB" tag="AB">afu</token>
+		<token id="152" word="sensi" en="noun" type="NN" tag="NN">sensi</token>
+		<token id="153" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="154" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="155" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="156" word="o meni" en="interrogative word" type="WP" tag="WP">o meni</token>
+		<token id="157" word="en" en="singular second person pronoun" type="PRN" tag="PRN_2sg">en</token>
+		<token id="158" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 30b</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Vooral efu yu srefi taki en taki yu na sarasara.</text>
+	<gloss>Particularly, if you have said so yourself that you’re the shrimp.</gloss>
+	<tokens>
+		<token id="159" word="Vooral" en="adverb" type="RB" tag="RB">Vooral</token>
+		<token id="160" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="161" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="162" word="srefi" en="adverb" type="RB" tag="RB">srefi</token>
+		<token id="163" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="164" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="165" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="166" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="167" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="168" word="sarasara" en="noun" type="NN" tag="NN">sarasara</token>
+		<token id="169" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 34c</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Ma mi denki mi lobi a kronto orgeade moro.</text>
+	<gloss>But I think I love coconut water the best.</gloss>
+	<tokens>
+		<token id="170" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="171" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="172" word="denki" en="intransitive verb" type="VB" tag="VB_intr">denki</token>
+		<token id="173" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="174" word="lobi" en="transitive verb" type="VB" tag="VB_tran">lobi</token>
+		<token id="175" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="176" word="kronto" en="noun" type="NN" tag="NN">kronto</token>
+		<token id="177" word="orgeade" en="noun" type="NN" tag="NN">orgeade</token>
+		<token id="178" word="moro" en="adverb" type="RB" tag="RB">moro</token>
+		<token id="179" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 42a</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>A tru taki Marinus lobi Margie.</text>
+	<gloss>It is true that Marinus loves Margie.</gloss>
+	<tokens>
+		<token id="180" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="181" word="tru" en="intransitive verb" type="VB" tag="VB_intr">tru</token>
+		<token id="182" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="183" word="Marinus" en="proper name" type="NP" tag="NP_name">Marinus</token>
+		<token id="184" word="lobi" en="transitive verb" type="VB" tag="VB_tran">lobi</token>
+		<token id="185" word="Margie" en="proper name" type="NP" tag="NP_name">Margie</token>
+		<token id="186" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Bettina Migge, Donald Winford. Fact-type complements in Gbe and the Surinamese Creoles. Elsevier. Lingua 129 (2013) 9-31. Example 45</source>
+	<attribution></attribution>
+	<feature>Complement taking predicates</feature>
+	<text>Taki Kofi no kiri Amba meki wi breyti.</text>
+	<gloss>That Kofi didn’t kill Amba made us happy</gloss>
+	<tokens>
+		<token id="187" word="Taki" en="complementizer" type="COMPL" tag="COMPL">Taki</token>
+		<token id="188" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="189" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="190" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="191" word="Amba" en="proper name" type="NP" tag="NP_name">Amba</token>
+		<token id="192" word="meki" en="complementizer" type="COMPL" tag="COMPL">meki</token>
+		<token id="193" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="194" word="breyti" en="intransitive verb" type="VB" tag="VB_intr">breyti</token>
+		<token id="195" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

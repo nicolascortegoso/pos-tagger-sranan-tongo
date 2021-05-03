@@ -1,0 +1,421 @@
+<sentence id="1">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 2</source>
+	<attribution></attribution>
+	<feature>Serial verbs</feature>
+	<text>Kofi ben yagi a dagu go na ini a oso</text>
+	<gloss>Kofi chased the dog into the house</gloss>
+	<tokens>
+		<token id="1" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="2" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="3" word="yagi" en="transitive verb" type="VB" tag="VB_tran">yagi</token>
+		<token id="4" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="5" word="dagu" en="noun" type="NN" tag="NN">dagu</token>
+		<token id="6" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="7" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="8" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="9" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="10" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="11" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 3</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Coordinating structure</feature>
+	<text>yu e go broko a planga kiri mi dya</text>
+	<gloss>You'll break the floorboards and kill me here</gloss>
+	<tokens>
+		<token id="12" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="13" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="14" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="15" word="broko" en="transitive verb" type="VB" tag="VB_tran">broko</token>
+		<token id="16" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="17" word="planga" en="noun" type="NN" tag="NN">planga</token>
+		<token id="18" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="19" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="20" word="dya" en="nominal adverb" type="RN" tag="RN">dya</token>
+		<token id="21" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 4</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Suboordinating structure</feature>
+	<text>Kofi hari a ston puru na ini a olo</text>
+	<gloss>Kofi pulled the stone out of the hole</gloss>
+	<tokens>
+		<token id="22" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="23" word="hari" en="transitive verb" type="VB" tag="VB_tran">hari</token>
+		<token id="24" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="25" word="ston" en="noun" type="NN" tag="NN">ston</token>
+		<token id="26" word="puru" en="transitive verb" type="VB" tag="VB_tran">puru</token>
+		<token id="27" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="28" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="29" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="30" word="olo" en="noun" type="NN" tag="NN">olo</token>
+		<token id="31" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 5</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Suboordinating structure</feature>
+	<text>Kofi naki Kwaku kiri</text>
+	<gloss>Kofi struck Kwaku dead</gloss>
+	<tokens>
+		<token id="32" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="33" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="34" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="35" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="36" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 6</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Suboordinating structure</feature>
+	<text>Kofi fringi a nyan trowe na ini a dyari</text>
+	<gloss>Kofi threw the food away in the garden</gloss>
+	<tokens>
+		<token id="37" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="38" word="fringi" en="transitive verb" type="VB" tag="VB_tran">fringi</token>
+		<token id="39" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="40" word="nyan" en="noun" type="NN" tag="NN">nyan</token>
+		<token id="41" word="trowe" en="transitive verb" type="VB" tag="VB_tran">trowe</token>
+		<token id="42" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="43" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="44" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="45" word="dyari" en="noun" type="NN" tag="NN">dyari</token>
+		<token id="46" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 7</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Suboordinating structure</feature>
+	<text>Kofi hari a ston tyari kon poti na ini a oso</text>
+	<gloss>Kofi dragged the stone into the house</gloss>
+	<tokens>
+		<token id="47" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="48" word="hari" en="transitive verb" type="VB" tag="VB_tran">hari</token>
+		<token id="49" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="50" word="ston" en="noun" type="NN" tag="NN">ston</token>
+		<token id="51" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="52" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="53" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="54" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="55" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="56" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="57" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="58" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 9</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Contrasts in prepositions</feature>
+	<text>A tyari a ston go na ini a oso</text>
+	<gloss>He brought the stone into th house</gloss>
+	<tokens>
+		<token id="59" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="60" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="61" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="62" word="ston" en="noun" type="NN" tag="NN">ston</token>
+		<token id="63" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="64" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="65" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="66" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="67" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="68" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 10</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Contrasts in prepositions</feature>
+	<text>A tyari a ston komoto na ini a oso</text>
+	<gloss>S/he brought the stone out of the house</gloss>
+	<tokens>
+		<token id="69" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="70" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="71" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="72" word="ston" en="noun" type="NN" tag="NN">ston</token>
+		<token id="73" word="komoto" en="transitive verb" type="VB" tag="VB_tran">komoto</token>
+		<token id="74" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="75" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="76" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="77" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="78" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 11</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Contrasts in prepositions</feature>
+	<text>A e dansi na ini a oso</text>
+	<gloss>S/he is dancing in the house</gloss>
+	<tokens>
+		<token id="79" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="80" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="81" word="dansi" en="intransitive verb" type="VB" tag="VB_intr">dansi</token>
+		<token id="82" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="83" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="84" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="85" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="86" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example 12</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Contrasts in prepositions</feature>
+	<text>A e dansi go na ini a oso</text>
+	<gloss>S/he is dancing into the house</gloss>
+	<tokens>
+		<token id="87" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="88" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="89" word="dansi" en="intransitive verb" type="VB" tag="VB_intr">dansi</token>
+		<token id="90" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="91" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="92" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="93" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="94" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="95" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>fringi en broko</text>
+	<gloss>throw and break it</gloss>
+	<tokens>
+		<token id="96" word="fringi" en="transitive verb" type="VB" tag="VB_tran">fringi</token>
+		<token id="97" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="98" word="broko" en="transitive verb" type="VB" tag="VB_tran">broko</token>
+		<token id="99" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>lon go doro</text>
+	<gloss>run all the way up to</gloss>
+	<tokens>
+		<token id="100" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="101" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="102" word="doro" en="intransitive verb" type="VB" tag="VB_intr">doro</token>
+		<token id="103" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>watra dropu fadon</text>
+	<gloss>water drips down</gloss>
+	<tokens>
+		<token id="104" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="105" word="dropu" en="intransitive verb" type="VB" tag="VB_intr">dropu</token>
+		<token id="106" word="fadon" en="intransitive verb" type="VB" tag="VB_intr">fadon</token>
+		<token id="107" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>seri buku gi en</text>
+	<gloss>sell books to him</gloss>
+	<tokens>
+		<token id="108" word="seri" en="transitive verb" type="VB" tag="VB_tran">seri</token>
+		<token id="109" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="110" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="111" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="112" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>waka go na oso</text>
+	<gloss>walk home</gloss>
+	<tokens>
+		<token id="113" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="114" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="115" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="116" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="117" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>tyari den gwe</text>
+	<gloss>carry them away</gloss>
+	<tokens>
+		<token id="118" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="119" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="120" word="gwe" en="intransitive verb" type="VB" tag="VB_intr">gwe</token>
+		<token id="121" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>fon a srafu kiri</text>
+	<gloss>beat the slave to death</gloss>
+	<tokens>
+		<token id="122" word="fon" en="transitive verb" type="VB" tag="VB_tran">fon</token>
+		<token id="123" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="124" word="srafu" en="noun" type="NN" tag="NN">srafu</token>
+		<token id="125" word="kiri" en="intransitive verb" type="VB" tag="VB_intr">kiri</token>
+		<token id="126" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>tyari den komopo na Afrika</text>
+	<gloss>bring them out of Africa</gloss>
+	<tokens>
+		<token id="127" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="128" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="129" word="komopo" en="verb of movement" type="VB" tag="VB_mov">komopo</token>
+		<token id="130" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="131" word="Afrika" en="proper name" type="NP" tag="NP_name">Afrika</token>
+		<token id="132" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>yagi den komoto na ini a oso</text>
+	<gloss>chase them out of the house</gloss>
+	<tokens>
+		<token id="133" word="yagi" en="transitive verb" type="VB" tag="VB_tran">yagi</token>
+		<token id="134" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="135" word="komoto" en="verb of movement" type="VB" tag="VB_mov">komoto</token>
+		<token id="136" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="137" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="138" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="139" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="140" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>tyari den buku kon</text>
+	<gloss>bring the books</gloss>
+	<tokens>
+		<token id="141" word="tyari" en="transitive verb" type="VB" tag="VB_tran">tyari</token>
+		<token id="142" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="143" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="144" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="145" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>lon libi a pranasi</text>
+	<gloss>run away from the plantation</gloss>
+	<tokens>
+		<token id="146" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="147" word="libi" en="intransitive verb" type="VB" tag="VB_intr">libi</token>
+		<token id="148" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="149" word="pranasi" en="noun" type="NN" tag="NN">pranasi</token>
+		<token id="150" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>fringi a tiki naki en</text>
+	<gloss>throw the stick at him</gloss>
+	<tokens>
+		<token id="151" word="fringi" en="transitive verb" type="VB" tag="VB_tran">fringi</token>
+		<token id="152" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="153" word="tiki" en="noun" type="NN" tag="NN">tiki</token>
+		<token id="154" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="155" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="156" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>hari en poti dya</text>
+	<gloss>pull it to here</gloss>
+	<tokens>
+		<token id="157" word="hari" en="transitive verb" type="VB" tag="VB_tran">hari</token>
+		<token id="158" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="159" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="160" word="dya" en="nominal adverb" type="RN" tag="RN">dya</token>
+		<token id="161" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>yagi en puru</text>
+	<gloss>chase him away</gloss>
+	<tokens>
+		<token id="162" word="yagi" en="transitive verb" type="VB" tag="VB_tran">yagi</token>
+		<token id="163" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="164" word="puru" en="transitive verb" type="VB" tag="VB_tran">puru</token>
+		<token id="165" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>dyompo tanapu</text>
+	<gloss>spring up</gloss>
+	<tokens>
+		<token id="166" word="dyompo" en="intransitive verb" type="VB" tag="VB_intr">dyompo</token>
+		<token id="167" word="tanapu" en="intransitive verb" type="VB" tag="VB_intr">tanapu</token>
+		<token id="168" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="26">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>gro tron bigi bon</text>
+	<gloss>grow into a big tree</gloss>
+	<tokens>
+		<token id="169" word="gro" en="intransitive verb" type="VB" tag="VB_intr">gro</token>
+		<token id="170" word="tron" en="intransitive verb" type="VB" tag="VB_intr">tron</token>
+		<token id="171" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="172" word="bon" en="noun" type="NN" tag="NN">bon</token>
+		<token id="173" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="27">
+	<source>Mark Sebba. Serial verbs: a boost for a small lexicon. OSO. Tijdschrift voor Surinaamse Taalkunde, Letterkunde en Geschiedenis. Jaargang 3(1984). Example Page 39</source>
+	<attribution></attribution>
+	<feature>Serial verbs. Combinations</feature>
+	<text>fringi a tiki trowe</text>
+	<gloss>throw away the stick</gloss>
+	<tokens>
+		<token id="174" word="fringi" en="transitive verb" type="VB" tag="VB_tran">fringi</token>
+		<token id="175" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="176" word="tiki" en="noun" type="NN" tag="NN">tiki</token>
+		<token id="177" word="trowe" en="intransitive verb" type="VB" tag="VB_intr">trowe</token>
+		<token id="178" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

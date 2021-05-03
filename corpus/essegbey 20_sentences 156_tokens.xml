@@ -1,0 +1,326 @@
+<sentence id="1">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 1a</source>
+	<attribution></attribution>
+	<feature>Monoverbal uses of the COME-verb</feature>
+	<text>a man kon na a oso</text>
+	<gloss>The man came to the house</gloss>
+	<tokens>
+		<token id="1" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="2" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="3" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="4" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="5" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="6" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="7" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 1b</source>
+	<attribution>Winford, 2000b: ex. 49</attribution>
+	<feature>'kon' followed by another verb. It can be translated literally as ‘become’ and, therefore, has a more aspectual meaning</feature>
+	<text>te mi kon bigi mi o bai wan bigi oso</text>
+	<gloss>when I grow up I’ll buy a big house</gloss>
+	<tokens>
+		<token id="8" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="9" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="10" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="11" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="12" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="13" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="14" word="bai" en="transitive verb" type="VB" tag="VB_tran">bai</token>
+		<token id="15" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="16" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="17" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="18" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 4a</source>
+	<attribution></attribution>
+	<feature>'Amba' is the only object and represents the sole realisation of the participant that is hit and killed</feature>
+	<text>Kofi naki Amba kiri</text>
+	<gloss>Kofi struck Amba dead</gloss>
+	<tokens>
+		<token id="19" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="20" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="21" word="Amba" en="proper name" type="NP" tag="NP_name">Amba</token>
+		<token id="22" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="23" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 4b</source>
+	<attribution></attribution>
+	<feature>The second verb has its own object which is a pronominal that can be coreferential with the object of the first verb</feature>
+	<text>Kofi naki Amba kiri en</text>
+	<gloss>Kofi struck Amba and killed her</gloss>
+	<tokens>
+		<token id="24" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="25" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="26" word="Amba" en="proper name" type="NP" tag="NP_name">Amba</token>
+		<token id="27" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="28" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="29" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 6</source>
+	<attribution>Sebba 1987</attribution>
+	<feature>Both 'Amba' and 'Kwaku' have a Theme role. What this means is that verbs in SVCs are only allowed to have their own complements when the latter do not have the same argument role.</feature>
+	<text>Kofi sutu Amba kiri Kwaku</text>
+	<gloss>Kofi shot Amba and killed Kwaku</gloss>
+	<tokens>
+		<token id="30" word="Kofi" en="proper name" type="NP" tag="NP_name">Kofi</token>
+		<token id="31" word="sutu" en="transitive verb" type="VB" tag="VB_tran">sutu</token>
+		<token id="32" word="Amba" en="proper name" type="NP" tag="NP_name">Amba</token>
+		<token id="33" word="kiri" en="transitive verb" type="VB" tag="VB_tran">kiri</token>
+		<token id="34" word="Kwaku" en="proper name" type="NP" tag="NP_name">Kwaku</token>
+		<token id="35" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 10a</source>
+	<attribution>Adamson and Smith (1995)</attribution>
+	<feature>TMA element positions</feature>
+	<text>Mi ben musu skrifi</text>
+	<gloss>I had to write</gloss>
+	<tokens>
+		<token id="36" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="37" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="38" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="39" word="skrifi" en="intransitive verb" type="VB" tag="VB_intr">skrifi</token>
+		<token id="40" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 10b</source>
+	<attribution>Adamson and Smith (1995)</attribution>
+	<feature>TMA element positions</feature>
+	<text>Mi musu ben skrifi</text>
+	<gloss>I should have written</gloss>
+	<tokens>
+		<token id="41" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="42" word="musu" en="modal" type="MD" tag="MD">musu</token>
+		<token id="43" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="44" word="skrifi" en="intransitive verb" type="VB" tag="VB_intr">skrifi</token>
+		<token id="45" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 11a</source>
+	<attribution>van Staden et al., 2001</attribution>
+	<feature>The imperfective element occurs on V1</feature>
+	<text>djaso a man e sidon prey tapu wan gitaar</text>
+	<gloss>here a man is sitting down playing a guitar</gloss>
+	<tokens>
+		<token id="46" word="djaso" en="adverb" type="RB" tag="RB">djaso</token>
+		<token id="47" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="48" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="49" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="50" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="51" word="prey" en="transitive verb" type="VB" tag="VB_tran">prey</token>
+		<token id="52" word="tapu" en="preposition of place" type="INL" tag="INL">tapu</token>
+		<token id="53" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="54" word="gitaar" en="noun" type="NN" tag="NN">gitaar</token>
+		<token id="55" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 11b</source>
+	<attribution>van Staden et al., 2001</attribution>
+	<feature>The imperfective element occurs on V2</feature>
+	<text>dja na pe a frow teki a preti e hiti na tapu a tafra</text>
+	<gloss>this is where the woman takes the plate and is hitting the table</gloss>
+	<tokens>
+		<token id="56" word="dja" en="adverb" type="RB" tag="RB">dja</token>
+		<token id="57" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="58" word="pe" en="noun" type="NN" tag="NN">pe</token>
+		<token id="59" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="60" word="frow" en="noun" type="NN" tag="NN">frow</token>
+		<token id="61" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="62" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="63" word="preti" en="noun" type="NN" tag="NN">preti</token>
+		<token id="64" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="65" word="hiti" en="intransitive verb" type="VB" tag="VB_intr">hiti</token>
+		<token id="66" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="67" word="tapu" en="preposition of place" type="INL" tag="INL">tapu</token>
+		<token id="68" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="69" word="tafra" en="noun" type="NN" tag="NN">tafra</token>
+		<token id="70" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 11c</source>
+	<attribution>van Staden et al., 2001</attribution>
+	<feature>The imperfective element occurs on both verbs</feature>
+	<text>a man e sidon e luku en</text>
+	<gloss>the man is sitting down looking at her</gloss>
+	<tokens>
+		<token id="71" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="72" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="73" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="74" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="75" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="76" word="luku" en="transitive verb" type="VB" tag="VB_tran">luku</token>
+		<token id="77" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="78" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 14b</source>
+	<attribution></attribution>
+	<feature>Concrete-motion use of COME in SVC</feature>
+	<text>a pikin waka kon na ini a kamra Sranan</text>
+	<gloss>the child walked into the room</gloss>
+	<tokens>
+		<token id="79" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="80" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="81" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="82" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="83" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="84" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="85" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="86" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="87" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 14b</source>
+	<attribution></attribution>
+	<feature>Concrete-motion use of GO in SVC</feature>
+	<text>a pikin waka go na ini a kamra Sranan</text>
+	<gloss>the child walked into the room</gloss>
+	<tokens>
+		<token id="88" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="89" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="90" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="91" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="92" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="93" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="94" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="95" word="kamra" en="noun" type="NN" tag="NN">kamra</token>
+		<token id="96" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 15</source>
+	<attribution></attribution>
+	<feature>Sebba observes that 'a verb following kon and go is interpreted as part of a purpose clause'</feature>
+	<text>mi ben go trow nanga a uma ma a no ben wani mi</text>
+	<gloss>I went to marry the woman but she didn’t want me</gloss>
+	<tokens>
+		<token id="97" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="98" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="99" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="100" word="trow" en="intransitive verb" type="VB" tag="VB_intr">trow</token>
+		<token id="101" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="102" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="103" word="uma" en="noun" type="NN" tag="NN">uma</token>
+		<token id="104" word="ma" en="coordinating conjunction" type="CC" tag="CC_or">ma</token>
+		<token id="105" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="106" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="107" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="108" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="109" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="110" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 17b</source>
+	<attribution></attribution>
+	<feature>Non-concrete motion situations.</feature>
+	<text>a pasi kmoto na Kotka kon te na Prika</text>
+	<gloss>the road originates from Kotka and reaches Prika</gloss>
+	<tokens>
+		<token id="111" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="112" word="pasi" en="noun" type="NN" tag="NN">pasi</token>
+		<token id="113" word="kmoto" en="verb of movement" type="VB" tag="VB_mov">kmoto</token>
+		<token id="114" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="115" word="Kotka" en="proper name" type="NP" tag="NP_name">Kotka</token>
+		<token id="116" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="117" word="te" en="adverb" type="RB" tag="RB">te</token>
+		<token id="118" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="119" word="Prika" en="proper name" type="NP" tag="NP_name">Prika</token>
+		<token id="120" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 18a</source>
+	<attribution></attribution>
+	<feature>The sentence is ambiguous between literally moving to a place in order to sleep, and the occurrence in the near-future of the act of falling asleep</feature>
+	<text>A man e go sribi</text>
+	<gloss>the man is going to sleep</gloss>
+	<tokens>
+		<token id="121" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="122" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="123" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="124" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="125" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="126" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 18b</source>
+	<attribution></attribution>
+	<feature>'Kon' with a temporal and not deictic use</feature>
+	<text>te mi kon bigi mi o bai wan bigi oso</text>
+	<gloss>when I grow up I’ll buy a big house</gloss>
+	<tokens>
+		<token id="127" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="128" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="129" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="130" word="bigi" en="intransitive verb" type="VB" tag="VB_intr">bigi</token>
+		<token id="131" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="132" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="133" word="bai" en="transitive verb" type="VB" tag="VB_tran">bai</token>
+		<token id="134" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="135" word="bigi" en="attributive adjective" type="JJ" tag="JJ">bigi</token>
+		<token id="136" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="137" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 24a</source>
+	<attribution>Adamson and Smith</attribution>
+	<feature>GO with future</feature>
+	<text>A o go taygi en</text>
+	<gloss>he will go (there) and tell her</gloss>
+	<tokens>
+		<token id="138" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="139" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="140" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="141" word="taygi" en="intransitive verb" type="VB" tag="VB_intr">taygi</token>
+		<token id="142" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="143" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 26</source>
+	<attribution></attribution>
+	<feature>On the form of the COME and GO verbs</feature>
+	<text>A man go sribi</text>
+	<gloss>the man went and slept</gloss>
+	<tokens>
+		<token id="144" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="145" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="146" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="147" word="sribi" en="intransitive verb" type="VB" tag="VB_intr">sribi</token>
+		<token id="148" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>James Essegbey. Auxiliaries in serialising languages: on COME and GO verbs in Sranan and Ewe. Lingua 114 (2004) 473–494. Example 27b</source>
+	<attribution>shortened sentence from Winford (2000b)</attribution>
+	<feature>On the form of the COME and GO verbs</feature>
+	<text>Jan kan ben teki a moni</text>
+	<gloss>John could have taken the money</gloss>
+	<tokens>
+		<token id="149" word="Jan" en="proper name" type="NP" tag="NP_name">Jan</token>
+		<token id="150" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="151" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="152" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="153" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="154" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="155" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

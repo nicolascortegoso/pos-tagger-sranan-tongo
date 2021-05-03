@@ -1,0 +1,602 @@
+<sentence id="1">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 1</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>ala den wroko disi wi leri fu mi papa.</text>
+	<gloss>All these (types of) works we learnt from my father.</gloss>
+	<tokens>
+		<token id="1" word="ala" en="pre-quantifier" type="AB" tag="AB_pre">ala</token>
+		<token id="2" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="3" word="wroko" en="noun" type="NN" tag="NN">wroko</token>
+		<token id="4" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="5" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="6" word="leri" en="transitive verb" type="VB" tag="VB_tran">leri</token>
+		<token id="7" word="fu" en="preposition" type="IN" tag="IN">fu</token>
+		<token id="8" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="9" word="papa" en="noun" type="NN" tag="NN">papa</token>
+		<token id="10" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 2</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi e tan na boiti.</text>
+	<gloss>I live in the countryside.</gloss>
+	<tokens>
+		<token id="11" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="12" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="13" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="14" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="15" word="boiti" en="noun" type="NN" tag="NN">boiti</token>
+		<token id="16" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 3</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a waka esesi go na oso.</text>
+	<gloss>She walked to the house quickly.</gloss>
+	<tokens>
+		<token id="17" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="18" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="19" word="esesi" en="adverb" type="RB" tag="RB">esesi</token>
+		<token id="20" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="21" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="22" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="23" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 4</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mamanten a komopo na oso.</text>
+	<gloss>In the morning, he left the house.</gloss>
+	<tokens>
+		<token id="24" word="mamanten" en="nominal adverb" type="RN" tag="RN">mamanten</token>
+		<token id="25" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="26" word="komopo" en="verb of movement" type="VB" tag="VB_mov">komopo</token>
+		<token id="27" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="28" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="29" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 5</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi boro na a busi kon na oso.</text>
+	<gloss>I (took a short-)cut through the forest to the house.</gloss>
+	<tokens>
+		<token id="30" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="31" word="boro" en="intransitive verb" type="VB" tag="VB_intr">boro</token>
+		<token id="32" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="33" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="34" word="busi" en="noun" type="NN" tag="NN">busi</token>
+		<token id="35" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="36" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="37" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="38" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 6</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a buku de na a tafra ondro</text>
+	<gloss>The book is under the table.</gloss>
+	<tokens>
+		<token id="39" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="40" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="41" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="42" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="43" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="44" word="tafra" en="noun" type="NN" tag="NN">tafra</token>
+		<token id="45" word="ondro" en="nominal adverb" type="RN" tag="RN">ondro</token>
+		<token id="46" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 7</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki moni komoto na a dosu ini.</text>
+	<gloss>I took money from the box.</gloss>
+	<tokens>
+		<token id="47" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="48" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="49" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="50" word="komoto" en="verb of movement" type="VB" tag="VB_mov">komoto</token>
+		<token id="51" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="52" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="53" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="54" word="ini" en="noun" type="NN" tag="NN">ini</token>
+		<token id="55" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 11</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a de na wasi-oso</text>
+	<gloss>She is in the bathroom.</gloss>
+	<tokens>
+		<token id="56" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="57" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="58" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="59" word="wasi-oso" en="noun" type="NN" tag="NN">wasi-oso</token>
+		<token id="60" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 12</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a buku de a tafra tapu</text>
+	<gloss>The book is on the table.</gloss>
+	<tokens>
+		<token id="61" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="62" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="63" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="64" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="65" word="tafra" en="noun" type="NN" tag="NN">tafra</token>
+		<token id="66" word="tapu" en="noun" type="NN" tag="NN">tapu</token>
+		<token id="67" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 16</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a buku de ondro a tafra</text>
+	<gloss>The book is under the table.</gloss>
+	<tokens>
+		<token id="68" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="69" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="70" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="71" word="ondro" en="preposition" type="IN" tag="IN">ondro</token>
+		<token id="72" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="73" word="tafra" en="noun" type="NN" tag="NN">tafra</token>
+		<token id="74" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 17</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>den dringi biri kibrikibri baka a oso.</text>
+	<gloss>They drank beer secretely behind the house.</gloss>
+	<tokens>
+		<token id="75" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="76" word="dringi" en="transitive verb" type="VB" tag="VB_tran">dringi</token>
+		<token id="77" word="biri" en="noun" type="NN" tag="NN">biri</token>
+		<token id="78" word="kibrikibri" en="adverb" type="RB" tag="RB">kibrikibri</token>
+		<token id="79" word="baka" en="preposition" type="IN" tag="IN">baka</token>
+		<token id="80" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="81" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="82" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 18</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a e sidon ini a oso.</text>
+	<gloss>She is sitting in the house.</gloss>
+	<tokens>
+		<token id="83" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="84" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="85" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="86" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="87" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="88" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="89" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 19</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a sidon fesi a oso.</text>
+	<gloss>She sat down in front of the house.</gloss>
+	<tokens>
+		<token id="90" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="91" word="sidon" en="intransitive verb" type="VB" tag="VB_intr">sidon</token>
+		<token id="92" word="fesi" en="preposition" type="IN" tag="IN">fesi</token>
+		<token id="93" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="94" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="95" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 20</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a e poti a spun ini a preti.</text>
+	<gloss>He is putting the the spoon into the plate.</gloss>
+	<tokens>
+		<token id="96" word="a" en="singular first person pronoun" type="PRN" tag="PRN_1sg">a</token>
+		<token id="97" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="98" word="poti" en="transitive verb" type="VB" tag="VB_tran">poti</token>
+		<token id="99" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="100" word="spun" en="noun" type="NN" tag="NN">spun</token>
+		<token id="101" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="102" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="103" word="preti" en="noun" type="NN" tag="NN">preti</token>
+		<token id="104" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 25</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a fringi a tiki naki a skotu.</text>
+	<gloss>He threw the stick against the wall.</gloss>
+	<tokens>
+		<token id="105" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="106" word="fringi" en="transitive verb" type="VB" tag="VB_tran">fringi</token>
+		<token id="107" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="108" word="tiki" en="noun" type="NN" tag="NN">tiki</token>
+		<token id="109" word="naki" en="transitive verb" type="VB" tag="VB_tran">naki</token>
+		<token id="110" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="111" word="skotu" en="noun" type="NN" tag="NN">skotu</token>
+		<token id="112" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 26</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi seni a buku gi mi mati.</text>
+	<gloss>I sent the book to my friend.</gloss>
+	<tokens>
+		<token id="113" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="114" word="seni" en="transitive verb" type="VB" tag="VB_tran">seni</token>
+		<token id="115" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="116" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="117" word="gi" en="dative preposition" type="IN" tag="IN_dat">gi</token>
+		<token id="118" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="119" word="mati" en="noun" type="NN" tag="NN">mati</token>
+		<token id="120" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 35</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni na a dosu ini.</text>
+	<gloss>I took the money from the box.</gloss>
+	<tokens>
+		<token id="121" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="122" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="123" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="124" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="125" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="126" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="127" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="128" word="ini" en="noun" type="NN" tag="NN">ini</token>
+		<token id="129" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 35</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni na ini a dosu.</text>
+	<gloss>I took the money from the box.</gloss>
+	<tokens>
+		<token id="130" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="131" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="132" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="133" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="134" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="135" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="136" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="137" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="138" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 36</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni puru na a dosu ini.</text>
+	<gloss>I took the money out of the box.</gloss>
+	<tokens>
+		<token id="139" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="140" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="141" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="142" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="143" word="puru" en="transitive verb" type="VB" tag="VB_tran">puru</token>
+		<token id="144" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="145" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="146" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="147" word="ini" en="noun" type="NN" tag="NN">ini</token>
+		<token id="148" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 36</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni puru na a dosu.</text>
+	<gloss>I took the money out of the box.</gloss>
+	<tokens>
+		<token id="149" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="150" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="151" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="152" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="153" word="puru" en="transitive verb" type="VB" tag="VB_tran">puru</token>
+		<token id="154" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="155" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="156" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="157" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 37</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni komoto na ini a dosu</text>
+	<gloss>I took the money out of the box.</gloss>
+	<tokens>
+		<token id="158" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="159" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="160" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="161" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="162" word="komoto" en="intransitive verb" type="VB" tag="VB_intr">komoto</token>
+		<token id="163" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="164" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="165" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="166" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="167" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 37</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni komoto na a dosu</text>
+	<gloss>I took the money out of the box.</gloss>
+	<tokens>
+		<token id="168" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="169" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="170" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="171" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="172" word="komoto" en="intransitive verb" type="VB" tag="VB_intr">komoto</token>
+		<token id="173" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="174" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="175" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="176" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 38</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni komopo na ini a dosu</text>
+	<gloss>I took the money out of the box.</gloss>
+	<tokens>
+		<token id="177" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="178" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="179" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="180" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="181" word="komopo" en="intransitive verb" type="VB" tag="VB_intr">komopo</token>
+		<token id="182" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="183" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="184" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="185" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="186" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 38</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>mi teki a moni komopo na a dosu</text>
+	<gloss>I took the money out of the box.</gloss>
+	<tokens>
+		<token id="187" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="188" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="189" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="190" word="moni" en="noun" type="NN" tag="NN">moni</token>
+		<token id="191" word="komopo" en="intransitive verb" type="VB" tag="VB_intr">komopo</token>
+		<token id="192" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="193" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="194" word="dosu" en="noun" type="NN" tag="NN">dosu</token>
+		<token id="195" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 39</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>fa mi doro na oso, mi sisa lusu kaba.</text>
+	<gloss>When I arrived at home, my sister had already left.</gloss>
+	<tokens>
+		<token id="196" word="fa" en="subordinating conjunction" type="CS" tag="CS_time">fa</token>
+		<token id="197" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="198" word="doro" en="intransitive verb" type="VB" tag="VB_intr">doro</token>
+		<token id="199" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="200" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="201" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="202" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="203" word="sisa" en="noun" type="NN" tag="NN">sisa</token>
+		<token id="204" word="lusu" en="intransitive verb" type="VB" tag="VB_intr">lusu</token>
+		<token id="205" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="206" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="26">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 40</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a liba lomboto den oso.</text>
+	<gloss>The river flows around the houses.</gloss>
+	<tokens>
+		<token id="207" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="208" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="209" word="lomboto" en="transitive verb" type="VB" tag="VB_tran">lomboto</token>
+		<token id="210" word="den" en="singular article" type="AT" tag="AT_sg">den</token>
+		<token id="211" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="212" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="27">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 41</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>den skowtu lontu a oso...</text>
+	<gloss>The police surrounded the house...</gloss>
+	<tokens>
+		<token id="213" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="214" word="skowtu" en="noun" type="NN" tag="NN">skowtu</token>
+		<token id="215" word="lontu" en="transitive verb" type="VB" tag="VB_tran">lontu</token>
+		<token id="216" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="217" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="218" word="..." en="punctuation sign" type="PNCT" tag="PNCT">...</token>
+	</tokens>
+</sentence>
+<sentence id="28">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 43</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a liba e kon lontu den oso.</text>
+	<gloss>The river flows around the houses.</gloss>
+	<tokens>
+		<token id="219" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="220" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="221" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="222" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="223" word="lontu" en="intransitive verb" type="VB" tag="VB_intr">lontu</token>
+		<token id="224" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="225" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="226" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="29">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 45</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a luku lontu.</text>
+	<gloss>He looked around.</gloss>
+	<tokens>
+		<token id="227" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="228" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="229" word="lontu" en="adverb" type="RB" tag="RB">lontu</token>
+		<token id="230" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="30">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 50</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>wi o abra wan liba dyonsro.</text>
+	<gloss>We are soon going to cross a river.</gloss>
+	<tokens>
+		<token id="231" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="232" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="233" word="abra" en="transitive verb" type="VB" tag="VB_tran">abra</token>
+		<token id="234" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="235" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="236" word="dyonsro" en="adverb" type="RB" tag="RB">dyonsro</token>
+		<token id="237" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="31">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 51</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>wi o koti wan liba abra dyonsro.</text>
+	<gloss>We are soon going to (cut a)cross a river.</gloss>
+	<tokens>
+		<token id="238" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="239" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="240" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="241" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="242" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="243" word="abra" en="adverb" type="RB" tag="RB">abra</token>
+		<token id="244" word="dyonsro" en="adverb" type="RB" tag="RB">dyonsro</token>
+		<token id="245" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="32">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 56</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>a opolangi frei abra a foto.</text>
+	<gloss>The plane flew over the town.</gloss>
+	<tokens>
+		<token id="246" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="247" word="opolangi" en="noun" type="NN" tag="NN">opolangi</token>
+		<token id="248" word="frei" en="intransitive verb" type="VB" tag="VB_intr">frei</token>
+		<token id="249" word="abra" en="preposition" type="IN" tag="IN">abra</token>
+		<token id="250" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="251" word="foto" en="noun" type="NN" tag="NN">foto</token>
+		<token id="252" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="33">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 57</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>wi o koti wan liba dyonsro.</text>
+	<gloss>We are soon going to cross/cut across a river.</gloss>
+	<tokens>
+		<token id="253" word="wi" en="plural first person pronoun" type="PRN" tag="PRN_1pl">wi</token>
+		<token id="254" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="255" word="koti" en="transitive verb" type="VB" tag="VB_tran">koti</token>
+		<token id="256" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="257" word="liba" en="noun" type="NN" tag="NN">liba</token>
+		<token id="258" word="dyonsro" en="adverb" type="RB" tag="RB">dyonsro</token>
+		<token id="259" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="34">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 61</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>op gegeven moment wan hei opo en ede.</text>
+	<gloss>Suddenly an agouti raised its head</gloss>
+	<tokens>
+		<token id="260" word="op gegeven moment" en="adverb" type="RB" tag="RB">op gegeven moment</token>
+		<token id="261" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="262" word="hei" en="noun" type="NN" tag="NN">hei</token>
+		<token id="263" word="opo" en="transitive verb" type="VB" tag="VB_tran">opo</token>
+		<token id="264" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="265" word="ede" en="noun" type="NN" tag="NN">ede</token>
+		<token id="266" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="35">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 70</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>na fesi fu a skowtu-oso</text>
+	<gloss>to an area in front/above the police-station</gloss>
+	<tokens>
+		<token id="267" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="268" word="fesi" en="preposition" type="IN" tag="IN">fesi</token>
+		<token id="269" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="270" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="271" word="skowtu-oso" en="noun" type="NN" tag="NN">skowtu-oso</token>
+		<token id="272" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="36">
+	<source>Kofi Yakpo, Adrienne Bruyn. Transatlantic patterns: The relexification of locative constructions in Sranan. 2015. In: Surviving the Middle Passage: The West Africa-Surinam Sprachbund. De Gruyter Mouton. Example: 70</source>
+	<attribution></attribution>
+	<feature>Locative elements</feature>
+	<text>na tapu fu a skowtu-oso</text>
+	<gloss>to an area in front/above the police-station</gloss>
+	<tokens>
+		<token id="273" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="274" word="tapu" en="noun" type="NN" tag="NN">tapu</token>
+		<token id="275" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="276" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="277" word="skowtu-oso" en="noun" type="NN" tag="NN">skowtu-oso</token>
+		<token id="278" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>

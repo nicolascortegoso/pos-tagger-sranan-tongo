@@ -1,0 +1,954 @@
+<sentence id="1">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 1</source>
+	<attribution>Karta 157</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Di a karta fadon, dan mi e si en.</text>
+	<gloss>When the card fell, then I saw his feet.</gloss>
+	<tokens>
+		<token id="1" word="Di" en="subordinating conjunction" type="CS" tag="CS_time">Di</token>
+		<token id="2" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="3" word="karta" en="noun" type="NN" tag="NN">karta</token>
+		<token id="4" word="fadon" en="intransitive verb" type="VB" tag="VB_intr">fadon</token>
+		<token id="5" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="6" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="7" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="8" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="9" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="10" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="11" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="2">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 2</source>
+	<attribution>Karta 026</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Ala sma sabi now pe den e kari.</text>
+	<gloss>All people now know the place they call Micromarkt.</gloss>
+	<tokens>
+		<token id="12" word="Ala" en="pre-quantifier" type="AB" tag="AB_pre">Ala</token>
+		<token id="13" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="14" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="15" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="16" word="pe" en="noun" type="NN" tag="NN">pe</token>
+		<token id="17" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="18" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="19" word="kari" en="transitive verb" type="VB" tag="VB_tran">kari</token>
+		<token id="20" word="Micromarkt" en="proper name" type="NP" tag="NP_name">Micromarkt</token>
+		<token id="21" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="3">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 3</source>
+	<attribution>Winford 2000:422</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Nownow yu e teki en kba nownow?</text>
+	<gloss>Are you already taping right now?</gloss>
+	<tokens>
+		<token id="22" word="Nownow" en="adverb" type="RB" tag="RB">Nownow</token>
+		<token id="23" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="24" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="25" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="26" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="27" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="28" word="nownow" en="adverb" type="RB" tag="RB">nownow</token>
+		<token id="29" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="4">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 4</source>
+	<attribution>Winford 2000:414</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A yuru te yu kon baka mi o kba skrifi a brifi disi.</text>
+	<gloss>By the time when you come back, I will/should have finished writing this letter.</gloss>
+	<tokens>
+		<token id="30" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="31" word="yuru" en="noun" type="NN" tag="NN">yuru</token>
+		<token id="32" word="te" en="adverbial relative" type="REL" tag="REL_adv">te</token>
+		<token id="33" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="34" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="35" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="36" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="37" word="o" en="future marker" type="TAM" tag="TAM_fut">o</token>
+		<token id="38" word="kba" en="transitive verb" type="VB" tag="VB_tran">kba</token>
+		<token id="39" word="skrifi" en="transitive verb" type="VB" tag="VB_tran">skrifi</token>
+		<token id="40" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="41" word="brifi" en="noun" type="NN" tag="NN">brifi</token>
+		<token id="42" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="43" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="5">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 4</source>
+	<attribution>Winford 2000:414</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A yuru te yu kon baka mi sa kba skrifi a brifi disi.</text>
+	<gloss>By the time when you come back, I will/should have finished writing this letter.</gloss>
+	<tokens>
+		<token id="44" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="45" word="yuru" en="noun" type="NN" tag="NN">yuru</token>
+		<token id="46" word="te" en="adverbial relative" type="REL" tag="REL_adv">te</token>
+		<token id="47" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="48" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="49" word="baka" en="adverb" type="RB" tag="RB">baka</token>
+		<token id="50" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="51" word="sa" en="potential marker" type="TAM" tag="TAM_pot">sa</token>
+		<token id="52" word="kba" en="transitive verb" type="VB" tag="VB_tran">kba</token>
+		<token id="53" word="skrifi" en="transitive verb" type="VB" tag="VB_tran">skrifi</token>
+		<token id="54" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="55" word="brifi" en="noun" type="NN" tag="NN">brifi</token>
+		<token id="56" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="57" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="6">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 5</source>
+	<attribution>Winford 2000:433</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Want na tu leisi mi nanga a man meki afspraak kaba, a man no kon.</text>
+	<gloss>Because it is already twice that me and the man made an appointment, and the man didn’t come.</gloss>
+	<tokens>
+		<token id="58" word="Want" en="subordinating conjunction" type="CS" tag="CS_expl">Want</token>
+		<token id="59" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="60" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="61" word="leisi" en="nominal adverb" type="RN" tag="RN">leisi</token>
+		<token id="62" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="63" word="nanga" en="coordinating conjunction" type="CC" tag="CC_and">nanga</token>
+		<token id="64" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="65" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="66" word="meki" en="transitive verb" type="VB" tag="VB_tran">meki</token>
+		<token id="67" word="afspraak" en="noun" type="NN" tag="NN">afspraak</token>
+		<token id="68" word="kaba" en="adverb" type="RB" tag="RB">kaba</token>
+		<token id="69" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="70" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="71" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="72" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="73" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="74" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="7">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 6</source>
+	<attribution>Wilner 2000</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Ma efu mi ben sori en taki mi ben bron, dan a bo du wan fasi nanga mi.</text>
+	<gloss>But if I had shown him that I was burned, then he would have done something for me.</gloss>
+	<tokens>
+		<token id="75" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="76" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="77" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="78" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="79" word="sori" en="transitive verb" type="VB" tag="VB_tran">sori</token>
+		<token id="80" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="81" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="82" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="83" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="84" word="bron" en="intransitive verb" type="VB" tag="VB_intr">bron</token>
+		<token id="85" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="86" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="87" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="88" word="bo" en="future marker" type="TAM" tag="TAM_fut">bo</token>
+		<token id="89" word="du" en="transitive verb" type="VB" tag="VB_tran">du</token>
+		<token id="90" word="wan fasi" en="indefinite pronoun" type="PRN" tag="PRN_ind">wan fasi</token>
+		<token id="91" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="92" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="93" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="8">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 7</source>
+	<attribution>Winford 2000:404</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dan omeni yari a ben abi?</text>
+	<gloss>So how old was he?</gloss>
+	<tokens>
+		<token id="94" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="95" word="omeni" en="interrogative word" type="WP" tag="WP">omeni</token>
+		<token id="96" word="yari" en="noun" type="NN" tag="NN">yari</token>
+		<token id="97" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="98" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="99" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="100" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="9">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 9</source>
+	<attribution>Winford 2000:422</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Nownow yu e teki en kba nownow?</text>
+	<gloss>Are you already taping right now?’</gloss>
+	<tokens>
+		<token id="101" word="Nownow" en="adverb" type="RB" tag="RB">Nownow</token>
+		<token id="102" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="103" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="104" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="105" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="106" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="107" word="nownow" en="adverb" type="RB" tag="RB">nownow</token>
+		<token id="108" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="10">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 10</source>
+	<attribution>Alexi 64</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Alexi teki en spikri, a go na bakadyari.</text>
+	<gloss>Alexi took his mirror and went into the backyard.</gloss>
+	<tokens>
+		<token id="109" word="Alexi" en="proper name" type="NP" tag="NP_name">Alexi</token>
+		<token id="110" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="111" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="112" word="spikri" en="noun" type="NN" tag="NN">spikri</token>
+		<token id="113" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="114" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="115" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="116" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="117" word="bakadyari" en="noun" type="NN" tag="NN">bakadyari</token>
+		<token id="118" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="11">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 11</source>
+	<attribution>Q61</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Den pikin wani prey.</text>
+	<gloss>The children want to play</gloss>
+	<tokens>
+		<token id="119" word="Den" en="plural article" type="AT" tag="AT_pl">Den</token>
+		<token id="120" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="121" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="122" word="prey" en="intransitive verb" type="VB" tag="VB_intr">prey</token>
+		<token id="123" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="12">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 12</source>
+	<attribution>taken from Seuren 1981, cited in Winford 2000:427</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Safrisafri mi e sabi den pasi kba.</text>
+	<gloss>Slowly I am already getting to know the roads.</gloss>
+	<tokens>
+		<token id="124" word="Safrisafri" en="adverb" type="RB" tag="RB">Safrisafri</token>
+		<token id="125" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="126" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="127" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="128" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="129" word="pasi" en="noun" type="NN" tag="NN">pasi</token>
+		<token id="130" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="131" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="13">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 13</source>
+	<attribution>Waskrosi 47</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Fosten, i no ben e abi kasi, ben e abi falis.</text>
+	<gloss>Previously, one wouldn’t have a wardrobe, one would have a piece of luggage.</gloss>
+	<tokens>
+		<token id="132" word="Fosten" en="adverb" type="RB" tag="RB">Fosten</token>
+		<token id="133" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="134" word="i" en="singular second person pronoun" type="PRN" tag="PRN_2sg">i</token>
+		<token id="135" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="136" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="137" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="138" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="139" word="kasi" en="noun" type="NN" tag="NN">kasi</token>
+		<token id="140" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="141" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="142" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="143" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="144" word="falis" en="noun" type="NN" tag="NN">falis</token>
+		<token id="145" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="14">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 14</source>
+	<attribution>Advice 1, 007</attribution>
+	<feature>Zero verb marking</feature>
+	<text>San mi wani taki over a brifi: ...</text>
+	<gloss>What I want to say about the letter: ...</gloss>
+	<tokens>
+		<token id="146" word="San" en="interrogative word" type="WP" tag="WP">San</token>
+		<token id="147" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="148" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="149" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="150" word="over" en="preposition" type="IN" tag="IN">over</token>
+		<token id="151" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="152" word="brifi" en="noun" type="NN" tag="NN">brifi</token>
+		<token id="153" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="154" word="..." en="punctuation sign" type="PNCT" tag="PNCT">...</token>
+	</tokens>
+</sentence>
+<sentence id="15">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 15</source>
+	<attribution>Alexi 031-032</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dan Alexi lon kon.</text>
+	<gloss>Then Alexi came running.</gloss>
+	<tokens>
+		<token id="155" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="156" word="Alexi" en="proper name" type="NP" tag="NP_name">Alexi</token>
+		<token id="157" word="lon" en="intransitive verb" type="VB" tag="VB_intr">lon</token>
+		<token id="158" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="159" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="16">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 15</source>
+	<attribution>Alexi 031-032</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Alexi taki: ‘Fa a waka?’</text>
+	<gloss>Alexi said: ‘What’s going on?’</gloss>
+	<tokens>
+		<token id="160" word="Alexi" en="proper name" type="NP" tag="NP_name">Alexi</token>
+		<token id="161" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="162" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="163" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="164" word="Fa" en="interrogative word" type="WP" tag="WP">Fa</token>
+		<token id="165" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="166" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="167" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+		<token id="168" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+	</tokens>
+</sentence>
+<sentence id="17">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 15</source>
+	<attribution>Alexi 031-032</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A taki: ‘Luku dya, luku dya, luku dya!’</text>
+	<gloss>She said: ‘Look here, look here, look here!’.</gloss>
+	<tokens>
+		<token id="169" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="170" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="171" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="172" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="173" word="Luku" en="intransitive verb" type="VB" tag="VB_intr">Luku</token>
+		<token id="174" word="dya" en="adverb" type="RB" tag="RB">dya</token>
+		<token id="175" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="176" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="177" word="dya" en="adverb" type="RB" tag="RB">dya</token>
+		<token id="178" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="179" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="180" word="dya" en="adverb" type="RB" tag="RB">dya</token>
+		<token id="181" word="!" en="punctuation sign" type="PNCT" tag="PNCT">!</token>
+		<token id="182" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+	</tokens>
+</sentence>
+<sentence id="18">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 16</source>
+	<attribution>Q15</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Mi brada e denki a watra sa kowru.</text>
+	<gloss>My brother thinks the water is cold (but he is wrong).</gloss>
+	<tokens>
+		<token id="183" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="184" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="185" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="186" word="denki" en="intransitive verb" type="VB" tag="VB_intr">denki</token>
+		<token id="187" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="188" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="189" word="sa" en="potential marker" type="TAM" tag="TAM_pot">sa</token>
+		<token id="190" word="kowru" en="intransitive verb" type="VB" tag="VB_intr">kowru</token>
+		<token id="191" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="19">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 16</source>
+	<attribution>Q15</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Mi brada denki a watra sa kowru.</text>
+	<gloss>My brother thinks the water is cold (but he is wrong).</gloss>
+	<tokens>
+		<token id="192" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="193" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="194" word="denki" en="intransitive verb" type="VB" tag="VB_intr">denki</token>
+		<token id="195" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="196" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="197" word="sa" en="potential marker" type="TAM" tag="TAM_pot">sa</token>
+		<token id="198" word="kowru" en="intransitive verb" type="VB" tag="VB_intr">kowru</token>
+		<token id="199" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="20">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 17</source>
+	<attribution></attribution>
+	<feature>Zero verb marking</feature>
+	<text>Mi brada taki a watra kowru.</text>
+	<gloss>My brother says (right now) that the water is cold.</gloss>
+	<tokens>
+		<token id="200" word="Mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">Mi</token>
+		<token id="201" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="202" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="203" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="204" word="watra" en="noun" type="NN" tag="NN">watra</token>
+		<token id="205" word="kowru" en="intransitive verb" type="VB" tag="VB_intr">kowru</token>
+		<token id="206" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="21">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 18</source>
+	<attribution>Q125</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Yu miti mi brada kba?</text>
+	<gloss>Have you met my brother yet?</gloss>
+	<tokens>
+		<token id="207" word="Yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">Yu</token>
+		<token id="208" word="miti" en="transitive verb" type="VB" tag="VB_tran">miti</token>
+		<token id="209" word="mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg">mi</token>
+		<token id="210" word="brada" en="noun" type="NN" tag="NN">brada</token>
+		<token id="211" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="212" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="22">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 19</source>
+	<attribution>Q117</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Ay, a leysi a buku disi kba.</text>
+	<gloss>Yes, he has already read this book.</gloss>
+	<tokens>
+		<token id="213" word="Ay" en="interjection" type="UH" tag="UH">Ay</token>
+		<token id="214" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="215" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="216" word="leysi" en="transitive verb" type="VB" tag="VB_tran">leysi</token>
+		<token id="217" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="218" word="buku" en="noun" type="NN" tag="NN">buku</token>
+		<token id="219" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="220" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="221" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="23">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 20</source>
+	<attribution>Koba 026</attribution>
+	<feature>Zero verb marking</feature>
+	<text>En vanaf a ten fu Bruma, mi volg den alamala op de voet.</text>
+	<gloss>And since the time of Bruma, I have been following them all closely.</gloss>
+	<tokens>
+		<token id="222" word="En" en="coordinating conjunction" type="CC" tag="CC_and">En</token>
+		<token id="223" word="vanaf" en="subordinating conjunction" type="CS" tag="CS_time">vanaf</token>
+		<token id="224" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="225" word="ten" en="nominal adverb" type="RN" tag="RN">ten</token>
+		<token id="226" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="227" word="Bruma" en="proper name" type="NP" tag="NP_name">Bruma</token>
+		<token id="228" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="229" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="230" word="volg" en="transitive verb" type="VB" tag="VB_tran">volg</token>
+		<token id="231" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="232" word="alamala" en="specifier" type="AP" tag="AP">alamala</token>
+		<token id="233" word="op" en="preposition" type="IN" tag="IN">op</token>
+		<token id="234" word="de" en="singular article" type="AT" tag="AT_sg">de</token>
+		<token id="235" word="voet" en="noun" type="NN" tag="NN">voet</token>
+		<token id="236" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="24">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A tori di mi e go ferteri now na wan tori di psa langa, langa yari kba.</text>
+	<gloss>The story that I am now going to tell is a story that happened many, many years ago.</gloss>
+	<tokens>
+		<token id="237" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="238" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="239" word="di" en="relative pronoun objective form" type="REL" tag="REL_obj">di</token>
+		<token id="240" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="241" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="242" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="243" word="ferteri" en="transitive verb" type="VB" tag="VB_tran">ferteri</token>
+		<token id="244" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="245" word="na" en="copula" type="COP" tag="COP">na</token>
+		<token id="246" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="247" word="tori" en="noun" type="NN" tag="NN">tori</token>
+		<token id="248" word="di" en="relative pronoun objective form" type="REL" tag="REL_obj">di</token>
+		<token id="249" word="psa" en="intransitive verb" type="VB" tag="VB_intr">psa</token>
+		<token id="250" word="langa" en="attributive adjective" type="JJ" tag="JJ">langa</token>
+		<token id="251" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="252" word="langa" en="attributive adjective" type="JJ" tag="JJ">langa</token>
+		<token id="253" word="yari" en="nominal adverb" type="RN" tag="RN">yari</token>
+		<token id="254" word="kba" en="adverb" type="RB" tag="RB">kba</token>
+		<token id="255" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="25">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Ma dan now, wan neti leki fa mi taki, dan den man de na ini a faya fu a prei.</text>
+	<gloss>But now one night, like I said, the men are/were in the thick of the game.</gloss>
+	<tokens>
+		<token id="256" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="257" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="258" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="259" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="260" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="261" word="neti" en="noun" type="NN" tag="NN">neti</token>
+		<token id="262" word="leki fa" en="complementizer" type="COMPL" tag="COMPL">leki fa</token>
+		<token id="263" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="264" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="265" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="266" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="267" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="268" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="269" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="270" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="271" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="272" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="273" word="faya" en="noun" type="NN" tag="NN">faya</token>
+		<token id="274" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="275" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="276" word="prei" en="noun" type="NN" tag="NN">prei</token>
+		<token id="277" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="26">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dan a doro klop.</text>
+	<gloss>Then there is/was a knock at the door.</gloss>
+	<tokens>
+		<token id="278" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="279" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="280" word="doro" en="noun" type="NN" tag="NN">doro</token>
+		<token id="281" word="klop" en="intransitive verb" type="VB" tag="VB_intr">klop</token>
+		<token id="282" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="27">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Wan fu den go luku, dan den si wan man tnapu.</text>
+	<gloss>One of them goes/went to look, then they see/saw a man standing there.</gloss>
+	<tokens>
+		<token id="283" word="Wan" en="indefinite pronoun" type="PRN" tag="PRN_ind">Wan</token>
+		<token id="284" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="285" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="286" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="287" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="288" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="289" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="290" word="den" en="singular third person pronoun" type="PRN" tag="PRN_3sg">den</token>
+		<token id="291" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="292" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="293" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="294" word="tnapu" en="intransitive verb" type="VB" tag="VB_intr">tnapu</token>
+		<token id="295" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="28">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dan a man taki: ‘Yere, mi yere un de wan club dyaso e prei carta.</text>
+	<gloss>The man says/said: ‘Listen, I hear(d) you have a club here for playing cards</gloss>
+	<tokens>
+		<token id="296" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="297" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="298" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="299" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="300" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="301" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="302" word="Yere" en="intransitive verb" type="VB" tag="VB_intr">Yere</token>
+		<token id="303" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="304" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="305" word="yere" en="transitive verb" type="VB" tag="VB_tran">yere</token>
+		<token id="306" word="un" en="plural first-second person pronoun" type="PRN" tag="PRN_1+2pl">un</token>
+		<token id="307" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="308" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="309" word="club" en="noun" type="NN" tag="NN">club</token>
+		<token id="310" word="dyaso" en="adverb" type="RB" tag="RB">dyaso</token>
+		<token id="311" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="312" word="prei" en="transitive verb" type="VB" tag="VB_tran">prei</token>
+		<token id="313" word="carta" en="noun" type="NN" tag="NN">carta</token>
+		<token id="314" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="29">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Mi kan prei tu?</text>
+	<gloss>Can I play too?</gloss>
+	<tokens>
+		<token id="315" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="316" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="317" word="prei" en="intransitive verb" type="VB" tag="VB_intr">prei</token>
+		<token id="318" word="tu" en="adverb" type="RB" tag="RB">tu</token>
+		<token id="319" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="30">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Den taki: ‘Ai’.</text>
+	<gloss>They say/said: ‘Yes’.</gloss>
+	<tokens>
+		<token id="320" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="321" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="322" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="323" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="324" word="Ai" en="interjection" type="UH" tag="UH">Ai</token>
+		<token id="325" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+		<token id="326" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="31">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A man kon na ini ...</text>
+	<gloss>The man comes/came inside ...</gloss>
+	<tokens>
+		<token id="327" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="328" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="329" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="330" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="331" word="ini" en="noun" type="NN" tag="NN">ini</token>
+		<token id="332" word="..." en="punctuation sign" type="PNCT" tag="PNCT">...</token>
+	</tokens>
+</sentence>
+<sentence id="32">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Den luku makandra, bikasi te wan vreemde sma e kon prei den prei fufuru nanga en.</text>
+	<gloss>They [the men] look/looked at each other, because whenever a stranger comes/came to play they cheat/cheated him.</gloss>
+	<tokens>
+		<token id="333" word="Den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">Den</token>
+		<token id="334" word="luku" en="intransitive verb" type="VB" tag="VB_intr">luku</token>
+		<token id="335" word="makandra" en="adverb" type="RB" tag="RB">makandra</token>
+		<token id="336" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="337" word="bikasi" en="subordinating conjunction" type="CS" tag="CS_expl">bikasi</token>
+		<token id="338" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="339" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="340" word="vreemde" en="attributive adjective" type="JJ" tag="JJ">vreemde</token>
+		<token id="341" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="342" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="343" word="kon" en="verb of movement" type="VB" tag="VB_mov">kon</token>
+		<token id="344" word="prei" en="intransitive verb" type="VB" tag="VB_intr">prei</token>
+		<token id="345" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="346" word="prei" en="intransitive verb" type="VB" tag="VB_intr">prei</token>
+		<token id="347" word="fufuru" en="transitive verb" type="VB" tag="VB_tran">fufuru</token>
+		<token id="348" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="349" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="350" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="33">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 21</source>
+	<attribution>Karta 101-107, 109-110</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dan den sabi taki den e go feni wan man fu den nyan sensi na en skin.</text>
+	<gloss>Then they know/knew they are/were going to find a man from whom they could get money.</gloss>
+	<tokens>
+		<token id="351" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="352" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="353" word="sabi" en="factive verb" type="VB" tag="VB_fact">sabi</token>
+		<token id="354" word="taki" en="complementizer" type="COMPL" tag="COMPL">taki</token>
+		<token id="355" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="356" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="357" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="358" word="feni" en="transitive verb" type="VB" tag="VB_tran">feni</token>
+		<token id="359" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="360" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="361" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="362" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="363" word="nyan" en="intransitive verb" type="VB" tag="VB_intr">nyan</token>
+		<token id="364" word="sensi" en="quantifier" type="AB" tag="AB">sensi</token>
+		<token id="365" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="366" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="367" word="skin" en="noun" type="NN" tag="NN">skin</token>
+		<token id="368" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="34">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 22</source>
+	<attribution>Alexi 76-77</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A ten di den wroko a wroko, a man taki: ‘Ai, no.’</text>
+	<gloss>At the time when they have/had done the job, the men say/said: ‘Yes, no.’</gloss>
+	<tokens>
+		<token id="369" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="370" word="ten" en="nominal adverb" type="RN" tag="RN">ten</token>
+		<token id="371" word="di" en="adverbial relative" type="REL" tag="REL_adv">di</token>
+		<token id="372" word="den" en="plural third person pronoun" type="PRN" tag="PRN_3pl">den</token>
+		<token id="373" word="wroko" en="transitive verb" type="VB" tag="VB_tran">wroko</token>
+		<token id="374" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="375" word="wroko" en="noun" type="NN" tag="NN">wroko</token>
+		<token id="376" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="377" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="378" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="379" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="380" word=":" en="punctuation sign" type="PNCT" tag="PNCT">:</token>
+		<token id="381" word="‘" en="punctuation sign" type="PNCT" tag="PNCT">‘</token>
+		<token id="382" word="Ai" en="interjection" type="UH" tag="UH">Ai</token>
+		<token id="383" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="384" word="no" en="interjection" type="UH" tag="UH">no</token>
+		<token id="385" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+		<token id="386" word="’" en="punctuation sign" type="PNCT" tag="PNCT">’</token>
+	</tokens>
+</sentence>
+<sentence id="35">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 22</source>
+	<attribution>Alexi 76-77</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dan a bun.</text>
+	<gloss>Then it’s good.</gloss>
+	<tokens>
+		<token id="387" word="Dan" en="coordinating conjunction" type="CC" tag="CC_so">Dan</token>
+		<token id="388" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="389" word="bun" en="intransitive verb" type="VB" tag="VB_intr">bun</token>
+		<token id="390" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="36">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 23</source>
+	<attribution>Klagen 009-010</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Mi go tide mi e suku fu bai wan batra oli.</text>
+	<gloss>I went looking today for a bottle of oil to buy. Forty guilder did the man ask for one liter of oil.</gloss>
+	<tokens>
+		<token id="391" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="392" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="393" word="tide" en="nominal adverb" type="RN" tag="RN">tide</token>
+		<token id="394" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="395" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="396" word="suku" en="intransitive verb" type="VB" tag="VB_intr">suku</token>
+		<token id="397" word="fu" en="complementizer" type="COMPL" tag="COMPL">fu</token>
+		<token id="398" word="bai" en="transitive verb" type="VB" tag="VB_tran">bai</token>
+		<token id="399" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="400" word="batra" en="noun" type="NN" tag="NN">batra</token>
+		<token id="401" word="oli" en="noun" type="NN" tag="NN">oli</token>
+		<token id="402" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="37">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 24</source>
+	<attribution>Karta 101</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Ma dan now, wan neti leki fa mi taki, dan den man de na ini a faya fu a prei.</text>
+	<gloss>But now one night, like I said, the men are/were in the thick of the game.</gloss>
+	<tokens>
+		<token id="403" word="Ma" en="coordinating conjunction" type="CC" tag="CC_or">Ma</token>
+		<token id="404" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="405" word="now" en="adverb" type="RB" tag="RB">now</token>
+		<token id="406" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="407" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="408" word="neti" en="nominal adverb" type="RN" tag="RN">neti</token>
+		<token id="409" word="leki fa" en="complementizer" type="COMPL" tag="COMPL">leki fa</token>
+		<token id="410" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="411" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="412" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="413" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="414" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="415" word="man" en="noun" type="NN" tag="NN">man</token>
+		<token id="416" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="417" word="na" en="locative preposition" type="LOC" tag="LOC">na</token>
+		<token id="418" word="ini" en="preposition of place" type="INL" tag="INL">ini</token>
+		<token id="419" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="420" word="faya" en="noun" type="NN" tag="NN">faya</token>
+		<token id="421" word="fu" en="of" type="OF" tag="OF">fu</token>
+		<token id="422" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="423" word="prei" en="noun" type="NN" tag="NN">prei</token>
+		<token id="424" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="38">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 25</source>
+	<attribution>Q87</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A koso wan leysi.</text>
+	<gloss>He coughed once.</gloss>
+	<tokens>
+		<token id="425" word="A" en="singular third person pronoun" type="PRN" tag="PRN_3sg">A</token>
+		<token id="426" word="koso" en="intransitive verb" type="VB" tag="VB_intr">koso</token>
+		<token id="427" word="wan" en="indefinite article" type="AT" tag="AT_ind">wan</token>
+		<token id="428" word="leysi" en="nominal adverb" type="RN" tag="RN">leysi</token>
+		<token id="429" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="39">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 26</source>
+	<attribution>Text 4, 210</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Efu yu wani yu e teki en, efu yu no wani yu no e teki en.</text>
+	<gloss>If you want to [pay a lot], you’re taking it; if you don’t want to [pay a lot], you’re not taking it.</gloss>
+	<tokens>
+		<token id="430" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="431" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="432" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="433" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="434" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="435" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="436" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="437" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="438" word="efu" en="subordinating conjunction" type="CS" tag="CS_if">efu</token>
+		<token id="439" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="440" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="441" word="wani" en="transitive verb" type="VB" tag="VB_tran">wani</token>
+		<token id="442" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="443" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="444" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="445" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="446" word="en" en="singular third person pronoun" type="PRN" tag="PRN_3sg">en</token>
+		<token id="447" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="40">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 27</source>
+	<attribution>Advice 3, 005</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dus ef’ a sma denki f’ a de, a sma kan tan gewoon nanga en pikin te ala sani waka a sma bun.</text>
+	<gloss>Thus, if the person considers how it is, the person can just keep her child, until everything goes well for the person.</gloss>
+	<tokens>
+		<token id="448" word="Dus" en="coordinating conjunction" type="CC" tag="CC_so">Dus</token>
+		<token id="449" word="ef’" en="subordinating conjunction" type="CS" tag="CS_if">ef’</token>
+		<token id="450" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="451" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="452" word="denki" en="transitive verb" type="VB" tag="VB_tran">denki</token>
+		<token id="453" word="f’" en="adverbial relative" type="REL" tag="REL_adv">f’</token>
+		<token id="454" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="455" word="de" en="existential" type="EX" tag="EX">de</token>
+		<token id="456" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="457" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="458" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="459" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="460" word="tan" en="intransitive verb" type="VB" tag="VB_intr">tan</token>
+		<token id="461" word="gewoon" en="adverb" type="RB" tag="RB">gewoon</token>
+		<token id="462" word="nanga" en="instrumental preposition" type="IN" tag="IN_inst">nanga</token>
+		<token id="463" word="en" en="singular third person possessive pronoun" type="PP$" tag="PP$_3sg">en</token>
+		<token id="464" word="pikin" en="noun" type="NN" tag="NN">pikin</token>
+		<token id="465" word="te" en="subordinating conjunction" type="CS" tag="CS_time">te</token>
+		<token id="466" word="ala sani" en="indefinite pronoun" type="PRN" tag="PRN_ind">ala sani</token>
+		<token id="467" word="waka" en="intransitive verb" type="VB" tag="VB_intr">waka</token>
+		<token id="468" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="469" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="470" word="bun" en="adverb" type="RB" tag="RB">bun</token>
+		<token id="471" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="41">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 28</source>
+	<attribution>Alexi 47</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Efu mi teki a wroko disi a mi tapu, a kan koste mi mi libi.</text>
+	<gloss>If I take on this job, it can cost me my life.</gloss>
+	<tokens>
+		<token id="472" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="473" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="474" word="teki" en="transitive verb" type="VB" tag="VB_tran">teki</token>
+		<token id="475" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="476" word="wroko" en="noun" type="NN" tag="NN">wroko</token>
+		<token id="477" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="478" word="a" en="copula" type="COP" tag="COP">a</token>
+		<token id="479" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="480" word="tapu" en="intransitive verb" type="VB" tag="VB_intr">tapu</token>
+		<token id="481" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="482" word="a" en="singular third person pronoun" type="PRN" tag="PRN_3sg">a</token>
+		<token id="483" word="kan" en="modal" type="MD" tag="MD">kan</token>
+		<token id="484" word="koste" en="intransitive verb" type="VB" tag="VB_intr">koste</token>
+		<token id="485" word="mi" en="singular third person pronoun" type="PRN" tag="PRN_3sg">mi</token>
+		<token id="486" word=" mi" en="singular first person possessive pronoun" type="PP$" tag="PP$_1sg"> mi</token>
+		<token id="487" word="libi" en="noun" type="NN" tag="NN">libi</token>
+		<token id="488" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="42">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 33</source>
+	<attribution>Maskita 64</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Mi no e si wan boto, ma mi e si tu boto.</text>
+	<gloss>I don’t see one boat, but I see two boats.</gloss>
+	<tokens>
+		<token id="489" word="Mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">Mi</token>
+		<token id="490" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="491" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="492" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="493" word="wan" en="cardinal number" type="NUMB" tag="NUMB_cd">wan</token>
+		<token id="494" word="boto" en="noun" type="NN" tag="NN">boto</token>
+		<token id="495" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="496" word="ma" en="coordinating conjunction" type="CC" tag="CC_or">ma</token>
+		<token id="497" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="498" word="si" en="transitive verb" type="VB" tag="VB_tran">si</token>
+		<token id="499" word="tu" en="cardinal number" type="NUMB" tag="NUMB_cd">tu</token>
+		<token id="500" word="boto" en="noun" type="NN" tag="NN">boto</token>
+		<token id="501" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="43">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 34</source>
+	<attribution>Karta 75</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Dati wani taki, pe den sma e go go prei karta.</text>
+	<gloss>That is, that’s where the people go to play cards.</gloss>
+	<tokens>
+		<token id="502" word="Dati" en="singular demonstrative pronoun" type="DT" tag="DT_sg">Dati</token>
+		<token id="503" word="wani" en="modal" type="MD" tag="MD">wani</token>
+		<token id="504" word="taki" en="factive verb" type="VB" tag="VB_fact">taki</token>
+		<token id="505" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="506" word="pe" en="adverbial relative" type="REL" tag="REL_adv">pe</token>
+		<token id="507" word="den" en="plural article" type="AT" tag="AT_pl">den</token>
+		<token id="508" word="sma" en="noun" type="NN" tag="NN">sma</token>
+		<token id="509" word="e" en="imperfective marker" type="TAM" tag="TAM_impf">e</token>
+		<token id="510" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="511" word="go" en="verb of movement" type="VB" tag="VB_mov">go</token>
+		<token id="512" word="prei" en="transitive verb" type="VB" tag="VB_tran">prei</token>
+		<token id="513" word="karta" en="noun" type="NN" tag="NN">karta</token>
+		<token id="514" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="44">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 35</source>
+	<attribution>Q79</attribution>
+	<feature>Zero verb marking</feature>
+	<text>A kownu dede.</text>
+	<gloss>The king died.</gloss>
+	<tokens>
+		<token id="515" word="A" en="singular article" type="AT" tag="AT_sg">A</token>
+		<token id="516" word="kownu" en="noun" type="NN" tag="NN">kownu</token>
+		<token id="517" word="dede" en="intransitive verb" type="VB" tag="VB_intr">dede</token>
+		<token id="518" word="." en="punctuation sign" type="PNCT" tag="PNCT">.</token>
+	</tokens>
+</sentence>
+<sentence id="45">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 36</source>
+	<attribution>Q93</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Suma ben bow a oso disi?</text>
+	<gloss>Who built his house?</gloss>
+	<tokens>
+		<token id="519" word="Suma" en="interrogative word" type="WP" tag="WP">Suma</token>
+		<token id="520" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="521" word="bow" en="transitive verb" type="VB" tag="VB_tran">bow</token>
+		<token id="522" word="a" en="singular article" type="AT" tag="AT_sg">a</token>
+		<token id="523" word="oso" en="noun" type="NN" tag="NN">oso</token>
+		<token id="524" word="disi" en="singular demonstrative pronoun" type="DT" tag="DT_sg">disi</token>
+		<token id="525" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
+<sentence id="46">
+	<source>Astrid De Wit, Frank Brisard (2014), Journal of Pidgin and Creole Languages. Vol. 29:1. pp. 1–48. Example 37</source>
+	<attribution>Wilner 2000</attribution>
+	<feature>Zero verb marking</feature>
+	<text>Efu mi no ben abi yu, dan fa mi ben sa bigin dan?</text>
+	<gloss>If I didn’t have you, then how would I begin?</gloss>
+	<tokens>
+		<token id="526" word="Efu" en="subordinating conjunction" type="CS" tag="CS_if">Efu</token>
+		<token id="527" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="528" word="no" en="negation" type="NEG" tag="NEG">no</token>
+		<token id="529" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="530" word="abi" en="transitive verb" type="VB" tag="VB_tran">abi</token>
+		<token id="531" word="yu" en="singular second person pronoun" type="PRN" tag="PRN_2sg">yu</token>
+		<token id="532" word="," en="punctuation sign" type="PNCT" tag="PNCT">,</token>
+		<token id="533" word="dan" en="coordinating conjunction" type="CC" tag="CC_so">dan</token>
+		<token id="534" word="fa" en="interrogative word" type="WP" tag="WP">fa</token>
+		<token id="535" word="mi" en="singular first person pronoun" type="PRN" tag="PRN_1sg">mi</token>
+		<token id="536" word="ben" en="past marker" type="TAM" tag="TAM_past">ben</token>
+		<token id="537" word="sa" en="potential marker" type="TAM" tag="TAM_pot">sa</token>
+		<token id="538" word="bigin" en="intransitive verb" type="VB" tag="VB_intr">bigin</token>
+		<token id="539" word="dan" en="adverb" type="RB" tag="RB">dan</token>
+		<token id="540" word="?" en="punctuation sign" type="PNCT" tag="PNCT">?</token>
+	</tokens>
+</sentence>
