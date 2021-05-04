@@ -12,9 +12,10 @@ The ready-to-use tagger employs a set of 31 tags. It was trained on the followin
 3. *sil1 111_sentences 827_tokens.xml* (Nickel Marilyn; Wilner John, Papers on Sranan Tongo, Summer Institute of Linguistics. 1984)
 4. *sil1 110_sentences 833_tokens.xml* (Nickel Marilyn; Wilner John, Papers on Sranan Tongo, Summer Institute of Linguistics. 1984)
 
-These samples contain manually annotated example sentences extracted from the APiCS database (Winford; Plag, 2013) and from a language description "Papers on Sranan Tongo" (Nickel; Wilner, 1984). These samples are located in the *corpus* folder of this project, along with a few others.
+These samples contain manually annotated example sentences extracted from the APiCS database (Winford; Plag, 2013) and from a language description "Papers on Sranan Tongo" (Nickel; Wilner, 1984). It was assued that the examples from the APiCS database and those given by Nickel and Wilner could account for most
+of the part-of-speech combination sequences in Sranan Tongo, since they are part of works that pursue to describe most of the morphsyntactic features of the language. These samples are located in the *corpus* folder of this project, along with a few others.
 
-The model trained on this samples and tested on *wilner 70_sentences 613_tokens.xml* showed an average precision, recall and f-score of 0.81, 0.81 and 0.79, respectively. These scores can potentially be improved with more training data and a broader lexicon. 
+The model trained on this samples and tested on *wilner 70_sentences 613_tokens.xml* showed an average precision, recall and f-score of 0.81, 0.81 and 0.79, respectively. These scores can potentially be improved with more training data and a broader lexicon.
 
 The file with the compiled lexicon contains 346 entries.
 
